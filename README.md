@@ -12,7 +12,7 @@ PyTorch implementation of "Zero-Shot Voice Cloning Text-to-Speech for Dysphonia 
 This implementation includes **distributed** and **automatic mixed precision** support
 Distributed and Automatic Mixed Precision support relies on NVIDIA's [Apex] and [AMP].
 
-1. Clone this repo: `git clone https://github.com/NVIDIA/tacotron2.git`
+1. Clone this repo: `git clone https://github.com/TitiAffandi/tacotron2-ZS.git`
 2. CD into this repo: `cd tacotron2`
 3. Initialize submodule: `git submodule init; git submodule update`
 4. Install [PyTorch 1.0]
