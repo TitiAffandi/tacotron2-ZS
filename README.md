@@ -39,7 +39,7 @@ and the Mel decoder were trained on the same mel-spectrogram representation.
 
 
 ## Acknowledgements
-This implementation uses code from the following repos:[Rafael Valle](https://github.com/NVIDIA/tacotron2), [Keith
+This implementation uses code from the following repos: [Rafael Valle](https://github.com/NVIDIA/tacotron2), [Keith
 Ito](https://github.com/keithito/tacotron/), [Prem Seetharaman](https://github.com/pseeth/pytorch-stft), [Eren Golge](https://github.com/mozilla/TTS) as described in our code.
 
 
