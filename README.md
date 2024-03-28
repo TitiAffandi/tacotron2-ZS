@@ -38,14 +38,10 @@ and the Mel decoder were trained on the same mel-spectrogram representation.
 
 
 ## Acknowledgements
-This implementation uses code from the following repos:[Rafael Valle](https://github.com/NVIDIA/tacotron2) [Keith
-Ito](https://github.com/keithito/tacotron/), [Prem Seetharaman](https://github.com/pseeth/pytorch-stft) as described in our code.
+This implementation uses code from the following repos:[Rafael Valle](https://github.com/NVIDIA/tacotron2), [Keith
+Ito](https://github.com/keithito/tacotron/), [Prem Seetharaman](https://github.com/pseeth/pytorch-stft), [Eren Golge](https://github.com/mozilla/TTS) as described in our code.
 
 
-[WaveGlow]: https://drive.google.com/file/d/1WsibBTsuRg_SF2Z6L6NFRTT-NjEy1oTx/view?usp=sharing
-[Tacotron 2]: https://drive.google.com/file/d/1c5ZTuT7J08wLUoVZ2KkUs_VdZuJ86ZqA/view?usp=sharing
 [pytorch 1.0]: https://github.com/pytorch/pytorch#installation
-[website]: https://nv-adlr.github.io/WaveGlow
-[ignored]: https://github.com/NVIDIA/tacotron2/blob/master/hparams.py#L22
 [Apex]: https://github.com/nvidia/apex
 [AMP]: https://github.com/NVIDIA/apex/tree/master/apex/amp
