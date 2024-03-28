@@ -1,15 +1,9 @@
-# Tacotron 2 (without wavenet)
+# Tacotron2-ZS (Tacotron2 based Zero-shot Voice Cloning)
 
-PyTorch implementation of [Natural TTS Synthesis By Conditioning
-Wavenet On Mel Spectrogram Predictions](https://arxiv.org/pdf/1712.05884.pdf). 
+PyTorch implementation of "Zero-Shot Voice Cloning Text-to-Speech for Dysphonia Disorder Speakers". 
 
 This implementation includes **distributed** and **automatic mixed precision** support
-and uses the [LJSpeech dataset](https://keithito.com/LJ-Speech-Dataset/).
-
 Distributed and Automatic Mixed Precision support relies on NVIDIA's [Apex] and [AMP].
-
-Visit our [website] for audio samples using our published [Tacotron 2] and
-[WaveGlow] models.
 
 ![Alignment, Predicted Mel Spectrogram, Target Mel Spectrogram](tensorboard.png)
 
@@ -30,18 +24,8 @@ Visit our [website] for audio samples using our published [Tacotron 2] and
     - Install python requirements: `pip install -r requirements.txt`
 
 ## Training
-1. `python train.py --output_directory=outdir --log_directory=logdir`
+1. `python train_ZS.py --output_directory=outdir --log_directory=logdir`
 2. (OPTIONAL) `tensorboard --logdir=outdir/logdir`
-
-## Training using a pre-trained model
-Training using a pre-trained model can lead to faster convergence  
-By default, the dataset dependent text embedding layers are [ignored]
-
-1. Download our published [Tacotron 2] model
-2. `python train.py --output_directory=outdir --log_directory=logdir -c tacotron2_statedict.pt --warm_start`
-
-## Multi-GPU (distributed) and Automatic Mixed Precision Training
-1. `python -m multiproc train.py --output_directory=outdir --log_directory=logdir --hparams=distributed_run=True,fp16_run=True`
 
 ## Inference demo
 1. Download our published [Tacotron 2] model
@@ -53,23 +37,9 @@ N.b.  When performing Mel-Spectrogram to Audio synthesis, make sure Tacotron 2
 and the Mel decoder were trained on the same mel-spectrogram representation. 
 
 
-## Related repos
-[WaveGlow](https://github.com/NVIDIA/WaveGlow) Faster than real time Flow-based
-Generative Network for Speech Synthesis
-
-[nv-wavenet](https://github.com/NVIDIA/nv-wavenet/) Faster than real time
-WaveNet.
-
 ## Acknowledgements
-This implementation uses code from the following repos: [Keith
-Ito](https://github.com/keithito/tacotron/), [Prem
-Seetharaman](https://github.com/pseeth/pytorch-stft) as described in our code.
-
-We are inspired by [Ryuchi Yamamoto's](https://github.com/r9y9/tacotron_pytorch)
-Tacotron PyTorch implementation.
-
-We are thankful to the Tacotron 2 paper authors, specially Jonathan Shen, Yuxuan
-Wang and Zongheng Yang.
+This implementation uses code from the following repos:[Rafael Valle](https://github.com/NVIDIA/tacotron2) [Keith
+Ito](https://github.com/keithito/tacotron/), [Prem Seetharaman](https://github.com/pseeth/pytorch-stft) as described in our code.
 
 
 [WaveGlow]: https://drive.google.com/file/d/1WsibBTsuRg_SF2Z6L6NFRTT-NjEy1oTx/view?usp=sharing
