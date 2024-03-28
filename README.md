@@ -2,9 +2,6 @@
 
 PyTorch implementation of "Zero-Shot Voice Cloning Text-to-Speech for Dysphonia Disorder Speakers". 
 
-This implementation includes **distributed** and **automatic mixed precision** support
-Distributed and Automatic Mixed Precision support relies on NVIDIA's [Apex] and [AMP].
-
 ![Alignment, Predicted Mel Spectrogram, Target Mel Spectrogram](tensorboard.png)
 
 
@@ -12,16 +9,20 @@ Distributed and Automatic Mixed Precision support relies on NVIDIA's [Apex] and 
 1. NVIDIA GPU + CUDA cuDNN
 
 ## Setup
-1. Download and extract the [LJ Speech dataset](https://keithito.com/LJ-Speech-Dataset/)
-2. Clone this repo: `git clone https://github.com/NVIDIA/tacotron2.git`
-3. CD into this repo: `cd tacotron2`
-4. Initialize submodule: `git submodule init; git submodule update`
-5. Update .wav paths: `sed -i -- 's,DUMMY,ljs_dataset_folder/wavs,g' filelists/*.txt`
-    - Alternatively, set `load_mel_from_disk=True` in `hparams.py` and update mel-spectrogram paths 
-6. Install [PyTorch 1.0]
-7. Install [Apex]
-8. Install python requirements or build docker image 
+This implementation includes **distributed** and **automatic mixed precision** support
+Distributed and Automatic Mixed Precision support relies on NVIDIA's [Apex] and [AMP].
+
+1. Clone this repo: `git clone https://github.com/NVIDIA/tacotron2.git`
+2. CD into this repo: `cd tacotron2`
+3. Initialize submodule: `git submodule init; git submodule update`
+4. Install [PyTorch 1.0]
+5. Install [Apex]
+6. Install python requirements or build docker image 
     - Install python requirements: `pip install -r requirements.txt`
+
+## Dataset 
+1. Training dataset: LibriTTS-Train360 that can be downloaded from [LibriTTS dataset](https://www.openslr.org/resources/60/)
+2. Testing dataset: UncommonVoice dataset that can be requested from [UncommonVoice](https://merriekay.com/uncommonvoice)
 
 ## Training
 1. `python train_ZS.py --output_directory=outdir --log_directory=logdir`
