@@ -32,8 +32,8 @@ Distributed and Automatic Mixed Precision support relies on NVIDIA's [Apex] and 
 1. Speech samples demo can be accessed from [ZS_voicecloning demo] (https://zs_voicecloning.jarkom.cs.ui.ac.id/) 
 
 ## Acknowledgements
-This implementation uses code from the following repos: [Rafael Valle](https://github.com/NVIDIA/tacotron2), [Keith
-Ito](https://github.com/keithito/tacotron/), [Prem Seetharaman](https://github.com/pseeth/pytorch-stft), [Eren Golge](https://github.com/mozilla/TTS) as described in our code.
+This implementation is forked from [Rafael Valle](https://github.com/NVIDIA/tacotron2).
+This implementation also uses code from the following repos: [Keith Ito](https://github.com/keithito/tacotron/), [Prem Seetharaman](https://github.com/pseeth/pytorch-stft), [Eren Golge](https://github.com/mozilla/TTS) as described in our code.
 
 
 [pytorch 1.0]: https://github.com/pytorch/pytorch#installation
