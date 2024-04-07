@@ -2,7 +2,11 @@
 
 PyTorch implementation of "Zero-Shot Voice Cloning Text-to-Speech for Dysphonia Disorder Speakers". 
 
-![Alignment, Predicted Mel Spectrogram, Target Mel Spectrogram](tensorboard.png)
+## Model Inference
+![Model Inference](ZS-TTS-Dysphonia-Inference.drawio)
+
+## Model Training
+![Model Training](ZS-TTS-Dysphonia-Training.drawio)
 
 
 ## Pre-requisites
