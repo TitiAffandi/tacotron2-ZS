@@ -28,15 +28,8 @@ Distributed and Automatic Mixed Precision support relies on NVIDIA's [Apex] and 
 1. `python train_ZS.py --output_directory=outdir --log_directory=logdir`
 2. (OPTIONAL) `tensorboard --logdir=outdir/logdir`
 
-## Inference demo
-1. Download our published [Tacotron 2] model
-2. Download our published [WaveGlow] model
-3. `jupyter notebook --ip=127.0.0.1 --port=31337`
-4. Load inference.ipynb 
-
-N.b.  When performing Mel-Spectrogram to Audio synthesis, make sure Tacotron 2
-and the Mel decoder were trained on the same mel-spectrogram representation. 
-
+## Demo
+1. Speech samples demo can be accessed from [ZS_voicecloning demo] (https://zs_voicecloning.jarkom.cs.ui.ac.id/) 
 
 ## Acknowledgements
 This implementation uses code from the following repos: [Rafael Valle](https://github.com/NVIDIA/tacotron2), [Keith
