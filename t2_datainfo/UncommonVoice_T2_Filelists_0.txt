@@ -1,0 +1,671 @@
+../dataset/UncommonVoice_22050Hz/FC12_T2_cape-v1_NA.wav|The blue spot is on the key again.|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_cape-v4_NA.wav|We eat eggs every Easter.|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_cape-v5_NA.wav|My mama makes lemon muffins.|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_cape-v6_NA.wav|Peter will keep at the peak.|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_sa1_NA.wav|she had your dark suit in greasy wash water all year|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_sa2_NA.wav|don't ask me to carry an oily rag like that|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si1000_NA.wav|soon the office work claimed all her time|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si1004_NA.wav|palm oil protects the surfaces of steel sheets before they are plated with tin|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si1014_NA.wav|beer generally fermented from barley is an old alcoholic beverage|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si1016_NA.wav|to keep them scattered somewhat and yet herd them was called loose herding|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si1027_NA.wav|even then if she took one step forward he could catch her|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si1037_NA.wav|the revised procedure was acclaimed as a long overdue reform|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si1039_NA.wav|he has never himself done anything for which to be hated which of us has|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si1055_NA.wav|internal national responsibility now a truism need not be documented|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si1058_NA.wav|readiness exercises are almost continuous|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si1063_NA.wav|no question ruffles him or causes him to hesitate|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si1074_NA.wav|he gazed away from us as we approached|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si1083_NA.wav|the system works as an impersonal mechanism|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si1927_NA.wav|you do that or take you out a permit right now|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si1934_NA.wav|wait a little while|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si1946_NA.wav|the rustling problem was by no means solved|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si1949_NA.wav|who told you to do it|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si1955_NA.wav|like enough we'll all be up on top by sundown|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si1956_NA.wav|a single kick made it spring open shuddering|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si1957_NA.wav|clapping spurs to the bronc he set off at a sharp canter with growing alarm|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si1969_NA.wav|if any of us miss they can pick up the pieces|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si1980_NA.wav|high so it only bounce harmlessly but loudly off a car's steel roof|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si1981_NA.wav|on unoccupied roadway the bottle shattered into a small amber flash|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si1982_NA.wav|two cars came over a crest their chrome and glass flashing|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si1997_NA.wav|like as if it were built of books|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si2003_NA.wav|in a way he couldn't blame her|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si2022_NA.wav|what outfit does she drive for|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si2028_NA.wav|he took his mask from his forehead and threw it unexpectedly across the deck|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si453_NA.wav|everything went real smooth the sheriff said|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si456_NA.wav|two other cases also were under advisement|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si458_NA.wav|this is not a program of socialized medicine|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si462_NA.wav|it also provides for funds to clear slums and help colleges build dormitories|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si464_NA.wav|the prospect of cutting back spending is an unpleasant one for any governor|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si475_NA.wav|they will take a wedding trip later|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si486_NA.wav|it was time to go up myself|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si508_NA.wav|mollusks are a case in point|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si516_NA.wav|some observers speculated that this might be his revenge on his home town|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si524_NA.wav|within a system however the autonomy of each member library is preserved|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si530_NA.wav|his election on the other hand would unquestionably strengthen the regulars|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si538_NA.wav|county officials have cooperated consistently|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si539_NA.wav|but that heritage is shrinking even faster|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si545_NA.wav|but how little love we give him|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si548_NA.wav|never happier in my life|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si556_NA.wav|we did not accept the diagnosis at once but gradually we are coming to|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_si999_NA.wav|now the school was indeed bereft|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_sx147_NA.wav|correct execution of my instructions is crucial|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_sx148_NA.wav|most precincts had a third of the votes counted|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_sx149_NA.wav|while waiting for chipper she crisscrossed the square many times|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_sx151_NA.wav|the previous speaker presented ambiguous results|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_sx153_NA.wav|scholastic aptitude is judged by standardized tests|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_sx155_NA.wav|the water contained too much chlorine and stung his eyes|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_sx158_NA.wav|the drunkard is a social outcast|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_sx162_NA.wav|her auburn hair reminded him of autumn leaves|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_sx167_NA.wav|employee layoffs coincided with the company's reorganization|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_sx168_NA.wav|who took the kayak down the bayou|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_sx172_NA.wav|the triumphant warrior exhibited naive heroism|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_sx174_NA.wav|the haunted house was a hit due to outstanding audio visual effects|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_sx425_NA.wav|movies never have enough villains|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_sx426_NA.wav|a moth zig zagged along the path through otto's garden|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_sx428_NA.wav|a crab challenged me but a quick stab vanquished him|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_sx432_NA.wav|coffee is grown on steep jungle like slopes in temperate zones|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_sx433_NA.wav|the overweight charmer could slip poison into anyone's tea|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_sx434_NA.wav|each stag surely finds a big fawn|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_sx437_NA.wav|they used an aggressive policeman to flag thoughtless motorists|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_sx438_NA.wav|shell shock caused by shrapnel is sometimes cured through group therapy|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_sx439_NA.wav|that stinging vapor was caused by chloride vaporization|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_sx441_NA.wav|don't look for group valuables in a bank vault|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_sx442_NA.wav|suburban housewives often suffer from the gab habit|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_sx444_NA.wav|the toddler found a clamshell near the camp site|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_sx447_NA.wav|first add milk to the shredded cheese|en|FC12
+../dataset/UncommonVoice_22050Hz/FC12_T2_sx448_NA.wav|spherical gifts are difficult to wrap|en|FC12
+../dataset/UncommonVoice_22050Hz/FC23_T2_cape-v1_NA.wav|The blue spot is on the key again.|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_cape-v2_NA.wav|How hard did he hit him?|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_cape-v3_NA.wav|We were away a year ago. |en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_cape-v5_NA.wav|My mama makes lemon muffins.|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_sa1_NA.wav|she had your dark suit in greasy wash water all year|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_si1000_NA.wav|soon the office work claimed all her time|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_si1014_NA.wav|beer generally fermented from barley is an old alcoholic beverage|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_si1027_NA.wav|even then if she took one step forward he could catch her|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_si1037_NA.wav|the revised procedure was acclaimed as a long overdue reform|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_si1039_NA.wav|he has never himself done anything for which to be hated which of us has|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_si1055_NA.wav|internal national responsibility now a truism need not be documented|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_si1058_NA.wav|readiness exercises are almost continuous|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_si1063_NA.wav|no question ruffles him or causes him to hesitate|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_si1083_NA.wav|the system works as an impersonal mechanism|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_si1934_NA.wav|wait a little while|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_si1946_NA.wav|the rustling problem was by no means solved|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_si1955_NA.wav|like enough we'll all be up on top by sundown|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_si1983_NA.wav|brakes shrieked behind us|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_si1997_NA.wav|like as if it were built of books|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_si2003_NA.wav|in a way he couldn't blame her|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_si2022_NA.wav|what outfit does she drive for|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_si2028_NA.wav|he took his mask from his forehead and threw it unexpectedly across the deck|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_si458_NA.wav|this is not a program of socialized medicine|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_si475_NA.wav|they will take a wedding trip later|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_si481_NA.wav|this he added brought about petty jealousies and petty personal grievances|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_si486_NA.wav|it was time to go up myself|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_si508_NA.wav|mollusks are a case in point|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_si538_NA.wav|county officials have cooperated consistently|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_si545_NA.wav|but how little love we give him|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_si556_NA.wav|we did not accept the diagnosis at once but gradually we are coming to|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_sx148_NA.wav|most precincts had a third of the votes counted|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_sx151_NA.wav|the previous speaker presented ambiguous results|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_sx153_NA.wav|scholastic aptitude is judged by standardized tests|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_sx155_NA.wav|the water contained too much chlorine and stung his eyes|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_sx156_NA.wav|our experiment's positive outcome was unexpected|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_sx168_NA.wav|who took the kayak down the bayou|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_sx169_NA.wav|how would you evaluate this algebraic expression|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_sx172_NA.wav|the triumphant warrior exhibited naive heroism|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_sx425_NA.wav|movies never have enough villains|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_sx426_NA.wav|a moth zig zagged along the path through otto's garden|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_sx428_NA.wav|a crab challenged me but a quick stab vanquished him|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_sx434_NA.wav|each stag surely finds a big fawn|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_sx437_NA.wav|they used an aggressive policeman to flag thoughtless motorists|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_sx438_NA.wav|shell shock caused by shrapnel is sometimes cured through group therapy|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_sx441_NA.wav|don't look for group valuables in a bank vault|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_sx442_NA.wav|suburban housewives often suffer from the gab habit|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_sx444_NA.wav|the toddler found a clamshell near the camp site|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_sx447_NA.wav|first add milk to the shredded cheese|en|FC23
+../dataset/UncommonVoice_22050Hz/FC23_T2_sx448_NA.wav|spherical gifts are difficult to wrap|en|FC23
+../dataset/UncommonVoice_22050Hz/FC36_T2_cape-v1_NA.wav|The blue spot is on the key again.|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_cape-v2_NA.wav|How hard did he hit him?|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_cape-v3_NA.wav|We were away a year ago. |en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_cape-v4_NA.wav|We eat eggs every Easter.|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_cape-v5_NA.wav|My mama makes lemon muffins.|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_cape-v6_NA.wav|Peter will keep at the peak.|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_sa1_NA.wav|she had your dark suit in greasy wash water all year|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_sa2_NA.wav|don't ask me to carry an oily rag like that|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si1000_NA.wav|soon the office work claimed all her time|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si1004_NA.wav|palm oil protects the surfaces of steel sheets before they are plated with tin|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si1014_NA.wav|beer generally fermented from barley is an old alcoholic beverage|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si1016_NA.wav|to keep them scattered somewhat and yet herd them was called loose herding|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si1027_NA.wav|even then if she took one step forward he could catch her|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si1037_NA.wav|the revised procedure was acclaimed as a long overdue reform|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si1039_NA.wav|he has never himself done anything for which to be hated which of us has|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si1058_NA.wav|readiness exercises are almost continuous|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si1063_NA.wav|no question ruffles him or causes him to hesitate|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si1074_NA.wav|he gazed away from us as we approached|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si1083_NA.wav|the system works as an impersonal mechanism|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si1927_NA.wav|you do that or take you out a permit right now|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si1934_NA.wav|wait a little while|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si1946_NA.wav|the rustling problem was by no means solved|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si1949_NA.wav|who told you to do it|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si1955_NA.wav|like enough we'll all be up on top by sundown|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si1956_NA.wav|a single kick made it spring open shuddering|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si1957_NA.wav|clapping spurs to the bronc he set off at a sharp canter with growing alarm|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si1969_NA.wav|if any of us miss they can pick up the pieces|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si1977_NA.wav|he fought the panic of vertigo|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si1980_NA.wav|high so it only bounce harmlessly but loudly off a car's steel roof|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si1981_NA.wav|on unoccupied roadway the bottle shattered into a small amber flash|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si1982_NA.wav|two cars came over a crest their chrome and glass flashing|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si1983_NA.wav|brakes shrieked behind us|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si1997_NA.wav|like as if it were built of books|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si2003_NA.wav|in a way he couldn't blame her|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si2022_NA.wav|what outfit does she drive for|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si2028_NA.wav|he took his mask from his forehead and threw it unexpectedly across the deck|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si453_NA.wav|everything went real smooth the sheriff said|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si456_NA.wav|two other cases also were under advisement|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si458_NA.wav|this is not a program of socialized medicine|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si462_NA.wav|it also provides for funds to clear slums and help colleges build dormitories|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si464_NA.wav|the prospect of cutting back spending is an unpleasant one for any governor|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si475_NA.wav|they will take a wedding trip later|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si481_NA.wav|this he added brought about petty jealousies and petty personal grievances|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si486_NA.wav|it was time to go up myself|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si505_NA.wav|this excellent foreign bomb takes only six|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si508_NA.wav|mollusks are a case in point|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si516_NA.wav|some observers speculated that this might be his revenge on his home town|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si524_NA.wav|within a system however the autonomy of each member library is preserved|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si530_NA.wav|his election on the other hand would unquestionably strengthen the regulars|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si538_NA.wav|county officials have cooperated consistently|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si539_NA.wav|but that heritage is shrinking even faster|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si545_NA.wav|but how little love we give him|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si548_NA.wav|never happier in my life|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si556_NA.wav|we did not accept the diagnosis at once but gradually we are coming to|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_si999_NA.wav|now the school was indeed bereft|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_sx147_NA.wav|correct execution of my instructions is crucial|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_sx148_NA.wav|most precincts had a third of the votes counted|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_sx149_NA.wav|while waiting for chipper she crisscrossed the square many times|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_sx151_NA.wav|the previous speaker presented ambiguous results|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_sx153_NA.wav|scholastic aptitude is judged by standardized tests|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_sx155_NA.wav|the water contained too much chlorine and stung his eyes|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_sx156_NA.wav|our experiment's positive outcome was unexpected|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_sx158_NA.wav|the drunkard is a social outcast|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_sx162_NA.wav|her auburn hair reminded him of autumn leaves|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_sx163_NA.wav|they remained lifelong friends and companions|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_sx164_NA.wav|curiosity and mediocrity seldom coexist|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_sx167_NA.wav|employee layoffs coincided with the company's reorganization|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_sx168_NA.wav|who took the kayak down the bayou|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_sx169_NA.wav|how would you evaluate this algebraic expression|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_sx171_NA.wav|the diagnosis was discouraging however he was not overly worried|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_sx172_NA.wav|the triumphant warrior exhibited naive heroism|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_sx174_NA.wav|the haunted house was a hit due to outstanding audio visual effects|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_sx425_NA.wav|movies never have enough villains|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_sx426_NA.wav|a moth zig zagged along the path through otto's garden|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_sx428_NA.wav|a crab challenged me but a quick stab vanquished him|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_sx432_NA.wav|coffee is grown on steep jungle like slopes in temperate zones|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_sx433_NA.wav|the overweight charmer could slip poison into anyone's tea|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_sx434_NA.wav|each stag surely finds a big fawn|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_sx437_NA.wav|they used an aggressive policeman to flag thoughtless motorists|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_sx438_NA.wav|shell shock caused by shrapnel is sometimes cured through group therapy|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_sx439_NA.wav|that stinging vapor was caused by chloride vaporization|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_sx441_NA.wav|don't look for group valuables in a bank vault|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_sx442_NA.wav|suburban housewives often suffer from the gab habit|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_sx444_NA.wav|the toddler found a clamshell near the camp site|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_sx447_NA.wav|first add milk to the shredded cheese|en|FC36
+../dataset/UncommonVoice_22050Hz/FC36_T2_sx448_NA.wav|spherical gifts are difficult to wrap|en|FC36
+../dataset/UncommonVoice_22050Hz/FC38_T2_cape-v1_NA.wav|The blue spot is on the key again.|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_cape-v2_NA.wav|How hard did he hit him?|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_cape-v3_NA.wav|We were away a year ago. |en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_cape-v4_NA.wav|We eat eggs every Easter.|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_cape-v5_NA.wav|My mama makes lemon muffins.|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_cape-v6_NA.wav|Peter will keep at the peak.|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_sa1_NA.wav|she had your dark suit in greasy wash water all year|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si1004_NA.wav|palm oil protects the surfaces of steel sheets before they are plated with tin|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si1014_NA.wav|beer generally fermented from barley is an old alcoholic beverage|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si1016_NA.wav|to keep them scattered somewhat and yet herd them was called loose herding|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si1027_NA.wav|even then if she took one step forward he could catch her|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si1037_NA.wav|the revised procedure was acclaimed as a long overdue reform|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si1039_NA.wav|he has never himself done anything for which to be hated which of us has|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si1055_NA.wav|internal national responsibility now a truism need not be documented|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si1058_NA.wav|readiness exercises are almost continuous|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si1063_NA.wav|no question ruffles him or causes him to hesitate|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si1074_NA.wav|he gazed away from us as we approached|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si1083_NA.wav|the system works as an impersonal mechanism|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si1927_NA.wav|you do that or take you out a permit right now|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si1934_NA.wav|wait a little while|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si1946_NA.wav|the rustling problem was by no means solved|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si1949_NA.wav|who told you to do it|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si1956_NA.wav|a single kick made it spring open shuddering|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si1957_NA.wav|clapping spurs to the bronc he set off at a sharp canter with growing alarm|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si1969_NA.wav|if any of us miss they can pick up the pieces|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si1977_NA.wav|he fought the panic of vertigo|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si1980_NA.wav|high so it only bounce harmlessly but loudly off a car's steel roof|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si1981_NA.wav|on unoccupied roadway the bottle shattered into a small amber flash|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si1982_NA.wav|two cars came over a crest their chrome and glass flashing|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si1983_NA.wav|brakes shrieked behind us|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si1997_NA.wav|like as if it were built of books|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si2003_NA.wav|in a way he couldn't blame her|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si2022_NA.wav|what outfit does she drive for|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si2028_NA.wav|he took his mask from his forehead and threw it unexpectedly across the deck|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si453_NA.wav|everything went real smooth the sheriff said|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si456_NA.wav|two other cases also were under advisement|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si458_NA.wav|this is not a program of socialized medicine|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si462_NA.wav|it also provides for funds to clear slums and help colleges build dormitories|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si464_NA.wav|the prospect of cutting back spending is an unpleasant one for any governor|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si475_NA.wav|they will take a wedding trip later|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si481_NA.wav|this he added brought about petty jealousies and petty personal grievances|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si505_NA.wav|this excellent foreign bomb takes only six|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si508_NA.wav|mollusks are a case in point|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si516_NA.wav|some observers speculated that this might be his revenge on his home town|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si524_NA.wav|within a system however the autonomy of each member library is preserved|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si530_NA.wav|his election on the other hand would unquestionably strengthen the regulars|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si538_NA.wav|county officials have cooperated consistently|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si539_NA.wav|but that heritage is shrinking even faster|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si545_NA.wav|but how little love we give him|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si548_NA.wav|never happier in my life|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si556_NA.wav|we did not accept the diagnosis at once but gradually we are coming to|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_si999_NA.wav|now the school was indeed bereft|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_sx147_NA.wav|correct execution of my instructions is crucial|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_sx148_NA.wav|most precincts had a third of the votes counted|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_sx149_NA.wav|while waiting for chipper she crisscrossed the square many times|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_sx151_NA.wav|the previous speaker presented ambiguous results|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_sx153_NA.wav|scholastic aptitude is judged by standardized tests|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_sx155_NA.wav|the water contained too much chlorine and stung his eyes|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_sx158_NA.wav|the drunkard is a social outcast|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_sx162_NA.wav|her auburn hair reminded him of autumn leaves|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_sx164_NA.wav|curiosity and mediocrity seldom coexist|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_sx168_NA.wav|who took the kayak down the bayou|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_sx169_NA.wav|how would you evaluate this algebraic expression|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_sx172_NA.wav|the triumphant warrior exhibited naive heroism|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_sx174_NA.wav|the haunted house was a hit due to outstanding audio visual effects|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_sx425_NA.wav|movies never have enough villains|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_sx426_NA.wav|a moth zig zagged along the path through otto's garden|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_sx428_NA.wav|a crab challenged me but a quick stab vanquished him|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_sx434_NA.wav|each stag surely finds a big fawn|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_sx437_NA.wav|they used an aggressive policeman to flag thoughtless motorists|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_sx438_NA.wav|shell shock caused by shrapnel is sometimes cured through group therapy|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_sx439_NA.wav|that stinging vapor was caused by chloride vaporization|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_sx444_NA.wav|the toddler found a clamshell near the camp site|en|FC38
+../dataset/UncommonVoice_22050Hz/FC38_T2_sx448_NA.wav|spherical gifts are difficult to wrap|en|FC38
+../dataset/UncommonVoice_22050Hz/FC41_T2_cape-v1_NA.wav|The blue spot is on the key again.|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_cape-v2_NA.wav|How hard did he hit him?|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_cape-v3_NA.wav|We were away a year ago. |en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_cape-v4_NA.wav|We eat eggs every Easter.|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_cape-v5_NA.wav|My mama makes lemon muffins.|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_cape-v6_NA.wav|Peter will keep at the peak.|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_sa1_NA.wav|she had your dark suit in greasy wash water all year|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_sa2_NA.wav|don't ask me to carry an oily rag like that|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si1000_NA.wav|soon the office work claimed all her time|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si1004_NA.wav|palm oil protects the surfaces of steel sheets before they are plated with tin|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si1014_NA.wav|beer generally fermented from barley is an old alcoholic beverage|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si1016_NA.wav|to keep them scattered somewhat and yet herd them was called loose herding|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si1027_NA.wav|even then if she took one step forward he could catch her|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si1037_NA.wav|the revised procedure was acclaimed as a long overdue reform|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si1039_NA.wav|he has never himself done anything for which to be hated which of us has|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si1055_NA.wav|internal national responsibility now a truism need not be documented|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si1058_NA.wav|readiness exercises are almost continuous|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si1063_NA.wav|no question ruffles him or causes him to hesitate|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si1074_NA.wav|he gazed away from us as we approached|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si1083_NA.wav|the system works as an impersonal mechanism|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si1927_NA.wav|you do that or take you out a permit right now|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si1934_NA.wav|wait a little while|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si1946_NA.wav|the rustling problem was by no means solved|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si1949_NA.wav|who told you to do it|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si1955_NA.wav|like enough we'll all be up on top by sundown|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si1956_NA.wav|a single kick made it spring open shuddering|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si1957_NA.wav|clapping spurs to the bronc he set off at a sharp canter with growing alarm|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si1969_NA.wav|if any of us miss they can pick up the pieces|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si1977_NA.wav|he fought the panic of vertigo|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si1980_NA.wav|high so it only bounce harmlessly but loudly off a car's steel roof|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si1981_NA.wav|on unoccupied roadway the bottle shattered into a small amber flash|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si1982_NA.wav|two cars came over a crest their chrome and glass flashing|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si1983_NA.wav|brakes shrieked behind us|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si1997_NA.wav|like as if it were built of books|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si2003_NA.wav|in a way he couldn't blame her|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si2022_NA.wav|what outfit does she drive for|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si2028_NA.wav|he took his mask from his forehead and threw it unexpectedly across the deck|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si453_NA.wav|everything went real smooth the sheriff said|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si456_NA.wav|two other cases also were under advisement|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si458_NA.wav|this is not a program of socialized medicine|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si462_NA.wav|it also provides for funds to clear slums and help colleges build dormitories|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si464_NA.wav|the prospect of cutting back spending is an unpleasant one for any governor|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si475_NA.wav|they will take a wedding trip later|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si481_NA.wav|this he added brought about petty jealousies and petty personal grievances|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si486_NA.wav|it was time to go up myself|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si505_NA.wav|this excellent foreign bomb takes only six|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si508_NA.wav|mollusks are a case in point|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si516_NA.wav|some observers speculated that this might be his revenge on his home town|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si524_NA.wav|within a system however the autonomy of each member library is preserved|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si530_NA.wav|his election on the other hand would unquestionably strengthen the regulars|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si538_NA.wav|county officials have cooperated consistently|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si539_NA.wav|but that heritage is shrinking even faster|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si545_NA.wav|but how little love we give him|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si548_NA.wav|never happier in my life|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si556_NA.wav|we did not accept the diagnosis at once but gradually we are coming to|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_si999_NA.wav|now the school was indeed bereft|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_sx147_NA.wav|correct execution of my instructions is crucial|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_sx148_NA.wav|most precincts had a third of the votes counted|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_sx149_NA.wav|while waiting for chipper she crisscrossed the square many times|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_sx151_NA.wav|the previous speaker presented ambiguous results|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_sx153_NA.wav|scholastic aptitude is judged by standardized tests|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_sx155_NA.wav|the water contained too much chlorine and stung his eyes|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_sx156_NA.wav|our experiment's positive outcome was unexpected|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_sx158_NA.wav|the drunkard is a social outcast|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_sx162_NA.wav|her auburn hair reminded him of autumn leaves|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_sx163_NA.wav|they remained lifelong friends and companions|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_sx164_NA.wav|curiosity and mediocrity seldom coexist|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_sx167_NA.wav|employee layoffs coincided with the company's reorganization|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_sx168_NA.wav|who took the kayak down the bayou|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_sx169_NA.wav|how would you evaluate this algebraic expression|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_sx171_NA.wav|the diagnosis was discouraging however he was not overly worried|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_sx172_NA.wav|the triumphant warrior exhibited naive heroism|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_sx174_NA.wav|the haunted house was a hit due to outstanding audio visual effects|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_sx425_NA.wav|movies never have enough villains|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_sx426_NA.wav|a moth zig zagged along the path through otto's garden|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_sx428_NA.wav|a crab challenged me but a quick stab vanquished him|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_sx432_NA.wav|coffee is grown on steep jungle like slopes in temperate zones|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_sx433_NA.wav|the overweight charmer could slip poison into anyone's tea|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_sx434_NA.wav|each stag surely finds a big fawn|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_sx437_NA.wav|they used an aggressive policeman to flag thoughtless motorists|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_sx438_NA.wav|shell shock caused by shrapnel is sometimes cured through group therapy|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_sx439_NA.wav|that stinging vapor was caused by chloride vaporization|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_sx441_NA.wav|don't look for group valuables in a bank vault|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_sx442_NA.wav|suburban housewives often suffer from the gab habit|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_sx444_NA.wav|the toddler found a clamshell near the camp site|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_sx447_NA.wav|first add milk to the shredded cheese|en|FC41
+../dataset/UncommonVoice_22050Hz/FC41_T2_sx448_NA.wav|spherical gifts are difficult to wrap|en|FC41
+../dataset/UncommonVoice_22050Hz/FC45_T2_cape-v4_NA.wav|We eat eggs every Easter.|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_cape-v6_NA.wav|Peter will keep at the peak.|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_sa2_NA.wav|don't ask me to carry an oily rag like that|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_si1000_NA.wav|soon the office work claimed all her time|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_si1014_NA.wav|beer generally fermented from barley is an old alcoholic beverage|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_si1027_NA.wav|even then if she took one step forward he could catch her|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_si1074_NA.wav|he gazed away from us as we approached|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_si1083_NA.wav|the system works as an impersonal mechanism|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_si1927_NA.wav|you do that or take you out a permit right now|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_si1934_NA.wav|wait a little while|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_si1946_NA.wav|the rustling problem was by no means solved|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_si1956_NA.wav|a single kick made it spring open shuddering|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_si1969_NA.wav|if any of us miss they can pick up the pieces|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_si1980_NA.wav|high so it only bounce harmlessly but loudly off a car's steel roof|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_si1983_NA.wav|brakes shrieked behind us|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_si1997_NA.wav|like as if it were built of books|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_si2022_NA.wav|what outfit does she drive for|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_si2028_NA.wav|he took his mask from his forehead and threw it unexpectedly across the deck|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_si456_NA.wav|two other cases also were under advisement|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_si458_NA.wav|this is not a program of socialized medicine|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_si462_NA.wav|it also provides for funds to clear slums and help colleges build dormitories|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_si475_NA.wav|they will take a wedding trip later|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_si481_NA.wav|this he added brought about petty jealousies and petty personal grievances|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_si516_NA.wav|some observers speculated that this might be his revenge on his home town|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_si524_NA.wav|within a system however the autonomy of each member library is preserved|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_si530_NA.wav|his election on the other hand would unquestionably strengthen the regulars|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_si538_NA.wav|county officials have cooperated consistently|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_si545_NA.wav|but how little love we give him|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_si999_NA.wav|now the school was indeed bereft|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_sx148_NA.wav|most precincts had a third of the votes counted|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_sx149_NA.wav|while waiting for chipper she crisscrossed the square many times|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_sx153_NA.wav|scholastic aptitude is judged by standardized tests|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_sx156_NA.wav|our experiment's positive outcome was unexpected|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_sx158_NA.wav|the drunkard is a social outcast|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_sx167_NA.wav|employee layoffs coincided with the company's reorganization|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_sx171_NA.wav|the diagnosis was discouraging however he was not overly worried|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_sx172_NA.wav|the triumphant warrior exhibited naive heroism|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_sx432_NA.wav|coffee is grown on steep jungle like slopes in temperate zones|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_sx433_NA.wav|the overweight charmer could slip poison into anyone's tea|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_sx439_NA.wav|that stinging vapor was caused by chloride vaporization|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_sx444_NA.wav|the toddler found a clamshell near the camp site|en|FC45
+../dataset/UncommonVoice_22050Hz/FC45_T2_sx447_NA.wav|first add milk to the shredded cheese|en|FC45
+../dataset/UncommonVoice_22050Hz/MC04_T2_cape-v1_NA.wav|The blue spot is on the key again.|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_cape-v2_NA.wav|How hard did he hit him?|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_cape-v3_NA.wav|We were away a year ago. |en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_cape-v4_NA.wav|We eat eggs every Easter.|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_cape-v5_NA.wav|My mama makes lemon muffins.|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_cape-v6_NA.wav|Peter will keep at the peak.|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_sa1_NA.wav|she had your dark suit in greasy wash water all year|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_sa2_NA.wav|don't ask me to carry an oily rag like that|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si1000_NA.wav|soon the office work claimed all her time|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si1004_NA.wav|palm oil protects the surfaces of steel sheets before they are plated with tin|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si1014_NA.wav|beer generally fermented from barley is an old alcoholic beverage|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si1016_NA.wav|to keep them scattered somewhat and yet herd them was called loose herding|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si1027_NA.wav|even then if she took one step forward he could catch her|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si1037_NA.wav|the revised procedure was acclaimed as a long overdue reform|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si1039_NA.wav|he has never himself done anything for which to be hated which of us has|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si1055_NA.wav|internal national responsibility now a truism need not be documented|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si1058_NA.wav|readiness exercises are almost continuous|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si1063_NA.wav|no question ruffles him or causes him to hesitate|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si1074_NA.wav|he gazed away from us as we approached|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si1083_NA.wav|the system works as an impersonal mechanism|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si1927_NA.wav|you do that or take you out a permit right now|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si1946_NA.wav|the rustling problem was by no means solved|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si1949_NA.wav|who told you to do it|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si1955_NA.wav|like enough we'll all be up on top by sundown|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si1956_NA.wav|a single kick made it spring open shuddering|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si1957_NA.wav|clapping spurs to the bronc he set off at a sharp canter with growing alarm|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si1969_NA.wav|if any of us miss they can pick up the pieces|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si1977_NA.wav|he fought the panic of vertigo|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si1980_NA.wav|high so it only bounce harmlessly but loudly off a car's steel roof|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si1981_NA.wav|on unoccupied roadway the bottle shattered into a small amber flash|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si1982_NA.wav|two cars came over a crest their chrome and glass flashing|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si1983_NA.wav|brakes shrieked behind us|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si1997_NA.wav|like as if it were built of books|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si2003_NA.wav|in a way he couldn't blame her|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si2028_NA.wav|he took his mask from his forehead and threw it unexpectedly across the deck|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si453_NA.wav|everything went real smooth the sheriff said|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si456_NA.wav|two other cases also were under advisement|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si458_NA.wav|this is not a program of socialized medicine|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si462_NA.wav|it also provides for funds to clear slums and help colleges build dormitories|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si464_NA.wav|the prospect of cutting back spending is an unpleasant one for any governor|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si475_NA.wav|they will take a wedding trip later|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si481_NA.wav|this he added brought about petty jealousies and petty personal grievances|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si486_NA.wav|it was time to go up myself|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si505_NA.wav|this excellent foreign bomb takes only six|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si508_NA.wav|mollusks are a case in point|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si516_NA.wav|some observers speculated that this might be his revenge on his home town|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si524_NA.wav|within a system however the autonomy of each member library is preserved|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si530_NA.wav|his election on the other hand would unquestionably strengthen the regulars|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si538_NA.wav|county officials have cooperated consistently|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si539_NA.wav|but that heritage is shrinking even faster|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si545_NA.wav|but how little love we give him|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si548_NA.wav|never happier in my life|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si556_NA.wav|we did not accept the diagnosis at once but gradually we are coming to|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_si999_NA.wav|now the school was indeed bereft|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_sx147_NA.wav|correct execution of my instructions is crucial|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_sx148_NA.wav|most precincts had a third of the votes counted|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_sx149_NA.wav|while waiting for chipper she crisscrossed the square many times|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_sx151_NA.wav|the previous speaker presented ambiguous results|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_sx153_NA.wav|scholastic aptitude is judged by standardized tests|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_sx155_NA.wav|the water contained too much chlorine and stung his eyes|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_sx156_NA.wav|our experiment's positive outcome was unexpected|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_sx158_NA.wav|the drunkard is a social outcast|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_sx162_NA.wav|her auburn hair reminded him of autumn leaves|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_sx163_NA.wav|they remained lifelong friends and companions|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_sx164_NA.wav|curiosity and mediocrity seldom coexist|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_sx167_NA.wav|employee layoffs coincided with the company's reorganization|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_sx168_NA.wav|who took the kayak down the bayou|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_sx169_NA.wav|how would you evaluate this algebraic expression|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_sx171_NA.wav|the diagnosis was discouraging however he was not overly worried|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_sx172_NA.wav|the triumphant warrior exhibited naive heroism|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_sx174_NA.wav|the haunted house was a hit due to outstanding audio visual effects|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_sx425_NA.wav|movies never have enough villains|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_sx426_NA.wav|a moth zig zagged along the path through otto's garden|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_sx428_NA.wav|a crab challenged me but a quick stab vanquished him|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_sx432_NA.wav|coffee is grown on steep jungle like slopes in temperate zones|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_sx433_NA.wav|the overweight charmer could slip poison into anyone's tea|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_sx434_NA.wav|each stag surely finds a big fawn|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_sx437_NA.wav|they used an aggressive policeman to flag thoughtless motorists|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_sx438_NA.wav|shell shock caused by shrapnel is sometimes cured through group therapy|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_sx439_NA.wav|that stinging vapor was caused by chloride vaporization|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_sx441_NA.wav|don't look for group valuables in a bank vault|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_sx442_NA.wav|suburban housewives often suffer from the gab habit|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_sx444_NA.wav|the toddler found a clamshell near the camp site|en|MC04
+../dataset/UncommonVoice_22050Hz/MC04_T2_sx448_NA.wav|spherical gifts are difficult to wrap|en|MC04
+../dataset/UncommonVoice_22050Hz/MC11_T2_cape-v1_NA.wav|The blue spot is on the key again.|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_cape-v2_NA.wav|How hard did he hit him?|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_cape-v3_NA.wav|We were away a year ago. |en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_cape-v4_NA.wav|We eat eggs every Easter.|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_cape-v5_NA.wav|My mama makes lemon muffins.|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_cape-v6_NA.wav|Peter will keep at the peak.|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_sa1_NA.wav|she had your dark suit in greasy wash water all year|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_sa2_NA.wav|don't ask me to carry an oily rag like that|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si1000_NA.wav|soon the office work claimed all her time|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si1004_NA.wav|palm oil protects the surfaces of steel sheets before they are plated with tin|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si1014_NA.wav|beer generally fermented from barley is an old alcoholic beverage|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si1016_NA.wav|to keep them scattered somewhat and yet herd them was called loose herding|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si1027_NA.wav|even then if she took one step forward he could catch her|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si1037_NA.wav|the revised procedure was acclaimed as a long overdue reform|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si1039_NA.wav|he has never himself done anything for which to be hated which of us has|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si1055_NA.wav|internal national responsibility now a truism need not be documented|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si1058_NA.wav|readiness exercises are almost continuous|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si1063_NA.wav|no question ruffles him or causes him to hesitate|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si1074_NA.wav|he gazed away from us as we approached|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si1083_NA.wav|the system works as an impersonal mechanism|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si1927_NA.wav|you do that or take you out a permit right now|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si1934_NA.wav|wait a little while|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si1946_NA.wav|the rustling problem was by no means solved|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si1949_NA.wav|who told you to do it|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si1955_NA.wav|like enough we'll all be up on top by sundown|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si1956_NA.wav|a single kick made it spring open shuddering|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si1957_NA.wav|clapping spurs to the bronc he set off at a sharp canter with growing alarm|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si1969_NA.wav|if any of us miss they can pick up the pieces|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si1977_NA.wav|he fought the panic of vertigo|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si1980_NA.wav|high so it only bounce harmlessly but loudly off a car's steel roof|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si1981_NA.wav|on unoccupied roadway the bottle shattered into a small amber flash|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si1982_NA.wav|two cars came over a crest their chrome and glass flashing|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si1983_NA.wav|brakes shrieked behind us|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si1997_NA.wav|like as if it were built of books|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si2003_NA.wav|in a way he couldn't blame her|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si2022_NA.wav|what outfit does she drive for|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si2028_NA.wav|he took his mask from his forehead and threw it unexpectedly across the deck|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si453_NA.wav|everything went real smooth the sheriff said|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si456_NA.wav|two other cases also were under advisement|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si458_NA.wav|this is not a program of socialized medicine|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si462_NA.wav|it also provides for funds to clear slums and help colleges build dormitories|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si464_NA.wav|the prospect of cutting back spending is an unpleasant one for any governor|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si475_NA.wav|they will take a wedding trip later|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si481_NA.wav|this he added brought about petty jealousies and petty personal grievances|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si486_NA.wav|it was time to go up myself|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si505_NA.wav|this excellent foreign bomb takes only six|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si508_NA.wav|mollusks are a case in point|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si516_NA.wav|some observers speculated that this might be his revenge on his home town|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si524_NA.wav|within a system however the autonomy of each member library is preserved|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si530_NA.wav|his election on the other hand would unquestionably strengthen the regulars|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si538_NA.wav|county officials have cooperated consistently|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si539_NA.wav|but that heritage is shrinking even faster|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si545_NA.wav|but how little love we give him|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si548_NA.wav|never happier in my life|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si556_NA.wav|we did not accept the diagnosis at once but gradually we are coming to|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_si999_NA.wav|now the school was indeed bereft|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_sx147_NA.wav|correct execution of my instructions is crucial|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_sx148_NA.wav|most precincts had a third of the votes counted|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_sx149_NA.wav|while waiting for chipper she crisscrossed the square many times|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_sx151_NA.wav|the previous speaker presented ambiguous results|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_sx153_NA.wav|scholastic aptitude is judged by standardized tests|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_sx155_NA.wav|the water contained too much chlorine and stung his eyes|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_sx156_NA.wav|our experiment's positive outcome was unexpected|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_sx158_NA.wav|the drunkard is a social outcast|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_sx162_NA.wav|her auburn hair reminded him of autumn leaves|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_sx163_NA.wav|they remained lifelong friends and companions|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_sx164_NA.wav|curiosity and mediocrity seldom coexist|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_sx167_NA.wav|employee layoffs coincided with the company's reorganization|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_sx168_NA.wav|who took the kayak down the bayou|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_sx169_NA.wav|how would you evaluate this algebraic expression|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_sx171_NA.wav|the diagnosis was discouraging however he was not overly worried|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_sx172_NA.wav|the triumphant warrior exhibited naive heroism|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_sx174_NA.wav|the haunted house was a hit due to outstanding audio visual effects|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_sx425_NA.wav|movies never have enough villains|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_sx426_NA.wav|a moth zig zagged along the path through otto's garden|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_sx428_NA.wav|a crab challenged me but a quick stab vanquished him|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_sx432_NA.wav|coffee is grown on steep jungle like slopes in temperate zones|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_sx433_NA.wav|the overweight charmer could slip poison into anyone's tea|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_sx434_NA.wav|each stag surely finds a big fawn|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_sx437_NA.wav|they used an aggressive policeman to flag thoughtless motorists|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_sx438_NA.wav|shell shock caused by shrapnel is sometimes cured through group therapy|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_sx439_NA.wav|that stinging vapor was caused by chloride vaporization|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_sx441_NA.wav|don't look for group valuables in a bank vault|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_sx442_NA.wav|suburban housewives often suffer from the gab habit|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_sx444_NA.wav|the toddler found a clamshell near the camp site|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_sx447_NA.wav|first add milk to the shredded cheese|en|MC11
+../dataset/UncommonVoice_22050Hz/MC11_T2_sx448_NA.wav|spherical gifts are difficult to wrap|en|MC11
+../dataset/UncommonVoice_22050Hz/MC12_T2_cape-v1_NA.wav|The blue spot is on the key again.|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_cape-v2_NA.wav|How hard did he hit him?|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_cape-v3_NA.wav|We were away a year ago. |en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_cape-v4_NA.wav|We eat eggs every Easter.|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_cape-v5_NA.wav|My mama makes lemon muffins.|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_cape-v6_NA.wav|Peter will keep at the peak.|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_sa1_NA.wav|she had your dark suit in greasy wash water all year|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_sa2_NA.wav|don't ask me to carry an oily rag like that|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si1000_NA.wav|soon the office work claimed all her time|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si1004_NA.wav|palm oil protects the surfaces of steel sheets before they are plated with tin|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si1014_NA.wav|beer generally fermented from barley is an old alcoholic beverage|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si1016_NA.wav|to keep them scattered somewhat and yet herd them was called loose herding|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si1027_NA.wav|even then if she took one step forward he could catch her|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si1037_NA.wav|the revised procedure was acclaimed as a long overdue reform|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si1039_NA.wav|he has never himself done anything for which to be hated which of us has|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si1055_NA.wav|internal national responsibility now a truism need not be documented|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si1058_NA.wav|readiness exercises are almost continuous|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si1063_NA.wav|no question ruffles him or causes him to hesitate|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si1074_NA.wav|he gazed away from us as we approached|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si1083_NA.wav|the system works as an impersonal mechanism|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si1927_NA.wav|you do that or take you out a permit right now|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si1934_NA.wav|wait a little while|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si1949_NA.wav|who told you to do it|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si1955_NA.wav|like enough we'll all be up on top by sundown|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si1956_NA.wav|a single kick made it spring open shuddering|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si1957_NA.wav|clapping spurs to the bronc he set off at a sharp canter with growing alarm|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si1969_NA.wav|if any of us miss they can pick up the pieces|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si1977_NA.wav|he fought the panic of vertigo|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si1980_NA.wav|high so it only bounce harmlessly but loudly off a car's steel roof|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si1981_NA.wav|on unoccupied roadway the bottle shattered into a small amber flash|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si1982_NA.wav|two cars came over a crest their chrome and glass flashing|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si1983_NA.wav|brakes shrieked behind us|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si1997_NA.wav|like as if it were built of books|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si2003_NA.wav|in a way he couldn't blame her|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si2022_NA.wav|what outfit does she drive for|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si2028_NA.wav|he took his mask from his forehead and threw it unexpectedly across the deck|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si453_NA.wav|everything went real smooth the sheriff said|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si456_NA.wav|two other cases also were under advisement|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si458_NA.wav|this is not a program of socialized medicine|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si462_NA.wav|it also provides for funds to clear slums and help colleges build dormitories|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si464_NA.wav|the prospect of cutting back spending is an unpleasant one for any governor|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si475_NA.wav|they will take a wedding trip later|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si481_NA.wav|this he added brought about petty jealousies and petty personal grievances|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si486_NA.wav|it was time to go up myself|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si505_NA.wav|this excellent foreign bomb takes only six|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si508_NA.wav|mollusks are a case in point|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si516_NA.wav|some observers speculated that this might be his revenge on his home town|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si524_NA.wav|within a system however the autonomy of each member library is preserved|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si530_NA.wav|his election on the other hand would unquestionably strengthen the regulars|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si538_NA.wav|county officials have cooperated consistently|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si539_NA.wav|but that heritage is shrinking even faster|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si545_NA.wav|but how little love we give him|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si548_NA.wav|never happier in my life|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si556_NA.wav|we did not accept the diagnosis at once but gradually we are coming to|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_si999_NA.wav|now the school was indeed bereft|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_sx147_NA.wav|correct execution of my instructions is crucial|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_sx148_NA.wav|most precincts had a third of the votes counted|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_sx149_NA.wav|while waiting for chipper she crisscrossed the square many times|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_sx151_NA.wav|the previous speaker presented ambiguous results|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_sx153_NA.wav|scholastic aptitude is judged by standardized tests|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_sx155_NA.wav|the water contained too much chlorine and stung his eyes|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_sx156_NA.wav|our experiment's positive outcome was unexpected|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_sx158_NA.wav|the drunkard is a social outcast|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_sx162_NA.wav|her auburn hair reminded him of autumn leaves|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_sx163_NA.wav|they remained lifelong friends and companions|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_sx164_NA.wav|curiosity and mediocrity seldom coexist|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_sx167_NA.wav|employee layoffs coincided with the company's reorganization|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_sx168_NA.wav|who took the kayak down the bayou|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_sx169_NA.wav|how would you evaluate this algebraic expression|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_sx171_NA.wav|the diagnosis was discouraging however he was not overly worried|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_sx172_NA.wav|the triumphant warrior exhibited naive heroism|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_sx174_NA.wav|the haunted house was a hit due to outstanding audio visual effects|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_sx425_NA.wav|movies never have enough villains|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_sx426_NA.wav|a moth zig zagged along the path through otto's garden|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_sx428_NA.wav|a crab challenged me but a quick stab vanquished him|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_sx432_NA.wav|coffee is grown on steep jungle like slopes in temperate zones|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_sx433_NA.wav|the overweight charmer could slip poison into anyone's tea|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_sx434_NA.wav|each stag surely finds a big fawn|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_sx437_NA.wav|they used an aggressive policeman to flag thoughtless motorists|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_sx438_NA.wav|shell shock caused by shrapnel is sometimes cured through group therapy|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_sx439_NA.wav|that stinging vapor was caused by chloride vaporization|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_sx441_NA.wav|don't look for group valuables in a bank vault|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_sx442_NA.wav|suburban housewives often suffer from the gab habit|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_sx444_NA.wav|the toddler found a clamshell near the camp site|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_sx447_NA.wav|first add milk to the shredded cheese|en|MC12
+../dataset/UncommonVoice_22050Hz/MC12_T2_sx448_NA.wav|spherical gifts are difficult to wrap|en|MC12
