@@ -3,10 +3,10 @@
 PyTorch implementation of "Zero-Shot Voice Cloning Text-to-Speech for Dysphonia Disorder Speakers". 
 
 ## Model Inference
-![Model Inference](ZS-TTS-Dysphonia-Inference.drawio)
+![Model Inference](ZS-TTS-Dysphonia-Inference.drawio.png)
 
 ## Model Training
-![Model Training](ZS-TTS-Dysphonia-Training.drawio)
+![Model Training](ZS-TTS-Dysphonia-Training.drawio.png)
 
 
 ## Pre-requisites
