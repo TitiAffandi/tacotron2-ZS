@@ -1,0 +1,9 @@
+FC12|F|../dataset/UncommonVoice_22050Hz/FC12_T2_sx448_NA.wav|UncommonVoice|76|5.79
+FC23|F|../dataset/UncommonVoice_22050Hz/FC23_T2_sx448_NA.wav|UncommonVoice|49|3.22
+FC36|F|../dataset/UncommonVoice_22050Hz/FC36_T2_sx448_NA.wav|UncommonVoice|86|5.52
+FC38|F|../dataset/UncommonVoice_22050Hz/FC38_T2_sx448_NA.wav|UncommonVoice|74|5.09
+FC41|F|../dataset/UncommonVoice_22050Hz/FC41_T2_sx448_NA.wav|UncommonVoice|87|8.18
+FC45|F|../dataset/UncommonVoice_22050Hz/FC45_T2_sx447_NA.wav|UncommonVoice|42|3.27
+MC04|M|../dataset/UncommonVoice_22050Hz/MC04_T2_sx448_NA.wav|UncommonVoice|84|4.92
+MC11|M|../dataset/UncommonVoice_22050Hz/MC11_T2_sx448_NA.wav|UncommonVoice|87|7.35
+MC12|M|../dataset/UncommonVoice_22050Hz/MC12_T2_sx448_NA.wav|UncommonVoice|86|6.23
