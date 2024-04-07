@@ -29,7 +29,7 @@ Distributed and Automatic Mixed Precision support relies on NVIDIA's [Apex] and 
 2. (OPTIONAL) `tensorboard --logdir=outdir/logdir`
 
 ## Demo
-1. Speech samples demo can be accessed from [ZS_voicecloning demo] (https://zs_voicecloning.jarkom.cs.ui.ac.id/) 
+1. Speech samples demo can be accessed from [ZS_voicecloning demo](https://zs_voicecloning.jarkom.cs.ui.ac.id/) 
 
 ## Acknowledgements
 This implementation is forked from [Rafael Valle](https://github.com/NVIDIA/tacotron2).
