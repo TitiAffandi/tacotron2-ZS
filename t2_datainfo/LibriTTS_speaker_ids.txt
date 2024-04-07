@@ -1,0 +1,1230 @@
+enf_3575|F|../dataset/LibriTTS_22050Hz/test-clean/3575/170457/3575_170457_000009_000000.wav|test-clean|8.06|supergirl
+enm_5639|M|../dataset/LibriTTS_22050Hz/test-clean/5639/40744/5639_40744_000000_000000.wav|test-clean|8.28|Ulf Bjorklund
+enm_1089|M|../dataset/LibriTTS_22050Hz/test-clean/1089/134686/1089_134686_000001_000001.wav|test-clean|8.05|Peter Bobbe
+enm_2300|M|../dataset/LibriTTS_22050Hz/test-clean/2300/131720/2300_131720_000002_000001.wav|test-clean|8.19|Mitchell L Leopard
+enm_7127|M|../dataset/LibriTTS_22050Hz/test-clean/7127/75946/7127_75946_000001_000001.wav|test-clean|8.32|Bill Kneeland
+enf_4992|F|../dataset/LibriTTS_22050Hz/test-clean/4992/41806/4992_41806_000001_000000.wav|test-clean|8.21|Joyce Martin
+enf_8555|F|../dataset/LibriTTS_22050Hz/test-clean/8555/284447/8555_284447_000003_000000.wav|test-clean|8.03|Michelle Goode
+enf_5142|F|../dataset/LibriTTS_22050Hz/test-clean/5142/36377/5142_36377_000000_000003.wav|test-clean|8.07|Mary Ballard-Johansson
+enm_908|M|../dataset/LibriTTS_22050Hz/test-clean/908/31957/908_31957_000002_000000.wav|test-clean|8.05|Sam Stinson
+enf_1284|F|../dataset/LibriTTS_22050Hz/test-clean/1284/1181/1284_1181_000001_000000.wav|test-clean|8.16|Daniel Anaya
+enf_121|F|../dataset/LibriTTS_22050Hz/test-clean/121/121726/121_121726_000000_000000.wav|test-clean|8.01|Nikolle Doolin
+enf_2961|F|../dataset/LibriTTS_22050Hz/test-clean/2961/961/2961_961_000002_000000.wav|test-clean|8.07|Leni
+enf_4507|F|../dataset/LibriTTS_22050Hz/test-clean/4507/16021/4507_16021_000009_000000.wav|test-clean|8.05|Rachel Nelson-Smith
+enf_1221|F|../dataset/LibriTTS_22050Hz/test-clean/1221/135766/1221_135766_000015_000000.wav|test-clean|8.07|Dianne
+enm_1188|M|../dataset/LibriTTS_22050Hz/test-clean/1188/133604/1188_133604_000000_000000.wav|test-clean|8.20|Duncan Murrell
+enf_6829|F|../dataset/LibriTTS_22050Hz/test-clean/6829/68771/6829_68771_000003_000000.wav|test-clean|8.24|LadyBug
+enm_7176|M|../dataset/LibriTTS_22050Hz/test-clean/7176/88083/7176_88083_000001_000000.wav|test-clean|8.06|KalenXI
+enm_61|M|../dataset/LibriTTS_22050Hz/test-clean/61/70970/61_70970_000007_000001.wav|test-clean|8.08|Paul-Gabriel Wiener
+enf_3570|F|../dataset/LibriTTS_22050Hz/test-clean/3570/5694/3570_5694_000004_000000.wav|test-clean|8.05|sarac
+enm_1320|M|../dataset/LibriTTS_22050Hz/test-clean/1320/122617/1320_122617_000001_000000.wav|test-clean|8.02|number6
+enf_1995|F|../dataset/LibriTTS_22050Hz/test-clean/1995/1836/1995_1836_000003_000002.wav|test-clean|8.06|AJai Hilton
+enf_4446|F|../dataset/LibriTTS_22050Hz/test-clean/4446/2273/4446_2273_000000_000000.wav|test-clean|8.00|Jen Maxwell
+enm_8230|M|../dataset/LibriTTS_22050Hz/test-clean/8230/279154/8230_279154_000001_000001.wav|test-clean|8.25|David Jenkins
+enf_4970|F|../dataset/LibriTTS_22050Hz/test-clean/4970/29093/4970_29093_000001_000000.wav|test-clean|8.15|airandwaters
+enf_237|F|../dataset/LibriTTS_22050Hz/test-clean/237/134500/237_134500_000001_000000.wav|test-clean|8.02|rachelellen
+enm_7021|M|../dataset/LibriTTS_22050Hz/test-clean/7021/79740/7021_79740_000002_000000.wav|test-clean|8.14|Nodo420
+enm_6930|M|../dataset/LibriTTS_22050Hz/test-clean/6930/75918/6930_75918_000000_000001.wav|test-clean|8.00|Nolan Fout
+enm_7729|M|../dataset/LibriTTS_22050Hz/test-clean/7729/102255/7729_102255_000001_000000.wav|test-clean|8.17|Tim Bower
+enm_2830|M|../dataset/LibriTTS_22050Hz/test-clean/2830/3980/2830_3980_000011_000000.wav|test-clean|8.04|Tim Perkins
+enm_4077|M|../dataset/LibriTTS_22050Hz/test-clean/4077/13754/4077_13754_000001_000000.wav|test-clean|8.14|Nathan Markham
+enf_3729|F|../dataset/LibriTTS_22050Hz/test-clean/3729/6852/3729_6852_000003_000001.wav|test-clean|8.03|Heather Hogan
+enm_8224|M|../dataset/LibriTTS_22050Hz/test-clean/8224/274384/8224_274384_000000_000001.wav|test-clean|8.24|Leanne Kinkopf
+enf_5683|F|../dataset/LibriTTS_22050Hz/test-clean/5683/32879/5683_32879_000002_000000.wav|test-clean|8.01|Rachael Lapidis
+enm_672|M|../dataset/LibriTTS_22050Hz/test-clean/672/122797/672_122797_000000_000000.wav|test-clean|8.27|Taylor Burton-Edward
+enf_1580|F|../dataset/LibriTTS_22050Hz/test-clean/1580/141084/1580_141084_000005_000001.wav|test-clean|8.07|TinyPines
+enm_5105|M|../dataset/LibriTTS_22050Hz/test-clean/5105/28241/5105_28241_000002_000000.wav|test-clean|8.12|elongman
+enf_8463|F|../dataset/LibriTTS_22050Hz/test-clean/8463/294825/8463_294825_000015_000000.wav|test-clean|8.05|Michele Fry
+enm_8455|M|../dataset/LibriTTS_22050Hz/test-clean/8455/210777/8455_210777_000000_000000.wav|test-clean|8.03|thecheops
+enm_260|M|../dataset/LibriTTS_22050Hz/test-clean/260/123440/260_123440_000001_000000.wav|test-clean|8.05|Brad Bush
+enf_2277|F|../dataset/LibriTTS_22050Hz/dev-clean/2277/149874/2277_149874_000004_000000.wav|dev-clean|8.01|zinniz
+enf_1993|F|../dataset/LibriTTS_22050Hz/dev-clean/1993/147966/1993_147966_000002_000000.wav|dev-clean|8.11|Wendy Belcher
+enf_1988|F|../dataset/LibriTTS_22050Hz/dev-clean/1988/147956/1988_147956_000001_000000.wav|dev-clean|8.16|Ransom
+enf_2412|F|../dataset/LibriTTS_22050Hz/dev-clean/2412/153954/2412_153954_000001_000000.wav|dev-clean|8.06|calystra
+enf_2035|F|../dataset/LibriTTS_22050Hz/dev-clean/2035/152373/2035_152373_000001_000000.wav|dev-clean|8.11|Sharon Bautista
+enm_3000|M|../dataset/LibriTTS_22050Hz/dev-clean/3000/15664/3000_15664_000002_000000.wav|dev-clean|8.03|Brian von Dedenroth
+enm_2803|M|../dataset/LibriTTS_22050Hz/dev-clean/2803/161169/2803_161169_000003_000000.wav|dev-clean|8.20|aquielisunari
+enf_5338|F|../dataset/LibriTTS_22050Hz/dev-clean/5338/24615/5338_24615_000000_000002.wav|dev-clean|8.07|S R Colon
+enm_7976|M|../dataset/LibriTTS_22050Hz/dev-clean/7976/110523/7976_110523_000005_000000.wav|dev-clean|8.13|JenniferRutters
+enm_422|M|../dataset/LibriTTS_22050Hz/dev-clean/422/122949/422_122949_000001_000000.wav|dev-clean|8.38|President Lethe
+enf_7850|F|../dataset/LibriTTS_22050Hz/dev-clean/7850/281318/7850_281318_000000_000000.wav|dev-clean|8.06|Jill Engle
+enf_1673|F|../dataset/LibriTTS_22050Hz/dev-clean/1673/143397/1673_143397_000003_000000.wav|dev-clean|8.07|Tonia
+enf_6345|F|../dataset/LibriTTS_22050Hz/dev-clean/6345/64257/6345_64257_000001_000000.wav|dev-clean|8.07|Jean Bascom
+enm_2078|M|../dataset/LibriTTS_22050Hz/dev-clean/2078/142845/2078_142845_000002_000000.wav|dev-clean|8.03|Kathy Caver
+enm_5694|M|../dataset/LibriTTS_22050Hz/dev-clean/5694/64029/5694_64029_000001_000000.wav|dev-clean|8.01|Winston Tharp
+enm_6295|M|../dataset/LibriTTS_22050Hz/dev-clean/6295/244435/6295_244435_000004_000000.wav|dev-clean|8.04|Michael Packard
+enf_1919|F|../dataset/LibriTTS_22050Hz/dev-clean/1919/142785/1919_142785_000001_000000.wav|dev-clean|8.17|nprigoda
+enm_8297|M|../dataset/LibriTTS_22050Hz/dev-clean/8297/275156/8297_275156_000000_000001.wav|dev-clean|8.04|David Mecionis
+enm_3170|M|../dataset/LibriTTS_22050Hz/dev-clean/3170/137482/3170_137482_000001_000000.wav|dev-clean|8.10|VOICEGUY
+enm_652|M|../dataset/LibriTTS_22050Hz/dev-clean/652/130737/652_130737_000012_000000.wav|dev-clean|8.31|Scott Walter
+enm_2428|M|../dataset/LibriTTS_22050Hz/dev-clean/2428/83699/2428_83699_000003_000000.wav|dev-clean|8.02|Stephen Kinford
+enf_3853|F|../dataset/LibriTTS_22050Hz/dev-clean/3853/163249/3853_163249_000015_000002.wav|dev-clean|8.05|M. Bertke
+enm_777|M|../dataset/LibriTTS_22050Hz/dev-clean/777/126732/777_126732_000072_000000.wav|dev-clean|8.06|fling93
+enf_5895|F|../dataset/LibriTTS_22050Hz/dev-clean/5895/34629/5895_34629_000002_000000.wav|dev-clean|8.02|iamartin
+enm_3752|M|../dataset/LibriTTS_22050Hz/dev-clean/3752/4944/3752_4944_000002_000000.wav|dev-clean|8.06|Mark Welch
+enf_3576|F|../dataset/LibriTTS_22050Hz/dev-clean/3576/138058/3576_138058_000010_000001.wav|dev-clean|8.00|JudyGibson
+enm_251|M|../dataset/LibriTTS_22050Hz/dev-clean/251/137823/251_137823_000002_000000.wav|dev-clean|8.04|Mark Nelson
+enf_84|F|../dataset/LibriTTS_22050Hz/dev-clean/84/121123/84_121123_000007_000001.wav|dev-clean|8.02|Christie Nowak
+enf_8842|F|../dataset/LibriTTS_22050Hz/dev-clean/8842/302201/8842_302201_000003_000000.wav|dev-clean|8.10|Mary J
+enf_3536|F|../dataset/LibriTTS_22050Hz/dev-clean/3536/8226/3536_8226_000002_000000.wav|dev-clean|8.15|Arielle Lipshaw
+enm_5536|M|../dataset/LibriTTS_22050Hz/dev-clean/5536/43358/5536_43358_000009_000000.wav|dev-clean|8.13|David Mix
+enm_6241|M|../dataset/LibriTTS_22050Hz/dev-clean/6241/61946/6241_61946_000003_000000.wav|dev-clean|8.05|badey
+enm_174|M|../dataset/LibriTTS_22050Hz/dev-clean/174/84280/174_84280_000000_000000.wav|dev-clean|8.04|Peter Eastman
+enf_1462|F|../dataset/LibriTTS_22050Hz/dev-clean/1462/170142/1462_170142_000001_000000.wav|dev-clean|8.04|E. Tavano
+enm_2086|M|../dataset/LibriTTS_22050Hz/dev-clean/2086/149220/2086_149220_000003_000001.wav|dev-clean|8.04|Nicodemus
+enf_6313|F|../dataset/LibriTTS_22050Hz/dev-clean/6313/66129/6313_66129_000001_000000.wav|dev-clean|8.17|Jennifer Wiginton
+enm_2902|M|../dataset/LibriTTS_22050Hz/dev-clean/2902/9006/2902_9006_000000_000000.wav|dev-clean|8.10|dexter
+enf_3081|F|../dataset/LibriTTS_22050Hz/dev-clean/3081/166546/3081_166546_000028_000002.wav|dev-clean|8.00|Renata
+enf_6319|F|../dataset/LibriTTS_22050Hz/dev-clean/6319/275224/6319_275224_000004_000000.wav|dev-clean|8.01|thestorygirl
+enm_1272|M|../dataset/LibriTTS_22050Hz/dev-clean/1272/135031/1272_135031_000002_000000.wav|dev-clean|8.02|John Rose
+enm_2002|M|../dataset/LibriTTS_22050Hz/train-clean-100/2002/139469/2002_139469_000001_000000.wav|train-clean-100|24.94|Larry Maddocks
+enm_4898|M|../dataset/LibriTTS_22050Hz/train-clean-100/4898/28461/4898_28461_000002_000000.wav|train-clean-100|25.11|greatbasinrain
+enf_1578|F|../dataset/LibriTTS_22050Hz/train-clean-100/1578/140045/1578_140045_000007_000000.wav|train-clean-100|25.01|Lorelle Anderson
+enm_7312|M|../dataset/LibriTTS_22050Hz/train-clean-100/7312/92432/7312_92432_000004_000000.wav|train-clean-100|5.44|nkneer
+enm_2952|M|../dataset/LibriTTS_22050Hz/train-clean-100/2952/408/2952_408_000003_000001.wav|train-clean-100|25.02|Scott Carpenter
+enm_6563|M|../dataset/LibriTTS_22050Hz/train-clean-100/6563/63821/6563_63821_000003_000006.wav|train-clean-100|21.58|William Tomcho
+enf_211|F|../dataset/LibriTTS_22050Hz/train-clean-100/211/122425/211_122425_000003_000002.wav|train-clean-100|25.22|shanda_w
+enm_3436|M|../dataset/LibriTTS_22050Hz/train-clean-100/3436/172162/3436_172162_000002_000000.wav|train-clean-100|25.25|Anders Lankford
+enf_3879|F|../dataset/LibriTTS_22050Hz/train-clean-100/3879/173592/3879_173592_000005_000000.wav|train-clean-100|25.10|Keneva
+enm_7367|M|../dataset/LibriTTS_22050Hz/train-clean-100/7367/86737/7367_86737_000042_000000.wav|train-clean-100|25.13|NIneFive83
+enf_6818|F|../dataset/LibriTTS_22050Hz/train-clean-100/6818/76332/6818_76332_000003_000000.wav|train-clean-100|25.17|beckyboyd
+enf_32|F|../dataset/LibriTTS_22050Hz/train-clean-100/32/21625/32_21625_000018_000000.wav|train-clean-100|24.01|Betsie Bush
+enf_150|F|../dataset/LibriTTS_22050Hz/train-clean-100/150/126112/150_126112_000002_000001.wav|train-clean-100|25.13|Fox in the Stars
+enm_625|M|../dataset/LibriTTS_22050Hz/train-clean-100/625/132112/625_132112_000004_000008.wav|train-clean-100|25.01|toriasuncle
+enf_5022|F|../dataset/LibriTTS_22050Hz/train-clean-100/5022/29405/5022_29405_000001_000000.wav|train-clean-100|25.12|Kathleen Costa
+enf_322|F|../dataset/LibriTTS_22050Hz/train-clean-100/322/124147/322_124147_000017_000000.wav|train-clean-100|25.20|Elisabeth Shields
+enf_5652|F|../dataset/LibriTTS_22050Hz/train-clean-100/5652/39938/5652_39938_000002_000001.wav|train-clean-100|25.05|amicrazy2u
+enf_887|F|../dataset/LibriTTS_22050Hz/train-clean-100/887/123289/887_123289_000005_000000.wav|train-clean-100|25.11|Lana Taylor
+enm_1455|M|../dataset/LibriTTS_22050Hz/train-clean-100/1455/138263/1455_138263_000012_000000.wav|train-clean-100|25.13|webslog
+enf_2092|F|../dataset/LibriTTS_22050Hz/train-clean-100/2092/145709/2092_145709_000002_000001.wav|train-clean-100|25.10|Elaine Hamby
+enm_8098|M|../dataset/LibriTTS_22050Hz/train-clean-100/8098/278252/8098_278252_000005_000000.wav|train-clean-100|25.18|Arnold
+enm_1034|M|../dataset/LibriTTS_22050Hz/train-clean-100/1034/121119/1034_121119_000001_000001.wav|train-clean-100|16.71|Kevin O'Coin
+enm_5808|M|../dataset/LibriTTS_22050Hz/train-clean-100/5808/48608/5808_48608_000005_000000.wav|train-clean-100|25.16|jeandelfrio
+enf_5339|F|../dataset/LibriTTS_22050Hz/train-clean-100/5339/14134/5339_14134_000004_000000.wav|train-clean-100|25.13|Lauren McCullough
+enf_2910|F|../dataset/LibriTTS_22050Hz/train-clean-100/2910/131096/2910_131096_000004_000000.wav|train-clean-100|22.33|Janna
+enm_78|M|../dataset/LibriTTS_22050Hz/train-clean-100/78/368/78_368_000000_000000.wav|train-clean-100|25.05|Hugh McGuire
+enm_3214|M|../dataset/LibriTTS_22050Hz/train-clean-100/3214/167606/3214_167606_000011_000004.wav|train-clean-100|25.08|fourteatoo
+enm_6019|M|../dataset/LibriTTS_22050Hz/train-clean-100/6019/3185/6019_3185_000008_000000.wav|train-clean-100|25.17|DerekP
+enm_3486|M|../dataset/LibriTTS_22050Hz/train-clean-100/3486/166446/3486_166446_000003_000000.wav|train-clean-100|25.08|Robin Balmer
+enf_4160|F|../dataset/LibriTTS_22050Hz/train-clean-100/4160/11550/4160_11550_000002_000000.wav|train-clean-100|25.09|Rosie
+enf_2007|F|../dataset/LibriTTS_22050Hz/train-clean-100/2007/132570/2007_132570_000008_000000.wav|train-clean-100|25.21|Sheila Morton
+enf_7059|F|../dataset/LibriTTS_22050Hz/train-clean-100/7059/77900/7059_77900_000002_000000.wav|train-clean-100|25.02|Joannemmp
+enm_405|M|../dataset/LibriTTS_22050Hz/train-clean-100/405/130895/405_130895_000001_000000.wav|train-clean-100|25.04|Eric Dennison
+enm_460|M|../dataset/LibriTTS_22050Hz/train-clean-100/460/172359/460_172359_000000_000001.wav|train-clean-100|25.23|Dave Ranson
+enm_1235|M|../dataset/LibriTTS_22050Hz/train-clean-100/1235/135883/1235_135883_000004_000003.wav|train-clean-100|25.09|Tim Gregory
+enm_4813|M|../dataset/LibriTTS_22050Hz/train-clean-100/4813/248641/4813_248641_000001_000000.wav|train-clean-100|25.12|Steve Mattern
+enm_6181|M|../dataset/LibriTTS_22050Hz/train-clean-100/6181/216552/6181_216552_000002_000000.wav|train-clean-100|25.09|Mike
+enf_1363|F|../dataset/LibriTTS_22050Hz/train-clean-100/1363/139304/1363_139304_000001_000000.wav|train-clean-100|21.87|Tammy Sanders
+enm_2136|M|../dataset/LibriTTS_22050Hz/train-clean-100/2136/5147/2136_5147_000002_000000.wav|train-clean-100|25.18|Great Plains
+enf_1992|F|../dataset/LibriTTS_22050Hz/train-clean-100/1992/141719/1992_141719_000012_000004.wav|train-clean-100|12.29|Michelle White
+enf_39|F|../dataset/LibriTTS_22050Hz/train-clean-100/39/121916/39_121916_000001_000000.wav|train-clean-100|25.05|Sherry Crowther
+enm_5049|M|../dataset/LibriTTS_22050Hz/train-clean-100/5049/25947/5049_25947_000015_000005.wav|train-clean-100|25.08|Bradley Smith
+enf_8465|F|../dataset/LibriTTS_22050Hz/train-clean-100/8465/246943/8465_246943_000002_000000.wav|train-clean-100|24.88|TinaNygard2
+enm_3830|M|../dataset/LibriTTS_22050Hz/train-clean-100/3830/12531/3830_12531_000004_000000.wav|train-clean-100|24.01|rymd80
+enm_5322|M|../dataset/LibriTTS_22050Hz/train-clean-100/5322/7679/5322_7679_000001_000001.wav|train-clean-100|25.03|Jay Bidal
+enm_6848|M|../dataset/LibriTTS_22050Hz/train-clean-100/6848/252322/6848_252322_000003_000000.wav|train-clean-100|25.17|KarlHenning
+enf_1183|F|../dataset/LibriTTS_22050Hz/train-clean-100/1183/124566/1183_124566_000001_000001.wav|train-clean-100|9.72|roolynninms
+enf_6415|F|../dataset/LibriTTS_22050Hz/train-clean-100/6415/100596/6415_100596_000004_000000.wav|train-clean-100|25.18|Daryl Wor
+enf_8014|F|../dataset/LibriTTS_22050Hz/train-clean-100/8014/112602/8014_112602_000000_000000.wav|train-clean-100|14.42|constatine
+enf_587|F|../dataset/LibriTTS_22050Hz/train-clean-100/587/41611/587_41611_000009_000003.wav|train-clean-100|25.20|Joy Scaglione
+enm_2514|M|../dataset/LibriTTS_22050Hz/train-clean-100/2514/149482/2514_149482_000004_000001.wav|train-clean-100|25.11|S. Young
+enf_5514|F|../dataset/LibriTTS_22050Hz/train-clean-100/5514/19192/5514_19192_000004_000000.wav|train-clean-100|17.39|Ella Jane Quentin
+enf_5393|F|../dataset/LibriTTS_22050Hz/train-clean-100/5393/19219/5393_19219_000004_000000.wav|train-clean-100|25.22|Amy Hengst
+enm_2911|M|../dataset/LibriTTS_22050Hz/train-clean-100/2911/15045/2911_15045_000002_000001.wav|train-clean-100|25.10|David Lawrence
+enm_307|M|../dataset/LibriTTS_22050Hz/train-clean-100/307/127539/307_127539_000017_000001.wav|train-clean-100|25.11|Randy Phillips
+enm_6836|M|../dataset/LibriTTS_22050Hz/train-clean-100/6836/61804/6836_61804_000000_000000.wav|train-clean-100|25.01|John
+enf_1069|F|../dataset/LibriTTS_22050Hz/train-clean-100/1069/133699/1069_133699_000001_000000.wav|train-clean-100|25.15|Dawn
+enm_8226|M|../dataset/LibriTTS_22050Hz/train-clean-100/8226/274371/8226_274371_000000_000001.wav|train-clean-100|25.18|Adam Picot
+enm_8088|M|../dataset/LibriTTS_22050Hz/train-clean-100/8088/284756/8088_284756_000000_000000.wav|train-clean-100|25.06|Jason Bolestridge
+enm_7264|M|../dataset/LibriTTS_22050Hz/train-clean-100/7264/92316/7264_92316_000002_000000.wav|train-clean-100|23.42|Sean McClain
+enm_8609|M|../dataset/LibriTTS_22050Hz/train-clean-100/8609/262281/8609_262281_000002_000000.wav|train-clean-100|25.10|noblesavage
+enm_26|M|../dataset/LibriTTS_22050Hz/train-clean-100/26/496/26_496_000004_000000.wav|train-clean-100|25.08|Denny Sayers
+enm_1743|M|../dataset/LibriTTS_22050Hz/train-clean-100/1743/142914/1743_142914_000001_000002.wav|train-clean-100|21.29|Bryan Ness
+enf_1246|F|../dataset/LibriTTS_22050Hz/train-clean-100/1246/124548/1246_124548_000001_000000.wav|train-clean-100|25.09|Sandra
+enf_19|F|../dataset/LibriTTS_22050Hz/train-clean-100/19/227/19_227_000000_000000.wav|train-clean-100|25.19|Kara Shallenberg
+enm_8629|M|../dataset/LibriTTS_22050Hz/train-clean-100/8629/261139/8629_261139_000008_000000.wav|train-clean-100|25.13|Shivansh Dhar
+enf_2196|F|../dataset/LibriTTS_22050Hz/train-clean-100/2196/170379/2196_170379_000002_000000.wav|train-clean-100|25.24|Andrea Fiore
+enm_3374|M|../dataset/LibriTTS_22050Hz/train-clean-100/3374/298026/3374_298026_000002_000001.wav|train-clean-100|25.17|Craig Campbell
+enm_4018|M|../dataset/LibriTTS_22050Hz/train-clean-100/4018/107312/4018_107312_000008_000001.wav|train-clean-100|25.17|Nicholas Clifford
+enm_7067|M|../dataset/LibriTTS_22050Hz/train-clean-100/7067/76048/7067_76048_000009_000000.wav|train-clean-100|25.17|Matthew Wall
+enm_1867|M|../dataset/LibriTTS_22050Hz/train-clean-100/1867/154071/1867_154071_000002_000001.wav|train-clean-100|25.16|Rowdy Delaney
+enf_2764|F|../dataset/LibriTTS_22050Hz/train-clean-100/2764/36616/2764_36616_000035_000000.wav|train-clean-100|25.19|Piper Hale
+enm_5678|M|../dataset/LibriTTS_22050Hz/train-clean-100/5678/43303/5678_43303_000001_000001.wav|train-clean-100|25.10|jgoffena
+enf_5561|F|../dataset/LibriTTS_22050Hz/train-clean-100/5561/41615/5561_41615_000001_000000.wav|train-clean-100|23.86|Ellen Jones
+enm_1334|M|../dataset/LibriTTS_22050Hz/train-clean-100/1334/135589/1334_135589_000001_000001.wav|train-clean-100|23.89|John Schell
+enm_8797|M|../dataset/LibriTTS_22050Hz/train-clean-100/8797/294123/8797_294123_000003_000000.wav|train-clean-100|22.76|Sean Grabosky
+enf_2817|F|../dataset/LibriTTS_22050Hz/train-clean-100/2817/142371/2817_142371_000003_000000.wav|train-clean-100|25.14|Catherine Millward
+enm_412|M|../dataset/LibriTTS_22050Hz/train-clean-100/412/126975/412_126975_000002_000000.wav|train-clean-100|22.38|Brian Roberg
+enf_40|F|../dataset/LibriTTS_22050Hz/train-clean-100/40/222/40_222_000001_000000.wav|train-clean-100|25.04|Vicki Barbour
+enf_5778|F|../dataset/LibriTTS_22050Hz/train-clean-100/5778/54535/5778_54535_000001_000000.wav|train-clean-100|21.81|Laura Victoria
+enf_1926|F|../dataset/LibriTTS_22050Hz/train-clean-100/1926/143879/1926_143879_000004_000000.wav|train-clean-100|25.19|Nikki Sullivan
+enm_1040|M|../dataset/LibriTTS_22050Hz/train-clean-100/1040/133433/1040_133433_000001_000002.wav|train-clean-100|15.70|John Garvin
+enm_6529|M|../dataset/LibriTTS_22050Hz/train-clean-100/6529/62556/6529_62556_000003_000000.wav|train-clean-100|25.04|Fred DeBerardinis
+enm_7190|M|../dataset/LibriTTS_22050Hz/train-clean-100/7190/90543/7190_90543_000002_000000.wav|train-clean-100|25.22|Tony Posante
+enm_909|M|../dataset/LibriTTS_22050Hz/train-clean-100/909/131045/909_131045_000004_000001.wav|train-clean-100|25.00|Greg Bryant
+enf_226|F|../dataset/LibriTTS_22050Hz/train-clean-100/226/131533/226_131533_000015_000000.wav|train-clean-100|25.21|Deb Bacon-Ziegler
+enm_446|M|../dataset/LibriTTS_22050Hz/train-clean-100/446/123501/446_123501_000000_000000.wav|train-clean-100|25.00|Steve Hartzog
+enm_1594|M|../dataset/LibriTTS_22050Hz/train-clean-100/1594/135914/1594_135914_000003_000001.wav|train-clean-100|25.10|Jon Scott Jones
+enm_4014|M|../dataset/LibriTTS_22050Hz/train-clean-100/4014/186176/4014_186176_000001_000000.wav|train-clean-100|25.20|Tom Clifton
+enf_4680|F|../dataset/LibriTTS_22050Hz/train-clean-100/4680/16041/4680_16041_000002_000000.wav|train-clean-100|25.15|pachayes
+enm_5463|M|../dataset/LibriTTS_22050Hz/train-clean-100/5463/39173/5463_39173_000013_000000.wav|train-clean-100|25.00|GLM
+enm_839|M|../dataset/LibriTTS_22050Hz/train-clean-100/839/130898/839_130898_000005_000000.wav|train-clean-100|19.95|rovert405
+enm_8838|M|../dataset/LibriTTS_22050Hz/train-clean-100/8838/298546/8838_298546_000001_000000.wav|train-clean-100|25.06|Kevin Owens
+enm_5104|M|../dataset/LibriTTS_22050Hz/train-clean-100/5104/33407/5104_33407_000007_000002.wav|train-clean-100|25.03|Chuck Burke
+enf_7511|F|../dataset/LibriTTS_22050Hz/train-clean-100/7511/102420/7511_102420_000002_000000.wav|train-clean-100|25.00|Sherri Vance
+enm_2384|M|../dataset/LibriTTS_22050Hz/train-clean-100/2384/152900/2384_152900_000006_000004.wav|train-clean-100|20.21|Ger
+enf_730|F|../dataset/LibriTTS_22050Hz/train-clean-100/730/360/730_360_000001_000000.wav|train-clean-100|25.19|Karen Labenz
+enm_6454|M|../dataset/LibriTTS_22050Hz/train-clean-100/6454/120342/6454_120342_000005_000000.wav|train-clean-100|25.22|David Wales
+enf_4362|F|../dataset/LibriTTS_22050Hz/train-clean-100/4362/15663/4362_15663_000000_000001.wav|train-clean-100|25.18|Michelle Montano
+enf_4137|F|../dataset/LibriTTS_22050Hz/train-clean-100/4137/11701/4137_11701_000001_000000.wav|train-clean-100|24.92|Sarah LuAnn
+enf_6531|F|../dataset/LibriTTS_22050Hz/train-clean-100/6531/61334/6531_61334_000000_000001.wav|train-clean-100|21.46|janesandberg
+enf_6147|F|../dataset/LibriTTS_22050Hz/train-clean-100/6147/34605/6147_34605_000001_000000.wav|train-clean-100|25.05|Liberty Stump
+enf_5688|F|../dataset/LibriTTS_22050Hz/train-clean-100/5688/41232/5688_41232_000003_000002.wav|train-clean-100|25.17|Jennifer Dionne
+enm_7226|M|../dataset/LibriTTS_22050Hz/train-clean-100/7226/86965/7226_86965_000000_000000.wav|train-clean-100|25.05|Jonathan Moore
+enf_2989|F|../dataset/LibriTTS_22050Hz/train-clean-100/2989/138035/2989_138035_000005_000005.wav|train-clean-100|25.21|Jamie Strassenburg, Cypress, California
+enm_4406|M|../dataset/LibriTTS_22050Hz/train-clean-100/4406/16882/4406_16882_000000_000002.wav|train-clean-100|25.12|Matthew Scott Surprenant
+enm_229|M|../dataset/LibriTTS_22050Hz/train-clean-100/229/130880/229_130880_000000_000000.wav|train-clean-100|19.56|carnright
+enf_298|F|../dataset/LibriTTS_22050Hz/train-clean-100/298/126791/298_126791_000008_000001.wav|train-clean-100|25.00|Caroline Morse
+enf_1553|F|../dataset/LibriTTS_22050Hz/train-clean-100/1553/140048/1553_140048_000001_000000.wav|train-clean-100|22.49|Mim Ritty
+enm_4830|M|../dataset/LibriTTS_22050Hz/train-clean-100/4830/25898/4830_25898_000005_000000.wav|train-clean-100|24.05|George Aalto
+enf_8123|F|../dataset/LibriTTS_22050Hz/train-clean-100/8123/275193/8123_275193_000001_000000.wav|train-clean-100|25.15|Sheila Wood
+enf_7859|F|../dataset/LibriTTS_22050Hz/train-clean-100/7859/102521/7859_102521_000001_000000.wav|train-clean-100|21.58|xinamarieuhl
+enm_2893|M|../dataset/LibriTTS_22050Hz/train-clean-100/2893/139310/2893_139310_000001_000000.wav|train-clean-100|24.41|Ryan Sutter
+enf_7113|F|../dataset/LibriTTS_22050Hz/train-clean-100/7113/86041/7113_86041_000001_000000.wav|train-clean-100|25.20|Sukaina Jaffer
+enf_4195|F|../dataset/LibriTTS_22050Hz/train-clean-100/4195/186236/4195_186236_000001_000000.wav|train-clean-100|25.08|bj
+enm_6367|M|../dataset/LibriTTS_22050Hz/train-clean-100/6367/65536/6367_65536_000003_000000.wav|train-clean-100|25.04|Vince Dee
+enf_4481|F|../dataset/LibriTTS_22050Hz/train-clean-100/4481/17499/4481_17499_000002_000000.wav|train-clean-100|22.56|margo zinberg
+enf_6000|F|../dataset/LibriTTS_22050Hz/train-clean-100/6000/55211/6000_55211_000002_000000.wav|train-clean-100|18.04|MissRose
+enf_302|F|../dataset/LibriTTS_22050Hz/train-clean-100/302/123523/302_123523_000002_000000.wav|train-clean-100|25.04|Chris Peterson
+enf_4340|F|../dataset/LibriTTS_22050Hz/train-clean-100/4340/15220/4340_15220_000000_000000.wav|train-clean-100|21.97|kiwafruit
+enf_289|F|../dataset/LibriTTS_22050Hz/train-clean-100/289/121665/289_121665_000015_000000.wav|train-clean-100|19.64|Barbara Wedge
+enm_332|M|../dataset/LibriTTS_22050Hz/train-clean-100/332/128985/332_128985_000001_000000.wav|train-clean-100|19.00|Aaron Teiser
+enm_5390|M|../dataset/LibriTTS_22050Hz/train-clean-100/5390/24512/5390_24512_000000_000002.wav|train-clean-100|25.20|Charles Bice
+enm_311|M|../dataset/LibriTTS_22050Hz/train-clean-100/311/124404/311_124404_000002_000001.wav|train-clean-100|25.17|deadwhitemales
+enf_7800|F|../dataset/LibriTTS_22050Hz/train-clean-100/7800/283493/7800_283493_000002_000000.wav|train-clean-100|25.21|Arie
+enm_3807|M|../dataset/LibriTTS_22050Hz/train-clean-100/3807/4923/3807_4923_000011_000003.wav|train-clean-100|22.31|Jesse Noar
+enm_8419|M|../dataset/LibriTTS_22050Hz/train-clean-100/8419/293473/8419_293473_000002_000000.wav|train-clean-100|25.22|Jon Kissack
+enm_4397|M|../dataset/LibriTTS_22050Hz/train-clean-100/4397/15666/4397_15666_000003_000000.wav|train-clean-100|25.06|John Dennison
+enm_4267|M|../dataset/LibriTTS_22050Hz/train-clean-100/4267/72637/4267_72637_000004_000001.wav|train-clean-100|25.14|Ric F
+enf_248|F|../dataset/LibriTTS_22050Hz/train-clean-100/248/130697/248_130697_000016_000007.wav|train-clean-100|25.13|Becky Miller
+enf_250|F|../dataset/LibriTTS_22050Hz/train-clean-100/250/142276/250_142276_000000_000000.wav|train-clean-100|25.16|Mary Reagan
+enm_6081|M|../dataset/LibriTTS_22050Hz/train-clean-100/6081/41997/6081_41997_000001_000001.wav|train-clean-100|25.10|Lazuli
+enm_5703|M|../dataset/LibriTTS_22050Hz/train-clean-100/5703/47212/5703_47212_000002_000000.wav|train-clean-100|25.10|Garth Comira
+enf_1116|F|../dataset/LibriTTS_22050Hz/train-clean-100/1116/132851/1116_132851_000005_000001.wav|train-clean-100|25.12|Megan Stemm-Wade
+enf_200|F|../dataset/LibriTTS_22050Hz/train-clean-100/200/124140/200_124140_000001_000002.wav|train-clean-100|25.14|Maureen S. O'Brien
+enf_7794|F|../dataset/LibriTTS_22050Hz/train-clean-100/7794/295955/7794_295955_000002_000001.wav|train-clean-100|25.23|mlcui
+enf_3112|F|../dataset/LibriTTS_22050Hz/train-clean-100/3112/9554/3112_9554_000001_000000.wav|train-clean-100|25.08|Jessica Louise
+enf_125|F|../dataset/LibriTTS_22050Hz/train-clean-100/125/121124/125_121124_000009_000003.wav|train-clean-100|25.18|Claire Goget
+enm_118|M|../dataset/LibriTTS_22050Hz/train-clean-100/118/124588/118_124588_000002_000000.wav|train-clean-100|25.05|Alex Buie
+enm_201|M|../dataset/LibriTTS_22050Hz/train-clean-100/201/122255/201_122255_000000_000000.wav|train-clean-100|25.19|Joplin James
+enf_8051|F|../dataset/LibriTTS_22050Hz/train-clean-100/8051/118101/8051_118101_000003_000000.wav|train-clean-100|25.23|Maria Kasper
+enf_6385|F|../dataset/LibriTTS_22050Hz/train-clean-100/6385/220959/6385_220959_000001_000000.wav|train-clean-100|25.09|Novella Serena
+enf_696|F|../dataset/LibriTTS_22050Hz/train-clean-100/696/92939/696_92939_000002_000000.wav|train-clean-100|25.11|Tamara R. Schwartz
+enm_831|M|../dataset/LibriTTS_22050Hz/train-clean-100/831/130739/831_130739_000000_000000.wav|train-clean-100|25.22|Nick Gallant
+enm_7447|M|../dataset/LibriTTS_22050Hz/train-clean-100/7447/91187/7447_91187_000003_000000.wav|train-clean-100|25.24|dasbury
+enm_5192|M|../dataset/LibriTTS_22050Hz/train-clean-100/5192/19396/5192_19396_000026_000000.wav|train-clean-100|24.14|Jason Esteves
+enf_1737|F|../dataset/LibriTTS_22050Hz/train-clean-100/1737/142396/1737_142396_000005_000000.wav|train-clean-100|25.04|Erin Hastings
+enf_7178|F|../dataset/LibriTTS_22050Hz/train-clean-100/7178/34645/7178_34645_000002_000000.wav|train-clean-100|25.11|J.K. Neely
+enm_3240|M|../dataset/LibriTTS_22050Hz/train-clean-100/3240/131231/3240_131231_000005_000000.wav|train-clean-100|25.09|flakker
+enm_8630|M|../dataset/LibriTTS_22050Hz/train-clean-100/8630/305213/8630_305213_000001_000000.wav|train-clean-100|23.50|Eduardo
+enf_7780|F|../dataset/LibriTTS_22050Hz/train-clean-100/7780/274562/7780_274562_000002_000001.wav|train-clean-100|23.50|tazzle
+enm_7278|M|../dataset/LibriTTS_22050Hz/train-clean-100/7278/246956/7278_246956_000003_000000.wav|train-clean-100|25.01|Jon Smith
+enm_2289|M|../dataset/LibriTTS_22050Hz/train-clean-100/2289/152258/2289_152258_000002_000002.wav|train-clean-100|25.08|David Kleparek
+enf_8238|F|../dataset/LibriTTS_22050Hz/train-clean-100/8238/274553/8238_274553_000006_000000.wav|train-clean-100|25.08|Madam Fickle
+enm_911|M|../dataset/LibriTTS_22050Hz/train-clean-100/911/128684/911_128684_000004_000000.wav|train-clean-100|23.83|frankjf
+enf_1088|F|../dataset/LibriTTS_22050Hz/train-clean-100/1088/134318/1088_134318_000001_000000.wav|train-clean-100|25.18|Christabel
+enm_1081|M|../dataset/LibriTTS_22050Hz/train-clean-100/1081/128618/1081_128618_000003_000000.wav|train-clean-100|25.18|Fracture
+enf_426|F|../dataset/LibriTTS_22050Hz/train-clean-100/426/122821/426_122821_000002_000000.wav|train-clean-100|25.21|Norah Piehl
+enm_4788|M|../dataset/LibriTTS_22050Hz/train-clean-100/4788/91208/4788_91208_000006_000001.wav|train-clean-100|25.04|Bill Boerst
+enm_374|M|../dataset/LibriTTS_22050Hz/train-clean-100/374/180299/374_180299_000001_000000.wav|train-clean-100|25.16|kumarei
+enf_7302|F|../dataset/LibriTTS_22050Hz/train-clean-100/7302/86814/7302_86814_000002_000001.wav|train-clean-100|25.10|Asta1234
+enm_60|M|../dataset/LibriTTS_22050Hz/train-clean-100/60/121082/60_121082_000003_000000.wav|train-clean-100|20.18|CBW Simon
+enf_198|F|../dataset/LibriTTS_22050Hz/train-clean-100/198/209/198_209_000004_000009.wav|train-clean-100|25.02|Heather Barnett
+enf_3983|F|../dataset/LibriTTS_22050Hz/train-clean-100/3983/5331/3983_5331_000002_000000.wav|train-clean-100|25.01|lavocedorata
+enf_89|F|../dataset/LibriTTS_22050Hz/train-clean-100/89/218/89_218_000002_000000.wav|train-clean-100|25.08|Kristen McQuillin
+enm_254|M|../dataset/LibriTTS_22050Hz/train-clean-100/254/27760/254_27760_000001_000000.wav|train-clean-100|25.06|Alan Davis Drake (1945-2010)
+enm_8770|M|../dataset/LibriTTS_22050Hz/train-clean-100/8770/295463/8770_295463_000005_000000.wav|train-clean-100|25.13|Paul Simonin
+enm_6437|M|../dataset/LibriTTS_22050Hz/train-clean-100/6437/66172/6437_66172_000001_000000.wav|train-clean-100|25.09|John Hoerr
+enf_8312|F|../dataset/LibriTTS_22050Hz/train-clean-100/8312/279790/8312_279790_000002_000000.wav|train-clean-100|25.14|Jaimie Noy
+enf_83|F|../dataset/LibriTTS_22050Hz/train-clean-100/83/11691/83_11691_000000_000004.wav|train-clean-100|25.04|Catharine Eastman
+enm_7402|M|../dataset/LibriTTS_22050Hz/train-clean-100/7402/90848/7402_90848_000000_000000.wav|train-clean-100|25.01|Canby Ibarra
+enm_6880|M|../dataset/LibriTTS_22050Hz/train-clean-100/6880/216547/6880_216547_000006_000000.wav|train-clean-100|25.10|Capybara
+enm_3242|M|../dataset/LibriTTS_22050Hz/train-clean-100/3242/8112/3242_8112_000001_000000.wav|train-clean-100|25.03|peac
+enf_1841|F|../dataset/LibriTTS_22050Hz/train-clean-100/1841/179183/1841_179183_000008_000000.wav|train-clean-100|25.13|Laura Caldwell
+enf_2391|F|../dataset/LibriTTS_22050Hz/train-clean-100/2391/145015/2391_145015_000001_000000.wav|train-clean-100|24.54|treefingers
+enm_2159|M|../dataset/LibriTTS_22050Hz/train-clean-100/2159/179154/2159_179154_000008_000001.wav|train-clean-100|25.12|Matthew Westra
+enm_8580|M|../dataset/LibriTTS_22050Hz/train-clean-100/8580/287364/8580_287364_000001_000000.wav|train-clean-100|19.82|Gary Dana
+enf_2416|F|../dataset/LibriTTS_22050Hz/train-clean-100/2416/152139/2416_152139_000001_000000.wav|train-clean-100|25.17|Julia Albath
+enf_1963|F|../dataset/LibriTTS_22050Hz/train-clean-100/1963/142776/1963_142776_000000_000000.wav|train-clean-100|25.19|Belinda Brown
+enf_5867|F|../dataset/LibriTTS_22050Hz/train-clean-100/5867/48852/5867_48852_000001_000000.wav|train-clean-100|23.63|Sharon Omi
+enm_2436|M|../dataset/LibriTTS_22050Hz/train-clean-100/2436/2476/2436_2476_000004_000001.wav|train-clean-100|25.15|Seth Adam Sher
+enm_3664|M|../dataset/LibriTTS_22050Hz/train-clean-100/3664/11714/3664_11714_000000_000001.wav|train-clean-100|25.06|Barry Eads
+enf_1970|F|../dataset/LibriTTS_22050Hz/train-clean-100/1970/10594/1970_10594_000002_000000.wav|train-clean-100|25.13|Dawn Larsen
+enf_87|F|../dataset/LibriTTS_22050Hz/train-clean-100/87/121553/87_121553_000007_000000.wav|train-clean-100|25.10|Rosalind Wills
+enm_8425|M|../dataset/LibriTTS_22050Hz/train-clean-100/8425/246962/8425_246962_000007_000000.wav|train-clean-100|25.16|Larry Wilson
+enf_5163|F|../dataset/LibriTTS_22050Hz/train-clean-100/5163/18515/5163_18515_000001_000000.wav|train-clean-100|23.57|LilyAnne
+enm_3723|M|../dataset/LibriTTS_22050Hz/train-clean-100/3723/171115/3723_171115_000003_000000.wav|train-clean-100|25.07|Kevin Lavin
+enm_8108|M|../dataset/LibriTTS_22050Hz/train-clean-100/8108/280359/8108_280359_000002_000000.wav|train-clean-100|25.03|drakaunus
+enf_3259|F|../dataset/LibriTTS_22050Hz/train-clean-100/3259/158083/3259_158083_000001_000000.wav|train-clean-100|25.19|Kate West
+enm_2518|M|../dataset/LibriTTS_22050Hz/train-clean-100/2518/154825/2518_154825_000003_000001.wav|train-clean-100|25.06|Rob Powell
+enf_3947|F|../dataset/LibriTTS_22050Hz/train-clean-100/3947/13260/3947_13260_000008_000000.wav|train-clean-100|22.43|johnell
+enf_3526|F|../dataset/LibriTTS_22050Hz/train-clean-100/3526/176651/3526_176651_000000_000000.wav|train-clean-100|25.18|Bereni
+enf_1898|F|../dataset/LibriTTS_22050Hz/train-clean-100/1898/145724/1898_145724_000007_000000.wav|train-clean-100|25.01|Jennifer
+enf_4088|F|../dataset/LibriTTS_22050Hz/train-clean-100/4088/158079/4088_158079_000038_000001.wav|train-clean-100|25.15|Blazin48
+enf_1447|F|../dataset/LibriTTS_22050Hz/train-clean-100/1447/17506/1447_17506_000001_000000.wav|train-clean-100|25.18|Luigina
+enm_8095|M|../dataset/LibriTTS_22050Hz/train-clean-100/8095/274345/8095_274345_000000_000000.wav|train-clean-100|25.03|Theodulf
+enf_5789|F|../dataset/LibriTTS_22050Hz/train-clean-100/5789/57195/5789_57195_000005_000005.wav|train-clean-100|25.16|Kirsten Wever
+enm_8063|M|../dataset/LibriTTS_22050Hz/train-clean-100/8063/274112/8063_274112_000017_000000.wav|train-clean-100|25.08|Robert Snoza
+enf_8468|F|../dataset/LibriTTS_22050Hz/train-clean-100/8468/294887/8468_294887_000004_000001.wav|train-clean-100|25.23|Jennifer Dorr
+enf_669|F|../dataset/LibriTTS_22050Hz/train-clean-100/669/129061/669_129061_000001_000000.wav|train-clean-100|25.17|Anne
+enf_3440|F|../dataset/LibriTTS_22050Hz/train-clean-100/3440/171009/3440_171009_000005_000001.wav|train-clean-100|25.18|Heidi Will
+enf_1502|F|../dataset/LibriTTS_22050Hz/train-clean-100/1502/122619/1502_122619_000000_000000.wav|train-clean-100|25.05|Ann Boyer
+enf_403|F|../dataset/LibriTTS_22050Hz/train-clean-100/403/128339/403_128339_000003_000000.wav|train-clean-100|25.14|Nocturna
+enf_4051|F|../dataset/LibriTTS_22050Hz/train-clean-100/4051/10927/4051_10927_000003_000001.wav|train-clean-100|25.14|Liz Devens
+enm_3857|M|../dataset/LibriTTS_22050Hz/train-clean-100/3857/182317/3857_182317_000000_000000.wav|train-clean-100|25.17|Epistomolus
+enm_3699|M|../dataset/LibriTTS_22050Hz/train-clean-100/3699/47246/3699_47246_000001_000001.wav|train-clean-100|25.15|Bruce Pirie
+enm_6925|M|../dataset/LibriTTS_22050Hz/train-clean-100/6925/80680/6925_80680_000005_000000.wav|train-clean-100|17.07|Thomas Meaney
+enm_196|M|../dataset/LibriTTS_22050Hz/train-clean-100/196/122150/196_122150_000000_000000.wav|train-clean-100|25.24|Stewart Wills
+enf_7635|F|../dataset/LibriTTS_22050Hz/train-clean-100/7635/105661/7635_105661_000003_000000.wav|train-clean-100|25.06|Judy Guinan
+enm_233|M|../dataset/LibriTTS_22050Hz/train-clean-100/233/155990/233_155990_000002_000000.wav|train-clean-100|24.72|Steve Karafit
+enm_4441|M|../dataset/LibriTTS_22050Hz/train-clean-100/4441/76250/4441_76250_000002_000000.wav|train-clean-100|25.06|William Peck
+enf_1263|F|../dataset/LibriTTS_22050Hz/train-clean-100/1263/139804/1263_139804_000001_000000.wav|train-clean-100|25.16|Leonie Rose
+enf_7517|F|../dataset/LibriTTS_22050Hz/train-clean-100/7517/100429/7517_100429_000001_000000.wav|train-clean-100|24.29|Raz Mason
+enf_7078|F|../dataset/LibriTTS_22050Hz/train-clean-100/7078/271888/7078_271888_000003_000000.wav|train-clean-100|25.14|Mary in Arkansas
+enf_6272|F|../dataset/LibriTTS_22050Hz/train-clean-100/6272/70171/6272_70171_000001_000000.wav|train-clean-100|25.14|jlenardon
+enm_1355|M|../dataset/LibriTTS_22050Hz/train-clean-100/1355/39947/1355_39947_000000_000001.wav|train-clean-100|22.31|Chris Gladis
+enm_1624|M|../dataset/LibriTTS_22050Hz/train-clean-100/1624/142933/1624_142933_000001_000000.wav|train-clean-100|22.03|Daniel Shorten
+enf_4214|F|../dataset/LibriTTS_22050Hz/train-clean-100/4214/7146/4214_7146_000000_000000.wav|train-clean-100|17.45|A. Janelle Risa
+enm_8747|M|../dataset/LibriTTS_22050Hz/train-clean-100/8747/293952/8747_293952_000002_000004.wav|train-clean-100|23.49|DeanOBuchanan
+enf_4853|F|../dataset/LibriTTS_22050Hz/train-clean-100/4853/27671/4853_27671_000001_000000.wav|train-clean-100|25.04|Barbara Derksen
+enm_163|M|../dataset/LibriTTS_22050Hz/train-clean-100/163/122947/163_122947_000015_000008.wav|train-clean-100|25.06|Andrew Miller
+enf_2182|F|../dataset/LibriTTS_22050Hz/train-clean-100/2182/181173/2182_181173_000001_000000.wav|train-clean-100|25.15|Susan Umpleby
+enf_6476|F|../dataset/LibriTTS_22050Hz/train-clean-100/6476/57446/6476_57446_000003_000000.wav|train-clean-100|25.17|Viridian
+enm_481|M|../dataset/LibriTTS_22050Hz/train-clean-100/481/123720/481_123720_000005_000003.wav|train-clean-100|25.08|Neal Foley
+enm_27|M|../dataset/LibriTTS_22050Hz/train-clean-100/27/123349/27_123349_000001_000000.wav|train-clean-100|20.14|Sean McKinley
+enf_3235|F|../dataset/LibriTTS_22050Hz/train-clean-100/3235/28433/3235_28433_000001_000000.wav|train-clean-100|24.94|Karen Commins
+enm_2843|M|../dataset/LibriTTS_22050Hz/train-clean-100/2843/152918/2843_152918_000000_000003.wav|train-clean-100|25.18|ricell
+enf_7148|F|../dataset/LibriTTS_22050Hz/train-clean-100/7148/82991/7148_82991_000014_000003.wav|train-clean-100|25.02|Vickie Ranz
+enf_2836|F|../dataset/LibriTTS_22050Hz/train-clean-100/2836/5355/2836_5355_000007_000002.wav|train-clean-100|25.12|Linda McDaniel
+enm_458|M|../dataset/LibriTTS_22050Hz/train-clean-100/458/126290/458_126290_000003_000000.wav|train-clean-100|17.30|Scott Splavec
+enf_103|F|../dataset/LibriTTS_22050Hz/train-clean-100/103/1241/103_1241_000000_000001.wav|train-clean-100|23.72|Karen Savage
+enf_6064|F|../dataset/LibriTTS_22050Hz/train-clean-100/6064/300880/6064_300880_000001_000000.wav|train-clean-100|25.04|Deborah Knight
+enf_8975|F|../dataset/LibriTTS_22050Hz/train-clean-100/8975/270782/8975_270782_000000_000000.wav|train-clean-100|25.11|Daisy Flaim
+enm_3607|M|../dataset/LibriTTS_22050Hz/train-clean-100/3607/29116/3607_29116_000001_000000.wav|train-clean-100|22.10|Richard Wallis
+enf_2691|F|../dataset/LibriTTS_22050Hz/train-clean-100/2691/156755/2691_156755_000002_000000.wav|train-clean-100|25.16|Donna Stewart
+enf_3982|F|../dataset/LibriTTS_22050Hz/train-clean-100/3982/178459/3982_178459_000001_000000.wav|train-clean-100|25.07|Kate Adams
+enm_5750|M|../dataset/LibriTTS_22050Hz/train-clean-100/5750/35690/5750_35690_000009_000017.wav|train-clean-100|25.08|laurencetrask
+enm_6209|M|../dataset/LibriTTS_22050Hz/train-clean-100/6209/34600/6209_34600_000001_000000.wav|train-clean-100|25.04|deckerteach
+enf_8324|F|../dataset/LibriTTS_22050Hz/train-clean-100/8324/286683/8324_286683_000001_000000.wav|train-clean-100|25.16|Kathy Wright
+enf_4297|F|../dataset/LibriTTS_22050Hz/train-clean-100/4297/13006/4297_13006_000006_000001.wav|train-clean-100|25.04|Tina Horning
+enf_4640|F|../dataset/LibriTTS_22050Hz/train-clean-100/4640/19187/4640_19187_000002_000001.wav|train-clean-100|25.06|Karen Mason
+enm_5456|M|../dataset/LibriTTS_22050Hz/train-clean-100/5456/62014/5456_62014_000003_000000.wav|train-clean-100|19.77|e_scarab
+enm_4859|M|../dataset/LibriTTS_22050Hz/train-clean-100/4859/29340/4859_29340_000004_000005.wav|train-clean-100|20.37|nathank
+enm_3168|M|../dataset/LibriTTS_22050Hz/train-clean-100/3168/173564/3168_173564_000001_000000.wav|train-clean-100|23.90|David Anton
+enf_6078|F|../dataset/LibriTTS_22050Hz/train-clean-100/6078/54013/6078_54013_000002_000000.wav|train-clean-100|25.02|dobsonfly
+enf_1098|F|../dataset/LibriTTS_22050Hz/train-clean-100/1098/133695/1098_133695_000002_000000.wav|train-clean-100|18.31|Merryb
+enm_7505|M|../dataset/LibriTTS_22050Hz/train-clean-100/7505/258964/7505_258964_000001_000000.wav|train-clean-100|25.13|Ron Lockhart
+enf_948|F|../dataset/LibriTTS_22050Hz/train-clean-360/948/132707/948_132707_000002_000001.wav|train-clean-360|25.13|Chere Theriot
+enm_3328|M|../dataset/LibriTTS_22050Hz/train-clean-360/3328/168638/3328_168638_000005_000000.wav|train-clean-360|25.16|Al Dano
+enm_3114|M|../dataset/LibriTTS_22050Hz/train-clean-360/3114/170976/3114_170976_000013_000000.wav|train-clean-360|25.04|Geoffrey Edwards
+enm_850|M|../dataset/LibriTTS_22050Hz/train-clean-360/850/131004/850_131004_000007_000000.wav|train-clean-360|22.03|tonypettit
+enf_3157|F|../dataset/LibriTTS_22050Hz/train-clean-360/3157/168062/3157_168062_000012_000000.wav|train-clean-360|25.05|TriciaG
+enm_1473|M|../dataset/LibriTTS_22050Hz/train-clean-360/1473/135657/1473_135657_000000_000000.wav|train-clean-360|25.10|Dan Polanco
+enm_8887|M|../dataset/LibriTTS_22050Hz/train-clean-360/8887/281472/8887_281472_000002_000000.wav|train-clean-360|21.11|Andrew Hernandez
+enm_3009|M|../dataset/LibriTTS_22050Hz/train-clean-360/3009/10327/3009_10327_000000_000000.wav|train-clean-360|25.00|Jim Ruddy
+enf_6937|F|../dataset/LibriTTS_22050Hz/train-clean-360/6937/112761/6937_112761_000004_000000.wav|train-clean-360|23.29|DVoice
+enm_548|M|../dataset/LibriTTS_22050Hz/train-clean-360/548/126959/548_126959_000003_000000.wav|train-clean-360|25.14|Chris Mitchell
+enm_157|M|../dataset/LibriTTS_22050Hz/train-clean-360/157/121907/157_121907_000016_000000.wav|train-clean-360|22.96|Ben Douglas
+enf_5723|F|../dataset/LibriTTS_22050Hz/train-clean-360/5723/43306/5723_43306_000004_000000.wav|train-clean-360|25.24|Linda Hogan
+enm_4854|M|../dataset/LibriTTS_22050Hz/train-clean-360/4854/24731/4854_24731_000005_000001.wav|train-clean-360|25.20|Doctor_wu
+enf_7933|F|../dataset/LibriTTS_22050Hz/train-clean-360/7933/113272/7933_113272_000002_000000.wav|train-clean-360|25.09|Highlandoaks
+enf_434|F|../dataset/LibriTTS_22050Hz/train-clean-360/434/132644/434_132644_000006_000001.wav|train-clean-360|25.09|Joyce Nussbaum
+enf_1093|F|../dataset/LibriTTS_22050Hz/train-clean-360/1093/132891/1093_132891_000001_000000.wav|train-clean-360|25.11|Kiki Baessell
+enf_1859|F|../dataset/LibriTTS_22050Hz/train-clean-360/1859/145703/1859_145703_000002_000000.wav|train-clean-360|25.17|Jan Baxter
+enm_7909|M|../dataset/LibriTTS_22050Hz/train-clean-360/7909/106369/7909_106369_000000_000002.wav|train-clean-360|1.92|MGreenberg
+enm_806|M|../dataset/LibriTTS_22050Hz/train-clean-360/806/123715/806_123715_000000_000000.wav|train-clean-360|22.41|Aaron Andradne
+enf_7945|F|../dataset/LibriTTS_22050Hz/train-clean-360/7945/112012/7945_112012_000001_000000.wav|train-clean-360|18.87|Lois Browne
+enm_2137|M|../dataset/LibriTTS_22050Hz/train-clean-360/2137/131748/2137_131748_000001_000001.wav|train-clean-360|25.02|Jerome Lawsen
+enm_7777|M|../dataset/LibriTTS_22050Hz/train-clean-360/7777/106366/7777_106366_000000_000001.wav|train-clean-360|16.44|Jacob Paine
+enf_1335|F|../dataset/LibriTTS_22050Hz/train-clean-360/1335/160602/1335_160602_000001_000000.wav|train-clean-360|25.08|Clarica
+enf_3638|F|../dataset/LibriTTS_22050Hz/train-clean-360/3638/696/3638_696_000005_000000.wav|train-clean-360|25.16|AmyG
+enm_4586|M|../dataset/LibriTTS_22050Hz/train-clean-360/4586/96498/4586_96498_000003_000000.wav|train-clean-360|25.05|Chris Caron
+enm_345|M|../dataset/LibriTTS_22050Hz/train-clean-360/345/1119/345_1119_000005_000000.wav|train-clean-360|25.19|Micah Sheppard
+enm_497|M|../dataset/LibriTTS_22050Hz/train-clean-360/497/125118/497_125118_000019_000000.wav|train-clean-360|25.00|audiotoshokan
+enm_8575|M|../dataset/LibriTTS_22050Hz/train-clean-360/8575/290351/8575_290351_000007_000000.wav|train-clean-360|25.04|Jeremy Robertson
+enm_3686|M|../dataset/LibriTTS_22050Hz/train-clean-360/3686/171133/3686_171133_000004_000000.wav|train-clean-360|25.07|Doug Delisle
+enm_5672|M|../dataset/LibriTTS_22050Hz/train-clean-360/5672/88367/5672_88367_000001_000000.wav|train-clean-360|25.21|Jacob Paul Starr
+enf_8118|F|../dataset/LibriTTS_22050Hz/train-clean-360/8118/114469/8118_114469_000003_000000.wav|train-clean-360|25.00|Katie McClain
+enf_246|F|../dataset/LibriTTS_22050Hz/train-clean-360/246/224/246_224_000000_000000.wav|train-clean-360|22.43|Beth Dudek
+enm_3927|M|../dataset/LibriTTS_22050Hz/train-clean-360/3927/6556/3927_6556_000000_000006.wav|train-clean-360|25.16|Bob Stretch
+enf_2709|F|../dataset/LibriTTS_22050Hz/train-clean-360/2709/158074/2709_158074_000002_000000.wav|train-clean-360|17.49|PopularOutcast
+enm_7030|M|../dataset/LibriTTS_22050Hz/train-clean-360/7030/64588/7030_64588_000001_000000.wav|train-clean-360|20.57|Conrad T
+enf_4116|F|../dataset/LibriTTS_22050Hz/train-clean-360/4116/13265/4116_13265_000002_000000.wav|train-clean-360|25.06|Amy Benton
+enm_454|M|../dataset/LibriTTS_22050Hz/train-clean-360/454/134728/454_134728_000003_000000.wav|train-clean-360|25.20|Tom Yates
+enf_373|F|../dataset/LibriTTS_22050Hz/train-clean-360/373/130974/373_130974_000000_000001.wav|train-clean-360|25.18|Kim Braun
+enm_7832|M|../dataset/LibriTTS_22050Hz/train-clean-360/7832/258250/7832_258250_000000_000000.wav|train-clean-360|25.01|DJRickyV
+enf_3493|F|../dataset/LibriTTS_22050Hz/train-clean-360/3493/17615/3493_17615_000002_000002.wav|train-clean-360|21.49|Gail Mattern
+enm_2319|M|../dataset/LibriTTS_22050Hz/train-clean-360/2319/138656/2319_138656_000010_000000.wav|train-clean-360|25.21|Jack Farrell
+enm_4010|M|../dataset/LibriTTS_22050Hz/train-clean-360/4010/10798/4010_10798_000001_000001.wav|train-clean-360|25.19|David Baldwin
+enm_3792|M|../dataset/LibriTTS_22050Hz/train-clean-360/3792/176660/3792_176660_000003_000000.wav|train-clean-360|16.38|Brian Keith Barnes
+enm_1607|M|../dataset/LibriTTS_22050Hz/train-clean-360/1607/149245/1607_149245_000004_000006.wav|train-clean-360|24.74|Claude Banta
+enm_583|M|../dataset/LibriTTS_22050Hz/train-clean-360/583/139009/583_139009_000021_000002.wav|train-clean-360|24.67|Russ Maxwell
+enf_203|F|../dataset/LibriTTS_22050Hz/train-clean-360/203/132069/203_132069_000002_000000.wav|train-clean-360|25.01|Marian Brown
+enm_3307|M|../dataset/LibriTTS_22050Hz/train-clean-360/3307/145145/3307_145145_000003_000000.wav|train-clean-360|25.06|Doug Allison
+enf_3003|F|../dataset/LibriTTS_22050Hz/train-clean-360/3003/12539/3003_12539_000001_000000.wav|train-clean-360|25.09|Sue Anderson
+enm_2696|M|../dataset/LibriTTS_22050Hz/train-clean-360/2696/157636/2696_157636_000029_000003.wav|train-clean-360|15.92|anonymous
+enm_1874|M|../dataset/LibriTTS_22050Hz/train-clean-360/1874/89898/1874_89898_000003_000004.wav|train-clean-360|25.21|Ernst Schnell
+enm_5401|M|../dataset/LibriTTS_22050Hz/train-clean-360/5401/102526/5401_102526_000002_000000.wav|train-clean-360|25.20|Andrew Nelson
+enm_8464|M|../dataset/LibriTTS_22050Hz/train-clean-360/8464/282934/8464_282934_000001_000000.wav|train-clean-360|18.03|HappyMiamiDad
+enm_3521|M|../dataset/LibriTTS_22050Hz/train-clean-360/3521/7591/3521_7591_000000_000000.wav|train-clean-360|25.07|NickNumber
+enm_5190|M|../dataset/LibriTTS_22050Hz/train-clean-360/5190/87791/5190_87791_000001_000000.wav|train-clean-360|25.15|Rom Maczka
+enm_3340|M|../dataset/LibriTTS_22050Hz/train-clean-360/3340/170982/3340_170982_000017_000004.wav|train-clean-360|25.12|Preston McConkie
+enf_318|F|../dataset/LibriTTS_22050Hz/train-clean-360/318/124164/318_124164_000001_000000.wav|train-clean-360|25.17|Eileen aka e
+enm_7126|M|../dataset/LibriTTS_22050Hz/train-clean-360/7126/59167/7126_59167_000010_000003.wav|train-clean-360|21.69|pekein
+enf_2230|F|../dataset/LibriTTS_22050Hz/train-clean-360/2230/132101/2230_132101_000002_000001.wav|train-clean-360|25.03|Isosceles
+enf_6620|F|../dataset/LibriTTS_22050Hz/train-clean-360/6620/283138/6620_283138_000000_000001.wav|train-clean-360|12.88|Amy Koenig
+enm_8479|M|../dataset/LibriTTS_22050Hz/train-clean-360/8479/276730/8479_276730_000004_000000.wav|train-clean-360|14.02|R.W. Rushing
+enm_4335|M|../dataset/LibriTTS_22050Hz/train-clean-360/4335/15082/4335_15082_000004_000000.wav|train-clean-360|21.74|davidb
+enm_7553|M|../dataset/LibriTTS_22050Hz/train-clean-360/7553/101278/7553_101278_000003_000000.wav|train-clean-360|25.22|BDSEmpire
+enm_6075|M|../dataset/LibriTTS_22050Hz/train-clean-360/6075/57156/6075_57156_000004_000000.wav|train-clean-360|25.08|Rob Smith
+enm_101|M|../dataset/LibriTTS_22050Hz/train-clean-360/101/126861/101_126861_000004_000000.wav|train-clean-360|25.04|paulino
+enm_6574|M|../dataset/LibriTTS_22050Hz/train-clean-360/6574/70756/6574_70756_000002_000000.wav|train-clean-360|25.02|Caden Vaughn Clegg
+enm_4595|M|../dataset/LibriTTS_22050Hz/train-clean-360/4595/45204/4595_45204_000002_000000.wav|train-clean-360|25.13|Eric Leach
+enf_1348|F|../dataset/LibriTTS_22050Hz/train-clean-360/1348/135832/1348_135832_000004_000001.wav|train-clean-360|22.68|Janet Friday
+enm_6553|M|../dataset/LibriTTS_22050Hz/train-clean-360/6553/82558/6553_82558_000004_000002.wav|train-clean-360|25.18|DublinGothic
+enf_209|F|../dataset/LibriTTS_22050Hz/train-clean-360/209/4733/209_4733_000000_000000.wav|train-clean-360|25.08|Moira Fogarty
+enf_6763|F|../dataset/LibriTTS_22050Hz/train-clean-360/6763/74797/6763_74797_000001_000000.wav|train-clean-360|21.20|Manjit Bains
+enm_210|M|../dataset/LibriTTS_22050Hz/train-clean-360/210/129396/210_129396_000010_000001.wav|train-clean-360|25.12|Aldark
+enf_4356|F|../dataset/LibriTTS_22050Hz/train-clean-360/4356/6506/4356_6506_000002_000000.wav|train-clean-360|25.07|Patricia Rutledge
+enf_1060|F|../dataset/LibriTTS_22050Hz/train-clean-360/1060/134451/1060_134451_000001_000000.wav|train-clean-360|20.07|Val Grimm
+enm_7833|M|../dataset/LibriTTS_22050Hz/train-clean-360/7833/102239/7833_102239_000001_000000.wav|train-clean-360|25.15|Jesse Crisp-Sears
+enm_4257|M|../dataset/LibriTTS_22050Hz/train-clean-360/4257/6397/4257_6397_000009_000000.wav|train-clean-360|22.42|garbageman99
+enm_835|M|../dataset/LibriTTS_22050Hz/train-clean-360/835/130876/835_130876_000005_000000.wav|train-clean-360|18.61|echo
+enm_1769|M|../dataset/LibriTTS_22050Hz/train-clean-360/1769/143484/1769_143484_000001_000000.wav|train-clean-360|25.21|ej
+enf_3094|F|../dataset/LibriTTS_22050Hz/train-clean-360/3094/136458/3094_136458_000008_000000.wav|train-clean-360|25.10|moe
+enf_115|F|../dataset/LibriTTS_22050Hz/train-clean-360/115/121720/115_121720_000003_000000.wav|train-clean-360|25.02|Maddie
+enf_1472|F|../dataset/LibriTTS_22050Hz/train-clean-360/1472/285314/1472_285314_000002_000000.wav|train-clean-360|25.15|Sarah Jennings
+enf_2573|F|../dataset/LibriTTS_22050Hz/train-clean-360/2573/178449/2573_178449_000001_000000.wav|train-clean-360|25.00|Becca B
+enf_4238|F|../dataset/LibriTTS_22050Hz/train-clean-360/4238/12895/4238_12895_000004_000000.wav|train-clean-360|24.09|Chela
+enf_3537|F|../dataset/LibriTTS_22050Hz/train-clean-360/3537/5704/3537_5704_000001_000002.wav|train-clean-360|25.10|Tracy Datlen
+enf_5712|F|../dataset/LibriTTS_22050Hz/train-clean-360/5712/48848/5712_48848_000003_000000.wav|train-clean-360|25.06|Alexandra Huckabay
+enm_3654|M|../dataset/LibriTTS_22050Hz/train-clean-360/3654/171139/3654_171139_000001_000000.wav|train-clean-360|25.09|Mark Wilson
+enf_3630|F|../dataset/LibriTTS_22050Hz/train-clean-360/3630/11612/3630_11612_000001_000000.wav|train-clean-360|12.45|Rachel Gatwood
+enm_2816|M|../dataset/LibriTTS_22050Hz/train-clean-360/2816/156159/2816_156159_000020_000004.wav|train-clean-360|25.19|Andrew Symons
+enf_2498|F|../dataset/LibriTTS_22050Hz/train-clean-360/2498/134816/2498_134816_000019_000013.wav|train-clean-360|25.05|B. Grebe
+enf_3645|F|../dataset/LibriTTS_22050Hz/train-clean-360/3645/39840/3645_39840_000002_000003.wav|train-clean-360|25.08|MaryAnn
+enm_2167|M|../dataset/LibriTTS_22050Hz/train-clean-360/2167/149881/2167_149881_000008_000000.wav|train-clean-360|25.00|spiderman0521
+enm_1638|M|../dataset/LibriTTS_22050Hz/train-clean-360/1638/84447/1638_84447_000001_000000.wav|train-clean-360|23.25|Kyle M.
+enf_549|F|../dataset/LibriTTS_22050Hz/train-clean-360/549/126410/549_126410_000002_000003.wav|train-clean-360|18.99|SarahHadley
+enf_6308|F|../dataset/LibriTTS_22050Hz/train-clean-360/6308/68358/6308_68358_000001_000000.wav|train-clean-360|23.36|Easton
+enf_1052|F|../dataset/LibriTTS_22050Hz/train-clean-360/1052/139308/1052_139308_000007_000002.wav|train-clean-360|25.13|Kathy Jacobs
+enm_2674|M|../dataset/LibriTTS_22050Hz/train-clean-360/2674/155968/2674_155968_000007_000002.wav|train-clean-360|24.32|Jason Procopio
+enm_2162|M|../dataset/LibriTTS_22050Hz/train-clean-360/2162/185436/2162_185436_000000_000000.wav|train-clean-360|25.10|Ray Clare
+enm_5656|M|../dataset/LibriTTS_22050Hz/train-clean-360/5656/44577/5656_44577_000008_000000.wav|train-clean-360|25.17|Joe Mabry
+enf_7481|F|../dataset/LibriTTS_22050Hz/train-clean-360/7481/101276/7481_101276_000003_000001.wav|train-clean-360|22.09|Karen Howard
+enf_6120|F|../dataset/LibriTTS_22050Hz/train-clean-360/6120/14976/6120_14976_000001_000000.wav|train-clean-360|24.31|Terra Mendoza
+enf_2256|F|../dataset/LibriTTS_22050Hz/train-clean-360/2256/137627/2256_137627_000001_000000.wav|train-clean-360|25.06|tamurile
+enf_1705|F|../dataset/LibriTTS_22050Hz/train-clean-360/1705/142318/1705_142318_000003_000000.wav|train-clean-360|23.78|tittletattle
+enf_2598|F|../dataset/LibriTTS_22050Hz/train-clean-360/2598/4654/2598_4654_000001_000000.wav|train-clean-360|23.05|Barbara Bulkeley
+enm_1028|M|../dataset/LibriTTS_22050Hz/train-clean-360/1028/133395/1028_133395_000001_000000.wav|train-clean-360|25.03|Tim Lundeen
+enm_6510|M|../dataset/LibriTTS_22050Hz/train-clean-360/6510/62558/6510_62558_000001_000000.wav|train-clean-360|25.05|JimD
+enm_7704|M|../dataset/LibriTTS_22050Hz/train-clean-360/7704/106969/7704_106969_000001_000000.wav|train-clean-360|25.16|Robert Harder
+enm_7518|M|../dataset/LibriTTS_22050Hz/train-clean-360/7518/86741/7518_86741_000007_000002.wav|train-clean-360|25.07|TJDasch
+enm_5319|M|../dataset/LibriTTS_22050Hz/train-clean-360/5319/42637/5319_42637_000003_000000.wav|train-clean-360|25.13|Guero
+enf_8506|F|../dataset/LibriTTS_22050Hz/train-clean-360/8506/287660/8506_287660_000002_000000.wav|train-clean-360|25.03|Denise Nordell
+enf_2570|F|../dataset/LibriTTS_22050Hz/train-clean-360/2570/157243/2570_157243_000003_000000.wav|train-clean-360|25.05|kindlibrarian
+enf_6895|F|../dataset/LibriTTS_22050Hz/train-clean-360/6895/96175/6895_96175_000000_000000.wav|train-clean-360|25.23|Reeses118
+enm_81|M|../dataset/LibriTTS_22050Hz/train-clean-360/81/121543/81_121543_000019_000000.wav|train-clean-360|25.22|Aaron Decker
+enm_4243|M|../dataset/LibriTTS_22050Hz/train-clean-360/4243/14929/4243_14929_000001_000000.wav|train-clean-360|25.16|Ian Grae
+enf_8776|F|../dataset/LibriTTS_22050Hz/train-clean-360/8776/270778/8776_270778_000002_000000.wav|train-clean-360|21.90|Taliesin
+enm_3221|M|../dataset/LibriTTS_22050Hz/train-clean-360/3221/138045/3221_138045_000001_000000.wav|train-clean-360|25.12|David Schoepf
+enm_2628|M|../dataset/LibriTTS_22050Hz/train-clean-360/2628/109663/2628_109663_000003_000000.wav|train-clean-360|25.22|Zloot
+enf_7495|F|../dataset/LibriTTS_22050Hz/train-clean-360/7495/102612/7495_102612_000002_000000.wav|train-clean-360|25.02|Arlene Joyce
+enf_5133|F|../dataset/LibriTTS_22050Hz/train-clean-360/5133/30591/5133_30591_000002_000000.wav|train-clean-360|25.04|Jo Karabasz
+enm_8138|M|../dataset/LibriTTS_22050Hz/train-clean-360/8138/287657/8138_287657_000000_000000.wav|train-clean-360|25.20|Lee Smalley
+enm_716|M|../dataset/LibriTTS_22050Hz/train-clean-360/716/129581/716_129581_000004_000000.wav|train-clean-360|22.52|martyd
+enm_459|M|../dataset/LibriTTS_22050Hz/train-clean-360/459/127521/459_127521_000001_000000.wav|train-clean-360|25.05|Mark Bradford
+enm_5883|M|../dataset/LibriTTS_22050Hz/train-clean-360/5883/59268/5883_59268_000001_000001.wav|train-clean-360|25.03|Jerry Romero
+enf_6099|F|../dataset/LibriTTS_22050Hz/train-clean-360/6099/67860/6099_67860_000002_000000.wav|train-clean-360|25.17|Cheri Gardner
+enm_7090|M|../dataset/LibriTTS_22050Hz/train-clean-360/7090/91801/7090_91801_000003_000000.wav|train-clean-360|25.05|Jon Sindell
+enf_2652|F|../dataset/LibriTTS_22050Hz/train-clean-360/2652/157644/2652_157644_000001_000000.wav|train-clean-360|15.01|MixieArmadillo
+enf_217|F|../dataset/LibriTTS_22050Hz/train-clean-360/217/122443/217_122443_000018_000000.wav|train-clean-360|17.71|firefly
+enm_5776|M|../dataset/LibriTTS_22050Hz/train-clean-360/5776/46889/5776_46889_000001_000000.wav|train-clean-360|17.71|Chris Pauley
+enm_3070|M|../dataset/LibriTTS_22050Hz/train-clean-360/3070/166423/3070_166423_000005_000002.wav|train-clean-360|25.15|Mike Schwabe
+enf_1641|F|../dataset/LibriTTS_22050Hz/train-clean-360/1641/130503/1641_130503_000002_000000.wav|train-clean-360|16.60|Rohanna
+enf_8722|F|../dataset/LibriTTS_22050Hz/train-clean-360/8722/296473/8722_296473_000017_000000.wav|train-clean-360|24.13|Emily Maynard
+enm_4039|M|../dataset/LibriTTS_22050Hz/train-clean-360/4039/184264/4039_184264_000000_000000.wav|train-clean-360|25.15|Shawn Craig Smith
+enm_1958|M|../dataset/LibriTTS_22050Hz/train-clean-360/1958/144503/1958_144503_000003_000001.wav|train-clean-360|25.17|Furio
+enf_205|F|../dataset/LibriTTS_22050Hz/train-clean-360/205/123882/205_123882_000001_000000.wav|train-clean-360|25.07|Esther
+enm_1265|M|../dataset/LibriTTS_22050Hz/train-clean-360/1265/135635/1265_135635_000000_000000.wav|train-clean-360|25.18|Edward Elmer
+enm_7069|M|../dataset/LibriTTS_22050Hz/train-clean-360/7069/246889/7069_246889_000008_000000.wav|train-clean-360|25.08|John Schuurman
+enm_2404|M|../dataset/LibriTTS_22050Hz/train-clean-360/2404/141240/2404_141240_000003_000000.wav|train-clean-360|25.21|n8evv
+enf_5604|F|../dataset/LibriTTS_22050Hz/train-clean-360/5604/26982/5604_26982_000005_000000.wav|train-clean-360|25.05|kittyandcheese
+enf_830|F|../dataset/LibriTTS_22050Hz/train-clean-360/830/130728/830_130728_000000_000000.wav|train-clean-360|22.26|sebrazer
+enm_1748|M|../dataset/LibriTTS_22050Hz/train-clean-360/1748/1560/1748_1560_000015_000000.wav|train-clean-360|25.16|Brad Powers
+enm_2201|M|../dataset/LibriTTS_22050Hz/train-clean-360/2201/7371/2201_7371_000000_000001.wav|train-clean-360|25.13|Stephen Escalera
+enm_5147|M|../dataset/LibriTTS_22050Hz/train-clean-360/5147/32137/5147_32137_000049_000002.wav|train-clean-360|25.04|Cody2
+enf_1463|F|../dataset/LibriTTS_22050Hz/train-clean-360/1463/134465/1463_134465_000002_000000.wav|train-clean-360|25.23|Vivian Bush
+enf_968|F|../dataset/LibriTTS_22050Hz/train-clean-360/968/122545/968_122545_000003_000000.wav|train-clean-360|24.49|Pat Elder
+enf_54|F|../dataset/LibriTTS_22050Hz/train-clean-360/54/121080/54_121080_000002_000000.wav|train-clean-360|25.07|Westwinds12
+enf_1885|F|../dataset/LibriTTS_22050Hz/train-clean-360/1885/136863/1885_136863_000004_000000.wav|train-clean-360|14.38|inkwelldragon
+enm_38|M|../dataset/LibriTTS_22050Hz/train-clean-360/38/121024/38_121024_000031_000000.wav|train-clean-360|25.11|R. Francis Smith
+enf_8573|F|../dataset/LibriTTS_22050Hz/train-clean-360/8573/286306/8573_286306_000001_000000.wav|train-clean-360|25.05|Paige G
+enf_5655|F|../dataset/LibriTTS_22050Hz/train-clean-360/5655/46268/5655_46268_000001_000000.wav|train-clean-360|25.14|Christine Rodriguez
+enf_3738|F|../dataset/LibriTTS_22050Hz/train-clean-360/3738/176680/3738_176680_000007_000000.wav|train-clean-360|25.01|Collee McKinnon
+enf_6544|F|../dataset/LibriTTS_22050Hz/train-clean-360/6544/71420/6544_71420_000008_000000.wav|train-clean-360|25.22|Amanda Friday
+enf_882|F|../dataset/LibriTTS_22050Hz/train-clean-360/882/123267/882_123267_000002_000001.wav|train-clean-360|24.14|Mur Lafferty
+enm_7837|M|../dataset/LibriTTS_22050Hz/train-clean-360/7837/109174/7837_109174_000006_000001.wav|train-clean-360|22.24|Alfian
+enm_8527|M|../dataset/LibriTTS_22050Hz/train-clean-360/8527/281132/8527_281132_000001_000000.wav|train-clean-360|25.15|Gary Bohannon
+enm_1639|M|../dataset/LibriTTS_22050Hz/train-clean-360/1639/132848/1639_132848_000008_000000.wav|train-clean-360|25.07|Joe Konno
+enf_8421|F|../dataset/LibriTTS_22050Hz/train-clean-360/8421/283462/8421_283462_000004_000000.wav|train-clean-360|20.02|Jackie Drown
+enf_278|F|../dataset/LibriTTS_22050Hz/train-clean-360/278/127215/278_127215_000010_000000.wav|train-clean-360|22.05|AliceG
+enm_3717|M|../dataset/LibriTTS_22050Hz/train-clean-360/3717/178149/3717_178149_000001_000000.wav|train-clean-360|25.09|Elliott Miller
+enf_6696|F|../dataset/LibriTTS_22050Hz/train-clean-360/6696/73295/6696_73295_000001_000000.wav|train-clean-360|25.14|Katryn Wiese
+enm_2093|M|../dataset/LibriTTS_22050Hz/train-clean-360/2093/143262/2093_143262_000005_000001.wav|train-clean-360|25.11|RK Wilcox
+enm_8772|M|../dataset/LibriTTS_22050Hz/train-clean-360/8772/295710/8772_295710_000001_000000.wav|train-clean-360|25.03|Martin Reyto
+enm_954|M|../dataset/LibriTTS_22050Hz/train-clean-360/954/130627/954_130627_000001_000000.wav|train-clean-360|14.44|Brooks Seveer
+enm_5389|M|../dataset/LibriTTS_22050Hz/train-clean-360/5389/4861/5389_4861_000004_000001.wav|train-clean-360|25.03|Joseph Lawler
+enm_2787|M|../dataset/LibriTTS_22050Hz/train-clean-360/2787/157400/2787_157400_000002_000000.wav|train-clean-360|19.66|Quentin Manuel
+enf_7515|F|../dataset/LibriTTS_22050Hz/train-clean-360/7515/220980/7515_220980_000001_000000.wav|train-clean-360|25.17|Cynthia Moyer
+enf_5266|F|../dataset/LibriTTS_22050Hz/train-clean-360/5266/34501/5266_34501_000004_000001.wav|train-clean-360|23.87|Jill
+enf_1933|F|../dataset/LibriTTS_22050Hz/train-clean-360/1933/146437/1933_146437_000000_000009.wav|train-clean-360|14.97|iremonger
+enf_5731|F|../dataset/LibriTTS_22050Hz/train-clean-360/5731/50777/5731_50777_000001_000000.wav|train-clean-360|25.14|Andrea Boltz
+enm_2427|M|../dataset/LibriTTS_22050Hz/train-clean-360/2427/154671/2427_154671_000003_000001.wav|train-clean-360|25.02|Ed Meade
+enm_2149|M|../dataset/LibriTTS_22050Hz/train-clean-360/2149/8912/2149_8912_000002_000000.wav|train-clean-360|23.08|Mark Penfold
+enf_4800|F|../dataset/LibriTTS_22050Hz/train-clean-360/4800/38660/4800_38660_000002_000000.wav|train-clean-360|25.14|Mary Herndon Bell
+enf_2010|F|../dataset/LibriTTS_22050Hz/train-clean-360/2010/147045/2010_147045_000003_000000.wav|train-clean-360|21.53|Julie Bynum
+enm_1025|M|../dataset/LibriTTS_22050Hz/train-clean-360/1025/92820/1025_92820_000003_000000.wav|train-clean-360|22.99|rdmagpie
+enf_1290|F|../dataset/LibriTTS_22050Hz/train-clean-360/1290/135762/1290_135762_000001_000002.wav|train-clean-360|15.49|librarianite
+enm_1316|M|../dataset/LibriTTS_22050Hz/train-clean-360/1316/132782/1316_132782_000012_000008.wav|train-clean-360|25.04|Estragon
+enf_6104|F|../dataset/LibriTTS_22050Hz/train-clean-360/6104/58843/6104_58843_000001_000000.wav|train-clean-360|25.15|Juliana M.
+enm_1283|M|../dataset/LibriTTS_22050Hz/train-clean-360/1283/129808/1283_129808_000000_000000.wav|train-clean-360|24.22|Paul Siegel
+enf_2751|F|../dataset/LibriTTS_22050Hz/train-clean-360/2751/142363/2751_142363_000003_000001.wav|train-clean-360|24.39|Angela Kelley
+enf_5984|F|../dataset/LibriTTS_22050Hz/train-clean-360/5984/63095/5984_63095_000001_000000.wav|train-clean-360|25.06|sbburke
+enm_6119|M|../dataset/LibriTTS_22050Hz/train-clean-360/6119/48032/6119_48032_000036_000000.wav|train-clean-360|18.01|Vinnie Tesla
+enm_6098|M|../dataset/LibriTTS_22050Hz/train-clean-360/6098/57836/6098_57836_000000_000000.wav|train-clean-360|25.07|Kancamagus
+enm_8066|M|../dataset/LibriTTS_22050Hz/train-clean-360/8066/114256/8066_114256_000002_000000.wav|train-clean-360|25.15|Tim Cote
+enm_7085|M|../dataset/LibriTTS_22050Hz/train-clean-360/7085/75807/7085_75807_000000_000000.wav|train-clean-360|25.19|voicebynatalie
+enf_4846|F|../dataset/LibriTTS_22050Hz/train-clean-360/4846/18524/4846_18524_000011_000000.wav|train-clean-360|19.94|Kathrin Salazar
+enm_2127|M|../dataset/LibriTTS_22050Hz/train-clean-360/2127/138047/2127_138047_000002_000000.wav|train-clean-360|20.16|wrongshore
+enm_3105|M|../dataset/LibriTTS_22050Hz/train-clean-360/3105/166683/3105_166683_000003_000001.wav|train-clean-360|25.20|gfairch511
+enf_5054|F|../dataset/LibriTTS_22050Hz/train-clean-360/5054/18527/5054_18527_000002_000000.wav|train-clean-360|25.13|Denice Stradling
+enf_3972|F|../dataset/LibriTTS_22050Hz/train-clean-360/3972/170212/3972_170212_000004_000000.wav|train-clean-360|25.07|Joy Easton
+enm_8050|M|../dataset/LibriTTS_22050Hz/train-clean-360/8050/110238/8050_110238_000004_000000.wav|train-clean-360|22.02|Jake Woldstad
+enm_8401|M|../dataset/LibriTTS_22050Hz/train-clean-360/8401/280380/8401_280380_000002_000000.wav|train-clean-360|24.29|Alexander Hatton
+enf_3781|F|../dataset/LibriTTS_22050Hz/train-clean-360/3781/156981/3781_156981_000017_000000.wav|train-clean-360|25.02|Celena Arter
+enf_7868|F|../dataset/LibriTTS_22050Hz/train-clean-360/7868/246932/7868_246932_000001_000000.wav|train-clean-360|25.03|Chessie Joy
+enf_6235|F|../dataset/LibriTTS_22050Hz/train-clean-360/6235/36641/6235_36641_000007_000000.wav|train-clean-360|21.98|ReadWriteLib
+enf_6352|F|../dataset/LibriTTS_22050Hz/train-clean-360/6352/83633/6352_83633_000001_000005.wav|train-clean-360|22.96|stmacduff
+enm_3185|M|../dataset/LibriTTS_22050Hz/train-clean-360/3185/163507/3185_163507_000001_000000.wav|train-clean-360|25.02|JohnNewman
+enm_6956|M|../dataset/LibriTTS_22050Hz/train-clean-360/6956/81870/6956_81870_000002_000005.wav|train-clean-360|25.10|DannyHauger
+enf_8183|F|../dataset/LibriTTS_22050Hz/train-clean-360/8183/282977/8183_282977_000003_000000.wav|train-clean-360|25.18|Cheri Jordan
+enm_4590|M|../dataset/LibriTTS_22050Hz/train-clean-360/4590/18005/4590_18005_000010_000007.wav|train-clean-360|25.22|Diapadion
+enf_227|F|../dataset/LibriTTS_22050Hz/train-clean-360/227/126539/227_126539_000016_000000.wav|train-clean-360|25.16|Sarah Key-DeLyria
+enf_8771|F|../dataset/LibriTTS_22050Hz/train-clean-360/8771/294523/8771_294523_000003_000000.wav|train-clean-360|15.40|Anna Millard
+enf_5063|F|../dataset/LibriTTS_22050Hz/train-clean-360/5063/32451/5063_32451_000012_000000.wav|train-clean-360|7.96|susanfrom
+enm_3540|M|../dataset/LibriTTS_22050Hz/train-clean-360/3540/163612/3540_163612_000005_000000.wav|train-clean-360|24.55|Bill Ruhsam
+enm_1777|M|../dataset/LibriTTS_22050Hz/train-clean-360/1777/142745/1777_142745_000000_000000.wav|train-clean-360|25.14|Professor Chronotis
+enf_7752|F|../dataset/LibriTTS_22050Hz/train-clean-360/7752/110526/7752_110526_000005_000000.wav|train-clean-360|25.08|Samantha Miles
+enm_7991|M|../dataset/LibriTTS_22050Hz/train-clean-360/7991/102381/7991_102381_000004_000005.wav|train-clean-360|25.01|Aaron Weber
+enm_3032|M|../dataset/LibriTTS_22050Hz/train-clean-360/3032/19361/3032_19361_000002_000000.wav|train-clean-360|25.10|Utek
+enf_2061|F|../dataset/LibriTTS_22050Hz/train-clean-360/2061/147110/2061_147110_000000_000000.wav|train-clean-360|25.08|Jodi Krangle
+enm_204|M|../dataset/LibriTTS_22050Hz/train-clean-360/204/287139/204_287139_000002_000000.wav|train-clean-360|25.18|Mark F. Smith
+enm_2368|M|../dataset/LibriTTS_22050Hz/train-clean-360/2368/157066/2368_157066_000008_000000.wav|train-clean-360|25.08|Alex C. Telander
+enm_4133|M|../dataset/LibriTTS_22050Hz/train-clean-360/4133/6541/4133_6541_000001_000001.wav|train-clean-360|24.12|BigStory
+enf_9026|F|../dataset/LibriTTS_22050Hz/train-clean-360/9026/282385/9026_282385_000001_000000.wav|train-clean-360|21.75|Tammy Porter
+enm_6492|M|../dataset/LibriTTS_22050Hz/train-clean-360/6492/68353/6492_68353_000001_000000.wav|train-clean-360|22.75|Hugh Gillis
+enf_339|F|../dataset/LibriTTS_22050Hz/train-clean-360/339/132717/339_132717_000001_000000.wav|train-clean-360|25.07|Heather Ordover
+enm_5802|M|../dataset/LibriTTS_22050Hz/train-clean-360/5802/76043/5802_76043_000004_000000.wav|train-clean-360|25.22|Christopher Maust
+enm_480|M|../dataset/LibriTTS_22050Hz/train-clean-360/480/126292/480_126292_000002_000000.wav|train-clean-360|25.13|Chris Vee
+enm_6080|M|../dataset/LibriTTS_22050Hz/train-clean-360/6080/58012/6080_58012_000002_000000.wav|train-clean-360|25.18|progressingamerica
+enf_1629|F|../dataset/LibriTTS_22050Hz/train-clean-360/1629/139707/1629_139707_000001_000001.wav|train-clean-360|25.09|Gwyneth
+enm_1226|M|../dataset/LibriTTS_22050Hz/train-clean-360/1226/141279/1226_141279_000004_000000.wav|train-clean-360|25.11|Russ Lemker
+enf_4044|F|../dataset/LibriTTS_22050Hz/train-clean-360/4044/9010/4044_9010_000004_000000.wav|train-clean-360|23.50|serenitylee
+enm_8643|M|../dataset/LibriTTS_22050Hz/train-clean-360/8643/298549/8643_298549_000000_000000.wav|train-clean-360|25.08|jabc1950
+enf_337|F|../dataset/LibriTTS_22050Hz/train-clean-360/337/126286/337_126286_000001_000000.wav|train-clean-360|25.15|Barbara Harvey
+enf_1100|F|../dataset/LibriTTS_22050Hz/train-clean-360/1100/135264/1100_135264_000000_000000.wav|train-clean-360|23.87|Danielle Flores
+enf_2592|F|../dataset/LibriTTS_22050Hz/train-clean-360/2592/5341/2592_5341_000001_000000.wav|train-clean-360|20.82|Anna Roberts
+enf_3215|F|../dataset/LibriTTS_22050Hz/train-clean-360/3215/5757/3215_5757_000022_000002.wav|train-clean-360|25.02|Shirley Ellen
+enm_3289|M|../dataset/LibriTTS_22050Hz/train-clean-360/3289/171108/3289_171108_000001_000000.wav|train-clean-360|25.06|lukeprog
+enm_5157|M|../dataset/LibriTTS_22050Hz/train-clean-360/5157/47237/5157_47237_000001_000000.wav|train-clean-360|25.25|drewmac
+enm_8494|M|../dataset/LibriTTS_22050Hz/train-clean-360/8494/244431/8494_244431_000003_000000.wav|train-clean-360|24.20|Bill Yallalee
+enm_6538|M|../dataset/LibriTTS_22050Hz/train-clean-360/6538/81859/6538_81859_000000_000002.wav|train-clean-360|25.19|Juan Federico
+enm_240|M|../dataset/LibriTTS_22050Hz/train-clean-360/240/144999/240_144999_000005_000002.wav|train-clean-360|25.06|Shurtagal
+enf_6006|F|../dataset/LibriTTS_22050Hz/train-clean-360/6006/60480/6006_60480_000004_000000.wav|train-clean-360|25.16|Stephanie Lee
+enm_2012|M|../dataset/LibriTTS_22050Hz/train-clean-360/2012/139356/2012_139356_000001_000000.wav|train-clean-360|25.20|jburby
+enf_783|F|../dataset/LibriTTS_22050Hz/train-clean-360/783/126739/783_126739_000052_000003.wav|train-clean-360|23.98|Gina
+enm_8490|M|../dataset/LibriTTS_22050Hz/train-clean-360/8490/284269/8490_284269_000003_000003.wav|train-clean-360|16.96|Matt Parker
+enf_6373|F|../dataset/LibriTTS_22050Hz/train-clean-360/6373/65772/6373_65772_000003_000001.wav|train-clean-360|25.20|Sandie Guenther
+enf_4363|F|../dataset/LibriTTS_22050Hz/train-clean-360/4363/11049/4363_11049_000008_000000.wav|train-clean-360|25.04|Emily Livingston
+enm_561|M|../dataset/LibriTTS_22050Hz/train-clean-360/561/126312/561_126312_000001_000001.wav|train-clean-360|24.78|Quentin
+enm_8687|M|../dataset/LibriTTS_22050Hz/train-clean-360/8687/216570/8687_216570_000002_000001.wav|train-clean-360|21.21|EccentricOwl
+enm_1121|M|../dataset/LibriTTS_22050Hz/train-clean-360/1121/135824/1121_135824_000002_000002.wav|train-clean-360|25.12|John Lieder
+enm_4495|M|../dataset/LibriTTS_22050Hz/train-clean-360/4495/10160/4495_10160_000004_000000.wav|train-clean-360|25.09|Dillon Stiles
+enf_2269|F|../dataset/LibriTTS_22050Hz/train-clean-360/2269/147627/2269_147627_000002_000000.wav|train-clean-360|25.06|Rhonda Federman
+enm_7867|M|../dataset/LibriTTS_22050Hz/train-clean-360/7867/275218/7867_275218_000002_000000.wav|train-clean-360|25.08|nomorejeffs
+enm_7000|M|../dataset/LibriTTS_22050Hz/train-clean-360/7000/83696/7000_83696_000001_000000.wav|train-clean-360|24.75|Kevin Alix
+enf_5570|F|../dataset/LibriTTS_22050Hz/train-clean-360/5570/73846/5570_73846_000002_000000.wav|train-clean-360|25.05|Corinna Schultz
+enm_1535|M|../dataset/LibriTTS_22050Hz/train-clean-360/1535/141642/1535_141642_000002_000000.wav|train-clean-360|22.74|Robert Scott
+enm_4848|M|../dataset/LibriTTS_22050Hz/train-clean-360/4848/29108/4848_29108_000001_000002.wav|train-clean-360|25.09|Dee Wykoff
+enm_1323|M|../dataset/LibriTTS_22050Hz/train-clean-360/1323/149236/1323_149236_000000_000004.wav|train-clean-360|25.08|Leon Mire
+enm_1379|M|../dataset/LibriTTS_22050Hz/train-clean-360/1379/130517/1379_130517_000004_000000.wav|train-clean-360|25.09|Ken Crooker
+enm_984|M|../dataset/LibriTTS_22050Hz/train-clean-360/984/137154/984_137154_000002_000000.wav|train-clean-360|23.39|J A Carter
+enf_8300|F|../dataset/LibriTTS_22050Hz/train-clean-360/8300/275128/8300_275128_000000_000000.wav|train-clean-360|24.44|Judith Parker
+enm_953|M|../dataset/LibriTTS_22050Hz/train-clean-360/953/130625/953_130625_000000_000000.wav|train-clean-360|20.76|Jim Mullins
+enm_2589|M|../dataset/LibriTTS_22050Hz/train-clean-360/2589/177234/2589_177234_000005_000001.wav|train-clean-360|25.04|Jordan
+enm_5985|M|../dataset/LibriTTS_22050Hz/train-clean-360/5985/63885/5985_63885_000003_000000.wav|train-clean-360|25.01|James K. White
+enm_154|M|../dataset/LibriTTS_22050Hz/train-clean-360/154/123998/154_123998_000011_000004.wav|train-clean-360|25.13|Robert Foster
+enf_1752|F|../dataset/LibriTTS_22050Hz/train-clean-360/1752/16632/1752_16632_000013_000000.wav|train-clean-360|22.90|Jan MacGillivray
+enm_5767|M|../dataset/LibriTTS_22050Hz/train-clean-360/5767/48579/5767_48579_000000_000000.wav|train-clean-360|17.85|taijohn
+enf_6339|F|../dataset/LibriTTS_22050Hz/train-clean-360/6339/65534/6339_65534_000001_000000.wav|train-clean-360|25.13|Michelle Remington
+enf_8699|F|../dataset/LibriTTS_22050Hz/train-clean-360/8699/291107/8699_291107_000001_000000.wav|train-clean-360|22.64|Jessica Atha
+enm_1387|M|../dataset/LibriTTS_22050Hz/train-clean-360/1387/134991/1387_134991_000008_000003.wav|train-clean-360|25.05|Scott Mather
+enm_3118|M|../dataset/LibriTTS_22050Hz/train-clean-360/3118/5911/3118_5911_000008_000000.wav|train-clean-360|25.06|George Yeager
+enm_4054|M|../dataset/LibriTTS_22050Hz/train-clean-360/4054/11077/4054_11077_000002_000000.wav|train-clean-360|15.16|Ryan Gubele
+enf_534|F|../dataset/LibriTTS_22050Hz/train-clean-360/534/127537/534_127537_000001_000000.wav|train-clean-360|25.01|Jean O'Sullivan
+enm_5448|M|../dataset/LibriTTS_22050Hz/train-clean-360/5448/19208/5448_19208_000006_000000.wav|train-clean-360|20.40|Bryan Reid
+enm_207|M|../dataset/LibriTTS_22050Hz/train-clean-360/207/131203/207_131203_000001_000000.wav|train-clean-360|25.00|Kevin McAsh
+enm_7188|M|../dataset/LibriTTS_22050Hz/train-clean-360/7188/82904/7188_82904_000002_000000.wav|train-clean-360|25.07|Marty
+enf_6637|F|../dataset/LibriTTS_22050Hz/train-clean-360/6637/71405/6637_71405_000008_000000.wav|train-clean-360|25.21|Christine Nendza
+enm_2473|M|../dataset/LibriTTS_22050Hz/train-clean-360/2473/155521/2473_155521_000010_000001.wav|train-clean-360|25.16|Hoosemon
+enm_5918|M|../dataset/LibriTTS_22050Hz/train-clean-360/5918/46890/5918_46890_000000_000000.wav|train-clean-360|25.20|Mike Wajda
+enf_1343|F|../dataset/LibriTTS_22050Hz/train-clean-360/1343/158781/1343_158781_000004_000000.wav|train-clean-360|25.13|Laura Koskinen
+enm_8713|M|../dataset/LibriTTS_22050Hz/train-clean-360/8713/300047/8713_300047_000002_000000.wav|train-clean-360|25.23|Expatriate
+enm_1392|M|../dataset/LibriTTS_22050Hz/train-clean-360/1392/135654/1392_135654_000007_000000.wav|train-clean-360|25.22|Chris Masterson
+enm_2110|M|../dataset/LibriTTS_22050Hz/train-clean-360/2110/161101/2110_161101_000001_000000.wav|train-clean-360|25.09|Aaron Elliott
+enf_192|F|../dataset/LibriTTS_22050Hz/train-clean-360/192/128344/192_128344_000001_000001.wav|train-clean-360|25.19|Deborah Clark
+enf_2741|F|../dataset/LibriTTS_22050Hz/train-clean-360/2741/159386/2741_159386_000001_000000.wav|train-clean-360|25.21|Jan Dawn Doronila
+enm_7938|M|../dataset/LibriTTS_22050Hz/train-clean-360/7938/110128/7938_110128_000001_000000.wav|train-clean-360|25.18|Goss45
+enf_2785|F|../dataset/LibriTTS_22050Hz/train-clean-360/2785/163322/2785_163322_000007_000001.wav|train-clean-360|25.23|humeangel
+enf_1401|F|../dataset/LibriTTS_22050Hz/train-clean-360/1401/174511/1401_174511_000002_000000.wav|train-clean-360|25.19|Sibella Denton
+enm_2299|M|../dataset/LibriTTS_22050Hz/train-clean-360/2299/6525/2299_6525_000000_000003.wav|train-clean-360|25.23|cpalmer17
+enm_7569|M|../dataset/LibriTTS_22050Hz/train-clean-360/7569/102240/7569_102240_000004_000000.wav|train-clean-360|25.17|Stephen L. Moss
+enf_925|F|../dataset/LibriTTS_22050Hz/train-clean-360/925/8141/925_8141_000000_000005.wav|train-clean-360|25.22|pattymarie
+enf_5660|F|../dataset/LibriTTS_22050Hz/train-clean-360/5660/101892/5660_101892_000005_000000.wav|train-clean-360|25.17|hollz
+enm_3483|M|../dataset/LibriTTS_22050Hz/train-clean-360/3483/174132/3483_174132_000003_000000.wav|train-clean-360|25.20|Alan Winterrowd
+enm_5239|M|../dataset/LibriTTS_22050Hz/train-clean-360/5239/31629/5239_31629_000002_000001.wav|train-clean-360|25.05|compozr
+enm_2562|M|../dataset/LibriTTS_22050Hz/train-clean-360/2562/133442/2562_133442_000002_000000.wav|train-clean-360|25.19|Scott Merrill
+enf_7445|F|../dataset/LibriTTS_22050Hz/train-clean-360/7445/94526/7445_94526_000000_000001.wav|train-clean-360|25.14|Emily Anderson
+enm_1482|M|../dataset/LibriTTS_22050Hz/train-clean-360/1482/140067/1482_140067_000002_000000.wav|train-clean-360|25.00|Joshua B. Christensen
+enm_475|M|../dataset/LibriTTS_22050Hz/train-clean-360/475/124999/475_124999_000002_000000.wav|train-clean-360|23.95|Jason X.
+enm_5914|M|../dataset/LibriTTS_22050Hz/train-clean-360/5914/52087/5914_52087_000000_000000.wav|train-clean-360|25.14|bobbybrill
+enf_126|F|../dataset/LibriTTS_22050Hz/train-clean-360/126/125084/126_125084_000002_000003.wav|train-clean-360|25.15|Susan Denney
+enf_8677|F|../dataset/LibriTTS_22050Hz/train-clean-360/8677/296078/8677_296078_000002_000000.wav|train-clean-360|25.17|KHand
+enf_114|F|../dataset/LibriTTS_22050Hz/train-clean-360/114/129317/114_129317_000004_000000.wav|train-clean-360|25.03|Jen Kidd
+enf_7335|F|../dataset/LibriTTS_22050Hz/train-clean-360/7335/290365/7335_290365_000000_000000.wav|train-clean-360|23.72|Kathryn Louise
+enm_7475|M|../dataset/LibriTTS_22050Hz/train-clean-360/7475/232691/7475_232691_000008_000001.wav|train-clean-360|6.10|Jared Hess
+enf_1241|F|../dataset/LibriTTS_22050Hz/train-clean-360/1241/121103/1241_121103_000001_000001.wav|train-clean-360|25.12|Catherine Fitz
+enm_7484|M|../dataset/LibriTTS_22050Hz/train-clean-360/7484/39971/7484_39971_000001_000000.wav|train-clean-360|22.63|Tyran Rexx
+enf_7995|F|../dataset/LibriTTS_22050Hz/train-clean-360/7995/276907/7995_276907_000003_000000.wav|train-clean-360|25.20|Marie Hoffman
+enf_1668|F|../dataset/LibriTTS_22050Hz/train-clean-360/1668/136280/1668_136280_000006_000003.wav|train-clean-360|22.96|stepheather
+enm_8879|M|../dataset/LibriTTS_22050Hz/train-clean-360/8879/300234/8879_300234_000007_000006.wav|train-clean-360|25.07|Son of the Exiles
+enf_288|F|../dataset/LibriTTS_22050Hz/train-clean-360/288/121741/288_121741_000000_000000.wav|train-clean-360|25.13|Bookworm
+enm_3389|M|../dataset/LibriTTS_22050Hz/train-clean-360/3389/13248/3389_13248_000001_000001.wav|train-clean-360|25.25|von
+enf_7525|F|../dataset/LibriTTS_22050Hz/train-clean-360/7525/101265/7525_101265_000008_000000.wav|train-clean-360|25.19|Jeannie Tirado
+enf_596|F|../dataset/LibriTTS_22050Hz/train-clean-360/596/127685/596_127685_000002_000000.wav|train-clean-360|25.00|Carol Goode
+enf_7120|F|../dataset/LibriTTS_22050Hz/train-clean-360/7120/118112/7120_118112_000000_000000.wav|train-clean-360|25.10|L D Hamilton
+enm_7051|M|../dataset/LibriTTS_22050Hz/train-clean-360/7051/259009/7051_259009_000004_000000.wav|train-clean-360|13.88|Andrew White
+enf_3922|F|../dataset/LibriTTS_22050Hz/train-clean-360/3922/723/3922_723_000000_000002.wav|train-clean-360|25.20|Ashley Candland
+enf_612|F|../dataset/LibriTTS_22050Hz/train-clean-360/612/121760/612_121760_000001_000000.wav|train-clean-360|21.70|Cindy Steib
+enm_8142|M|../dataset/LibriTTS_22050Hz/train-clean-360/8142/110520/8142_110520_000007_000000.wav|train-clean-360|25.06|Timothy Lucas
+enm_6497|M|../dataset/LibriTTS_22050Hz/train-clean-360/6497/234106/6497_234106_000005_000000.wav|train-clean-360|25.04|James E. Carson
+enm_770|M|../dataset/LibriTTS_22050Hz/train-clean-360/770/43321/770_43321_000006_000000.wav|train-clean-360|25.00|Justin S Barrett
+enm_6965|M|../dataset/LibriTTS_22050Hz/train-clean-360/6965/291718/6965_291718_000005_000000.wav|train-clean-360|25.00|NoelBadrian
+enm_1018|M|../dataset/LibriTTS_22050Hz/train-clean-360/1018/135221/1018_135221_000001_000000.wav|train-clean-360|25.07|JimmyLogan
+enm_1776|M|../dataset/LibriTTS_22050Hz/train-clean-360/1776/139035/1776_139035_000001_000000.wav|train-clean-360|25.17|Jim Eastman
+enf_7318|F|../dataset/LibriTTS_22050Hz/train-clean-360/7318/96151/7318_96151_000004_000000.wav|train-clean-360|25.13|Anise
+enf_2060|F|../dataset/LibriTTS_22050Hz/train-clean-360/2060/147963/2060_147963_000004_000000.wav|train-clean-360|25.02|Julie Pandya
+enm_5189|M|../dataset/LibriTTS_22050Hz/train-clean-360/5189/56574/5189_56574_000004_000000.wav|train-clean-360|25.25|Samanem
+enm_2494|M|../dataset/LibriTTS_22050Hz/train-clean-360/2494/156019/2494_156019_000002_000000.wav|train-clean-360|25.03|Mark Cawley
+enf_2853|F|../dataset/LibriTTS_22050Hz/train-clean-360/2853/164188/2853_164188_000002_000003.wav|train-clean-360|25.00|Jane Greensmith
+enf_4926|F|../dataset/LibriTTS_22050Hz/train-clean-360/4926/23281/4926_23281_000049_000001.wav|train-clean-360|25.21|browneyedgirl32382
+enm_6727|M|../dataset/LibriTTS_22050Hz/train-clean-360/6727/10344/6727_10344_000002_000000.wav|train-clean-360|9.40|Tony Russell
+enm_5717|M|../dataset/LibriTTS_22050Hz/train-clean-360/5717/61421/5717_61421_000003_000000.wav|train-clean-360|25.14|Phil Chenevert
+enm_4681|M|../dataset/LibriTTS_22050Hz/train-clean-360/4681/13056/4681_13056_000005_000000.wav|train-clean-360|19.11|Frank Adams
+enf_5290|F|../dataset/LibriTTS_22050Hz/train-clean-360/5290/26685/5290_26685_000001_000000.wav|train-clean-360|25.04|Natalie
+enm_8195|M|../dataset/LibriTTS_22050Hz/train-clean-360/8195/117382/8195_117382_000002_000000.wav|train-clean-360|25.04|Mr Krause
+enm_606|M|../dataset/LibriTTS_22050Hz/train-clean-360/606/130296/606_130296_000000_000003.wav|train-clean-360|25.02|Julian Jamison
+enm_5935|M|../dataset/LibriTTS_22050Hz/train-clean-360/5935/43305/5935_43305_000003_000000.wav|train-clean-360|25.07|Mike Okonek
+enm_8855|M|../dataset/LibriTTS_22050Hz/train-clean-360/8855/283242/8855_283242_000002_000000.wav|train-clean-360|25.01|Eric Metzler
+enf_3551|F|../dataset/LibriTTS_22050Hz/train-clean-360/3551/7884/3551_7884_000002_000000.wav|train-clean-360|25.10|Annie Kirkpatrick
+enf_1961|F|../dataset/LibriTTS_22050Hz/train-clean-360/1961/145733/1961_145733_000001_000000.wav|train-clean-360|25.18|Qhali
+enf_479|F|../dataset/LibriTTS_22050Hz/train-clean-360/479/126480/479_126480_000007_000000.wav|train-clean-360|25.00|wedschild
+enm_1806|M|../dataset/LibriTTS_22050Hz/train-clean-360/1806/143946/1806_143946_000000_000000.wav|train-clean-360|25.05|Gary W. Sherwin
+enf_8388|F|../dataset/LibriTTS_22050Hz/train-clean-360/8388/275212/8388_275212_000001_000000.wav|train-clean-360|22.87|Jacki Horn
+enm_231|M|../dataset/LibriTTS_22050Hz/train-clean-360/231/127936/231_127936_000001_000000.wav|train-clean-360|22.19|Sean McGaughey
+enf_274|F|../dataset/LibriTTS_22050Hz/train-clean-360/274/121382/274_121382_000001_000000.wav|train-clean-360|25.18|Eileen George
+enm_2074|M|../dataset/LibriTTS_22050Hz/train-clean-360/2074/159371/2074_159371_000002_000000.wav|train-clean-360|25.06|Tysto
+enm_272|M|../dataset/LibriTTS_22050Hz/train-clean-360/272/130227/272_130227_000006_000000.wav|train-clean-360|16.45|Mr. Baby Man
+enm_7881|M|../dataset/LibriTTS_22050Hz/train-clean-360/7881/110131/7881_110131_000000_000000.wav|train-clean-360|22.90|Sam Naishtat
+enf_1054|F|../dataset/LibriTTS_22050Hz/train-clean-360/1054/143005/1054_143005_000001_000000.wav|train-clean-360|24.80|Igor Teaforay
+enf_7229|F|../dataset/LibriTTS_22050Hz/train-clean-360/7229/80665/7229_80665_000001_000000.wav|train-clean-360|21.53|Linda Ciano
+enm_1826|M|../dataset/LibriTTS_22050Hz/train-clean-360/1826/142752/1826_142752_000000_000000.wav|train-clean-360|25.18|Jacob Miller
+enf_4899|F|../dataset/LibriTTS_22050Hz/train-clean-360/4899/32637/4899_32637_000001_000000.wav|train-clean-360|25.23|Theresa L. Downey
+enm_7949|M|../dataset/LibriTTS_22050Hz/train-clean-360/7949/39970/7949_39970_000003_000000.wav|train-clean-360|22.19|Jon Miller
+enm_637|M|../dataset/LibriTTS_22050Hz/train-clean-360/637/127595/637_127595_000001_000000.wav|train-clean-360|25.11|Michael Scherer
+enm_1536|M|../dataset/LibriTTS_22050Hz/train-clean-360/1536/137608/1536_137608_000007_000000.wav|train-clean-360|25.23|Marco
+enf_242|F|../dataset/LibriTTS_22050Hz/train-clean-360/242/122625/242_122625_000004_000000.wav|train-clean-360|25.12|Cagirlwithasoutherndrawl
+enm_816|M|../dataset/LibriTTS_22050Hz/train-clean-360/816/53638/816_53638_000002_000000.wav|train-clean-360|23.23|Jeff Robinson
+enf_666|F|../dataset/LibriTTS_22050Hz/train-clean-360/666/11243/666_11243_000001_000000.wav|train-clean-360|24.58|Monique
+enf_5139|F|../dataset/LibriTTS_22050Hz/train-clean-360/5139/61422/5139_61422_000003_000000.wav|train-clean-360|25.16|Katine
+enm_4734|M|../dataset/LibriTTS_22050Hz/train-clean-360/4734/220951/4734_220951_000001_000000.wav|train-clean-360|17.07|Adib Masumian
+enm_1513|M|../dataset/LibriTTS_22050Hz/train-clean-360/1513/140221/1513_140221_000000_000000.wav|train-clean-360|25.11|Simon-Peter Zak
+enm_5304|M|../dataset/LibriTTS_22050Hz/train-clean-360/5304/55856/5304_55856_000000_000000.wav|train-clean-360|21.08|Don W. Jenkins
+enf_380|F|../dataset/LibriTTS_22050Hz/train-clean-360/380/129064/380_129064_000007_000003.wav|train-clean-360|25.15|Laurie Campbell
+enf_2532|F|../dataset/LibriTTS_22050Hz/train-clean-360/2532/157475/2532_157475_000003_000000.wav|train-clean-360|25.11|Jennifer Lott
+enf_14|F|../dataset/LibriTTS_22050Hz/train-clean-360/14/208/14_208_000001_000000.wav|train-clean-360|25.03|Kristin LeMoine
+enm_5975|M|../dataset/LibriTTS_22050Hz/train-clean-360/5975/54006/5975_54006_000000_000000.wav|train-clean-360|25.12|Tony Maxey
+enm_4719|M|../dataset/LibriTTS_22050Hz/train-clean-360/4719/25765/4719_25765_000001_000000.wav|train-clean-360|22.99|M. Craun
+enf_3001|F|../dataset/LibriTTS_22050Hz/train-clean-360/3001/160952/3001_160952_000008_000000.wav|train-clean-360|21.97|priscilla hewitt
+enm_724|M|../dataset/LibriTTS_22050Hz/train-clean-360/724/123285/724_123285_000003_000000.wav|train-clean-360|25.08|Michael Crowl
+enf_3083|F|../dataset/LibriTTS_22050Hz/train-clean-360/3083/7944/3083_7944_000001_000000.wav|train-clean-360|25.06|Emily Jarmard
+enf_7789|F|../dataset/LibriTTS_22050Hz/train-clean-360/7789/258266/7789_258266_000000_000000.wav|train-clean-360|25.04|Lauren Jane
+enf_2882|F|../dataset/LibriTTS_22050Hz/train-clean-360/2882/147159/2882_147159_000002_000000.wav|train-clean-360|23.84|ayngelwing
+enf_362|F|../dataset/LibriTTS_22050Hz/train-clean-360/362/123048/362_123048_000012_000000.wav|train-clean-360|25.07|Judith Brown
+enf_4967|F|../dataset/LibriTTS_22050Hz/train-clean-360/4967/3586/4967_3586_000003_000000.wav|train-clean-360|25.02|Karen
+enf_3380|F|../dataset/LibriTTS_22050Hz/train-clean-360/3380/64298/3380_64298_000001_000000.wav|train-clean-360|25.06|DrBeccaAnne
+enf_7416|F|../dataset/LibriTTS_22050Hz/train-clean-360/7416/103126/7416_103126_000002_000000.wav|train-clean-360|22.16|Jeanni Hall
+enm_581|M|../dataset/LibriTTS_22050Hz/train-clean-360/581/126957/581_126957_000001_000000.wav|train-clean-360|25.20|C. Berrius
+enm_6499|M|../dataset/LibriTTS_22050Hz/train-clean-360/6499/91098/6499_91098_000000_000000.wav|train-clean-360|25.19|dave7
+enm_2999|M|../dataset/LibriTTS_22050Hz/train-clean-360/2999/156967/2999_156967_000008_000000.wav|train-clean-360|25.16|Joseph Finkberg
+enm_6446|M|../dataset/LibriTTS_22050Hz/train-clean-360/6446/40571/6446_40571_000001_000000.wav|train-clean-360|25.11|Bob Gonzalez
+enf_5062|F|../dataset/LibriTTS_22050Hz/train-clean-360/5062/294697/5062_294697_000001_000000.wav|train-clean-360|25.09|E Ogston
+enm_594|M|../dataset/LibriTTS_22050Hz/train-clean-360/594/127732/594_127732_000001_000000.wav|train-clean-360|25.12|KentF
+enf_1498|F|../dataset/LibriTTS_22050Hz/train-clean-360/1498/140041/1498_140041_000001_000000.wav|train-clean-360|18.38|Lori Hebel
+enm_476|M|../dataset/LibriTTS_22050Hz/train-clean-360/476/134312/476_134312_000002_000000.wav|train-clean-360|25.08|Chuck Spann
+enf_8545|F|../dataset/LibriTTS_22050Hz/train-clean-360/8545/287671/8545_287671_000015_000000.wav|train-clean-360|25.14|Joanne Rochon
+enf_7383|F|../dataset/LibriTTS_22050Hz/train-clean-360/7383/95441/7383_95441_000002_000000.wav|train-clean-360|20.20|Meg Cowan
+enm_718|M|../dataset/LibriTTS_22050Hz/train-clean-360/718/129594/718_129594_000004_000000.wav|train-clean-360|25.08|clarknova
+enf_7286|F|../dataset/LibriTTS_22050Hz/train-clean-360/7286/92930/7286_92930_000000_000000.wav|train-clean-360|23.75|kindfish
+enf_7117|F|../dataset/LibriTTS_22050Hz/train-clean-360/7117/86732/7117_86732_000002_000000.wav|train-clean-360|25.17|Art Leung
+enf_5012|F|../dataset/LibriTTS_22050Hz/train-clean-360/5012/80192/5012_80192_000004_000000.wav|train-clean-360|25.06|Morgan Schlicker
+enf_8591|F|../dataset/LibriTTS_22050Hz/train-clean-360/8591/284445/8591_284445_000004_000000.wav|train-clean-360|22.02|Jude Somers
+enf_3905|F|../dataset/LibriTTS_22050Hz/train-clean-360/3905/172165/3905_172165_000000_000003.wav|train-clean-360|23.23|J. Rebecca Franklin
+enf_4138|F|../dataset/LibriTTS_22050Hz/train-clean-360/4138/11079/4138_11079_000000_000000.wav|train-clean-360|21.69|daltongirl
+enf_3513|F|../dataset/LibriTTS_22050Hz/train-clean-360/3513/163607/3513_163607_000006_000001.wav|train-clean-360|25.01|Symmie
+enm_5519|M|../dataset/LibriTTS_22050Hz/train-clean-360/5519/39478/5519_39478_000000_000001.wav|train-clean-360|23.06|scoutman77
+enf_2512|F|../dataset/LibriTTS_22050Hz/train-clean-360/2512/157242/2512_157242_000000_000001.wav|train-clean-360|24.05|Marion
+enm_6037|M|../dataset/LibriTTS_22050Hz/train-clean-360/6037/59239/6037_59239_000003_000000.wav|train-clean-360|8.12|bish
+enf_3119|F|../dataset/LibriTTS_22050Hz/train-clean-360/3119/163519/3119_163519_000003_000000.wav|train-clean-360|25.18|Sharon Riskedahl
+enf_3228|F|../dataset/LibriTTS_22050Hz/train-clean-360/3228/4690/3228_4690_000001_000001.wav|train-clean-360|25.01|Benuathanasia
+enf_3361|F|../dataset/LibriTTS_22050Hz/train-clean-360/3361/1150/3361_1150_000001_000000.wav|train-clean-360|25.19|Linda Lee Paquet
+enm_8459|M|../dataset/LibriTTS_22050Hz/train-clean-360/8459/292348/8459_292348_000001_000001.wav|train-clean-360|25.09|sdaeley17
+enm_1645|M|../dataset/LibriTTS_22050Hz/train-clean-360/1645/141819/1645_141819_000004_000001.wav|train-clean-360|1.92|David Shamp
+enf_3446|F|../dataset/LibriTTS_22050Hz/train-clean-360/3446/144021/3446_144021_000001_000001.wav|train-clean-360|25.24|kayo
+enm_7926|M|../dataset/LibriTTS_22050Hz/train-clean-360/7926/254948/7926_254948_000002_000001.wav|train-clean-360|25.18|Steven Reynolds
+enf_5007|F|../dataset/LibriTTS_22050Hz/train-clean-360/5007/31609/5007_31609_000000_000000.wav|train-clean-360|22.98|Kathleen Nelson
+enm_8619|M|../dataset/LibriTTS_22050Hz/train-clean-360/8619/291374/8619_291374_000005_000008.wav|train-clean-360|25.03|Tad E.
+enf_3584|F|../dataset/LibriTTS_22050Hz/train-clean-360/3584/178748/3584_178748_000000_000000.wav|train-clean-360|22.30|Bridget Gaige
+enf_4098|F|../dataset/LibriTTS_22050Hz/train-clean-360/4098/11547/4098_11547_000005_000000.wav|train-clean-360|25.04|Rachell Lovett
+enf_8163|F|../dataset/LibriTTS_22050Hz/train-clean-360/8163/116797/8163_116797_000008_000001.wav|train-clean-360|25.02|Greengecko
+enm_7732|M|../dataset/LibriTTS_22050Hz/train-clean-360/7732/107517/7732_107517_000001_000003.wav|train-clean-360|24.92|Daniel Vimont
+enf_188|F|../dataset/LibriTTS_22050Hz/train-clean-360/188/141613/188_141613_000003_000000.wav|train-clean-360|25.26|Mary Anderson
+enm_500|M|../dataset/LibriTTS_22050Hz/train-clean-360/500/125123/500_125123_000001_000000.wav|train-clean-360|25.04|galaxiant
+enm_1552|M|../dataset/LibriTTS_22050Hz/train-clean-360/1552/141135/1552_141135_000013_000010.wav|train-clean-360|15.62|Roger Turnau
+enm_8786|M|../dataset/LibriTTS_22050Hz/train-clean-360/8786/276735/8786_276735_000000_000000.wav|train-clean-360|25.12|Bruce Kachuk
+enf_1845|F|../dataset/LibriTTS_22050Hz/train-clean-360/1845/145088/1845_145088_000008_000001.wav|train-clean-360|25.15|Katie Gibboney
+enf_1754|F|../dataset/LibriTTS_22050Hz/train-clean-360/1754/140639/1754_140639_000014_000005.wav|train-clean-360|25.08|Joan Freeman
+enm_2294|M|../dataset/LibriTTS_22050Hz/train-clean-360/2294/161707/2294_161707_000008_000000.wav|train-clean-360|25.24|James Christopher
+enf_6788|F|../dataset/LibriTTS_22050Hz/train-clean-360/6788/92420/6788_92420_000004_000001.wav|train-clean-360|25.11|Pamela Krantz
+enf_7555|F|../dataset/LibriTTS_22050Hz/train-clean-360/7555/105394/7555_105394_000000_000000.wav|train-clean-360|23.23|Suebee
+enm_7011|M|../dataset/LibriTTS_22050Hz/train-clean-360/7011/66622/7011_66622_000000_000000.wav|train-clean-360|17.59|Icprice
+enf_7342|F|../dataset/LibriTTS_22050Hz/train-clean-360/7342/73961/7342_73961_000001_000000.wav|train-clean-360|25.01|Carol
+enm_1112|M|../dataset/LibriTTS_22050Hz/train-clean-360/1112/128136/1112_128136_000007_000001.wav|train-clean-360|25.15|RedToby
+enm_1987|M|../dataset/LibriTTS_22050Hz/train-clean-360/1987/144135/1987_144135_000002_000014.wav|train-clean-360|25.19|Michael Macedonia
+enf_4111|F|../dataset/LibriTTS_22050Hz/train-clean-360/4111/184448/4111_184448_000004_000002.wav|train-clean-360|25.07|Rachel P.
+enf_16|F|../dataset/LibriTTS_22050Hz/train-clean-360/16/122828/16_122828_000000_000001.wav|train-clean-360|25.11|Alys AtteWater
+enm_3945|M|../dataset/LibriTTS_22050Hz/train-clean-360/3945/890/3945_890_000003_000000.wav|train-clean-360|22.57|Floyd Wilde
+enm_4973|M|../dataset/LibriTTS_22050Hz/train-clean-360/4973/24516/4973_24516_000002_000000.wav|train-clean-360|25.03|Michael Lipschultz
+enf_6927|F|../dataset/LibriTTS_22050Hz/train-clean-360/6927/86045/6927_86045_000001_000000.wav|train-clean-360|25.00|Sarika Pawar
+enm_7520|M|../dataset/LibriTTS_22050Hz/train-clean-360/7520/258986/7520_258986_000001_000000.wav|train-clean-360|24.21|Richard Jackson
+enm_1182|M|../dataset/LibriTTS_22050Hz/train-clean-360/1182/133396/1182_133396_000007_000000.wav|train-clean-360|25.06|Brett Condron
+enf_4434|F|../dataset/LibriTTS_22050Hz/train-clean-360/4434/73957/4434_73957_000002_000001.wav|train-clean-360|25.03|Sarah Nuxoll
+enf_1224|F|../dataset/LibriTTS_22050Hz/train-clean-360/1224/121064/1224_121064_000000_000000.wav|train-clean-360|22.11|Heather Duncan
+enf_2056|F|../dataset/LibriTTS_22050Hz/train-clean-360/2056/143893/2056_143893_000001_000000.wav|train-clean-360|22.72|Nancy Roberts
+enm_7558|M|../dataset/LibriTTS_22050Hz/train-clean-360/7558/89894/7558_89894_000002_000001.wav|train-clean-360|11.00|J. A. Cook
+enm_501|M|../dataset/LibriTTS_22050Hz/train-clean-360/501/125127/501_125127_000001_000000.wav|train-clean-360|25.06|mikenkat
+enm_6395|M|../dataset/LibriTTS_22050Hz/train-clean-360/6395/84349/6395_84349_000002_000000.wav|train-clean-360|25.06|Richard Carpenter
+enm_4108|M|../dataset/LibriTTS_22050Hz/train-clean-360/4108/2777/4108_2777_000004_000000.wav|train-clean-360|25.21|garymacf
+enf_829|F|../dataset/LibriTTS_22050Hz/train-clean-360/829/123192/829_123192_000011_000000.wav|train-clean-360|25.14|frenchfry
+enf_6828|F|../dataset/LibriTTS_22050Hz/train-clean-360/6828/64738/6828_64738_000002_000000.wav|train-clean-360|25.11|Lori Fuller Chugiak, AK
+enf_8605|F|../dataset/LibriTTS_22050Hz/train-clean-360/8605/276939/8605_276939_000003_000001.wav|train-clean-360|25.06|Kate Sterner
+enf_2582|F|../dataset/LibriTTS_22050Hz/train-clean-360/2582/155972/2582_155972_000004_000009.wav|train-clean-360|25.16|dolce
+enm_5940|M|../dataset/LibriTTS_22050Hz/train-clean-360/5940/54016/5940_54016_000014_000001.wav|train-clean-360|25.06|Gargoyle
+enm_2769|M|../dataset/LibriTTS_22050Hz/train-clean-360/2769/176256/2769_176256_000000_000000.wav|train-clean-360|25.25|Anthony Wilson
+enm_6330|M|../dataset/LibriTTS_22050Hz/train-clean-360/6330/66016/6330_66016_000002_000000.wav|train-clean-360|25.04|David Cummings
+enf_3549|F|../dataset/LibriTTS_22050Hz/train-clean-360/3549/9203/3549_9203_000003_000000.wav|train-clean-360|25.05|Katie Riley
+enf_7766|F|../dataset/LibriTTS_22050Hz/train-clean-360/7766/109658/7766_109658_000000_000000.wav|train-clean-360|25.12|Maryanka
+enm_922|M|../dataset/LibriTTS_22050Hz/train-clean-360/922/132300/922_132300_000004_000001.wav|train-clean-360|25.07|Steven H. Wilson
+enm_2774|M|../dataset/LibriTTS_22050Hz/train-clean-360/2774/131722/2774_131722_000001_000000.wav|train-clean-360|25.14|William Kevin Manire
+enf_5724|F|../dataset/LibriTTS_22050Hz/train-clean-360/5724/13364/5724_13364_000004_000000.wav|train-clean-360|25.01|paintgirl
+enf_3330|F|../dataset/LibriTTS_22050Hz/train-clean-360/3330/172156/3330_172156_000001_000000.wav|train-clean-360|25.10|B. G. Oxford
+enm_8824|M|../dataset/LibriTTS_22050Hz/train-clean-360/8824/279153/8824_279153_000000_000001.wav|train-clean-360|25.21|Mark Johnston
+enm_398|M|../dataset/LibriTTS_22050Hz/train-clean-360/398/123602/398_123602_000002_000001.wav|train-clean-360|23.56|James Smith
+enf_1731|F|../dataset/LibriTTS_22050Hz/train-clean-360/1731/142320/1731_142320_000002_000000.wav|train-clean-360|25.06|Dani
+enm_803|M|../dataset/LibriTTS_22050Hz/train-clean-360/803/139753/803_139753_000008_000005.wav|train-clean-360|25.02|Greg Elmensdorp
+enm_2654|M|../dataset/LibriTTS_22050Hz/train-clean-360/2654/158744/2654_158744_000001_000000.wav|train-clean-360|16.45|Notelrac
+enm_8028|M|../dataset/LibriTTS_22050Hz/train-clean-360/8028/233366/8028_233366_000001_000001.wav|train-clean-360|25.10|Tom Geller
+enf_6167|F|../dataset/LibriTTS_22050Hz/train-clean-360/6167/73973/6167_73973_000001_000000.wav|train-clean-360|25.08|Janet
+enm_5386|M|../dataset/LibriTTS_22050Hz/train-clean-360/5386/8684/5386_8684_000003_000001.wav|train-clean-360|25.16|Tim Ferreira
+enf_1053|F|../dataset/LibriTTS_22050Hz/train-clean-360/1053/132821/1053_132821_000003_000001.wav|train-clean-360|25.04|katyleah
+enm_1349|M|../dataset/LibriTTS_22050Hz/train-clean-360/1349/135892/1349_135892_000003_000001.wav|train-clean-360|25.14|John Pruden
+enf_6371|F|../dataset/LibriTTS_22050Hz/train-clean-360/6371/63713/6371_63713_000001_000000.wav|train-clean-360|21.30|Rebecca King
+enm_2272|M|../dataset/LibriTTS_22050Hz/train-clean-360/2272/152282/2272_152282_000000_000000.wav|train-clean-360|25.18|Alec Daitsman
+enf_3790|F|../dataset/LibriTTS_22050Hz/train-clean-360/3790/140725/3790_140725_000003_000002.wav|train-clean-360|25.10|hpark
+enf_8329|F|../dataset/LibriTTS_22050Hz/train-clean-360/8329/279775/8329_279775_000003_000000.wav|train-clean-360|21.14|Betty Perry
+enm_6258|M|../dataset/LibriTTS_22050Hz/train-clean-360/6258/49755/6258_49755_000002_000000.wav|train-clean-360|20.49|haggisreflux
+enf_589|F|../dataset/LibriTTS_22050Hz/train-clean-360/589/139200/589_139200_000001_000000.wav|train-clean-360|25.01|Stephanie Konig
+enf_5588|F|../dataset/LibriTTS_22050Hz/train-clean-360/5588/39648/5588_39648_000068_000000.wav|train-clean-360|25.09|Gail Timmerman Vaughan
+enf_2920|F|../dataset/LibriTTS_22050Hz/train-clean-360/2920/156224/2920_156224_000001_000000.wav|train-clean-360|25.18|Rechelle
+enf_2053|F|../dataset/LibriTTS_22050Hz/train-clean-360/2053/138901/2053_138901_000002_000000.wav|train-clean-360|25.03|Vincent Tapia
+enm_6269|M|../dataset/LibriTTS_22050Hz/train-clean-360/6269/66176/6269_66176_000000_000000.wav|train-clean-360|25.13|Don Halpert
+enf_7240|F|../dataset/LibriTTS_22050Hz/train-clean-360/7240/108066/7240_108066_000004_000000.wav|train-clean-360|25.11|Lucretia B.
+enm_511|M|../dataset/LibriTTS_22050Hz/train-clean-360/511/131226/511_131226_000004_000000.wav|train-clean-360|25.23|Matthew Shepherd
+enm_2393|M|../dataset/LibriTTS_22050Hz/train-clean-360/2393/144496/2393_144496_000000_000001.wav|train-clean-360|22.63|Michael Bradford
+enm_6694|M|../dataset/LibriTTS_22050Hz/train-clean-360/6694/70837/6694_70837_000001_000000.wav|train-clean-360|25.02|Ross Williamson
+enf_7994|F|../dataset/LibriTTS_22050Hz/train-clean-360/7994/258959/7994_258959_000000_000000.wav|train-clean-360|25.08|Marian Cervassi
+enf_2401|F|../dataset/LibriTTS_22050Hz/train-clean-360/2401/144485/2401_144485_000003_000000.wav|train-clean-360|21.95|Matt Warzel
+enm_7874|M|../dataset/LibriTTS_22050Hz/train-clean-360/7874/110243/7874_110243_000001_000000.wav|train-clean-360|25.16|dgulino
+enf_22|F|../dataset/LibriTTS_22050Hz/train-clean-360/22/121140/22_121140_000003_000000.wav|train-clean-360|25.14|Michelle Crandall
+enm_2992|M|../dataset/LibriTTS_22050Hz/train-clean-360/2992/164101/2992_164101_000002_000001.wav|train-clean-360|24.13|davechase
+enf_8080|F|../dataset/LibriTTS_22050Hz/train-clean-360/8080/274558/8080_274558_000005_000001.wav|train-clean-360|25.23|e.a.zokaites
+enf_7395|F|../dataset/LibriTTS_22050Hz/train-clean-360/7395/89880/7395_89880_000003_000004.wav|train-clean-360|18.05|Katherine
+enf_2581|F|../dataset/LibriTTS_22050Hz/train-clean-360/2581/157858/2581_157858_000004_000001.wav|train-clean-360|25.12|Julie Levi
+enm_543|M|../dataset/LibriTTS_22050Hz/train-clean-360/543/133212/543_133212_000004_000002.wav|train-clean-360|25.10|Ted Delorme
+enm_899|M|../dataset/LibriTTS_22050Hz/train-clean-360/899/126233/899_126233_000002_000000.wav|train-clean-360|25.09|thomahal
+enf_1422|F|../dataset/LibriTTS_22050Hz/train-clean-360/1422/146123/1422_146123_000000_000000.wav|train-clean-360|25.19|Yazpistachio
+enf_9022|F|../dataset/LibriTTS_22050Hz/train-clean-360/9022/282357/9022_282357_000014_000000.wav|train-clean-360|25.17|Claire M
+enf_664|F|../dataset/LibriTTS_22050Hz/train-clean-360/664/129011/664_129011_000002_000000.wav|train-clean-360|25.20|Wendy G.
+enf_5606|F|../dataset/LibriTTS_22050Hz/train-clean-360/5606/54667/5606_54667_000001_000001.wav|train-clean-360|25.11|PrincessG
+enm_3448|M|../dataset/LibriTTS_22050Hz/train-clean-360/3448/5417/3448_5417_000004_000000.wav|train-clean-360|25.24|Todd Lennon
+enf_3379|F|../dataset/LibriTTS_22050Hz/train-clean-360/3379/132601/3379_132601_000003_000000.wav|train-clean-360|25.09|Kele
+enf_3852|F|../dataset/LibriTTS_22050Hz/train-clean-360/3852/175448/3852_175448_000001_000000.wav|train-clean-360|22.37|selniff
+enm_781|M|../dataset/LibriTTS_22050Hz/train-clean-360/781/126737/781_126737_000000_000000.wav|train-clean-360|25.12|Mitchell Dwyer
+enf_6032|F|../dataset/LibriTTS_22050Hz/train-clean-360/6032/58192/6032_58192_000001_000000.wav|train-clean-360|25.14|Beverly Scott
+enf_1734|F|../dataset/LibriTTS_22050Hz/train-clean-360/1734/142311/1734_142311_000004_000000.wav|train-clean-360|15.86|LuvDemBrooders
+enm_8011|M|../dataset/LibriTTS_22050Hz/train-clean-360/8011/291458/8011_291458_000000_000000.wav|train-clean-360|25.09|Greg Giordano
+enf_6518|F|../dataset/LibriTTS_22050Hz/train-clean-360/6518/66464/6518_66464_000002_000000.wav|train-clean-360|25.05|Wayfarer
+enf_1779|F|../dataset/LibriTTS_22050Hz/train-clean-360/1779/142733/1779_142733_000001_000000.wav|train-clean-360|18.05|Cynthia Zocca
+enm_4433|M|../dataset/LibriTTS_22050Hz/train-clean-360/4433/16802/4433_16802_000025_000005.wav|train-clean-360|12.83|Ken Sterry
+enm_5635|M|../dataset/LibriTTS_22050Hz/train-clean-360/5635/44582/5635_44582_000002_000000.wav|train-clean-360|25.07|Matthew Reece
+enf_598|F|../dataset/LibriTTS_22050Hz/train-clean-360/598/127703/598_127703_000002_000000.wav|train-clean-360|25.02|Kim
+enf_1724|F|../dataset/LibriTTS_22050Hz/train-clean-360/1724/395/1724_395_000005_000000.wav|train-clean-360|25.05|Anna Simon
+enf_4071|F|../dataset/LibriTTS_22050Hz/train-clean-360/4071/39913/4071_39913_000060_000000.wav|train-clean-360|25.04|Nichelle von Lauder
+enm_6555|M|../dataset/LibriTTS_22050Hz/train-clean-360/6555/398/6555_398_000003_000003.wav|train-clean-360|25.02|Alexandre Laplante
+enf_5093|F|../dataset/LibriTTS_22050Hz/train-clean-360/5093/48377/5093_48377_000002_000000.wav|train-clean-360|25.23|Nicole Kay
+enm_663|M|../dataset/LibriTTS_22050Hz/train-clean-360/663/128990/663_128990_000007_000000.wav|train-clean-360|25.10|Bruce Stafford
+enm_7828|M|../dataset/LibriTTS_22050Hz/train-clean-360/7828/105179/7828_105179_000002_000002.wav|train-clean-360|25.00|Dan Mason
+enm_335|M|../dataset/LibriTTS_22050Hz/train-clean-360/335/125945/335_125945_000002_000000.wav|train-clean-360|25.08|Paul Harvey
+enf_7657|F|../dataset/LibriTTS_22050Hz/train-clean-360/7657/104717/7657_104717_000011_000004.wav|train-clean-360|11.93|shalclark
+enf_6054|F|../dataset/LibriTTS_22050Hz/train-clean-360/6054/41614/6054_41614_000002_000000.wav|train-clean-360|18.24|Leslie Stevens Suhy
+enm_1789|M|../dataset/LibriTTS_22050Hz/train-clean-360/1789/137618/1789_137618_000001_000000.wav|train-clean-360|25.01|Vin Reilly
+enm_3923|M|../dataset/LibriTTS_22050Hz/train-clean-360/3923/181420/3923_181420_000001_000000.wav|train-clean-360|25.10|Sean Michael Hogan
+enm_1160|M|../dataset/LibriTTS_22050Hz/train-clean-360/1160/139730/1160_139730_000002_000000.wav|train-clean-360|25.20|Gary Gilberd
+enf_3224|F|../dataset/LibriTTS_22050Hz/train-clean-360/3224/168199/3224_168199_000001_000000.wav|train-clean-360|25.19|Acacia Wood
+enm_296|M|../dataset/LibriTTS_22050Hz/train-clean-360/296/141721/296_141721_000002_000004.wav|train-clean-360|25.16|Carl Manchester
+enm_6690|M|../dataset/LibriTTS_22050Hz/train-clean-360/6690/73073/6690_73073_000002_000000.wav|train-clean-360|23.34|T Michael Burke
+enf_1944|F|../dataset/LibriTTS_22050Hz/train-clean-360/1944/159228/1944_159228_000004_000000.wav|train-clean-360|25.03|Carolyn Frances
+enm_7460|M|../dataset/LibriTTS_22050Hz/train-clean-360/7460/104483/7460_104483_000001_000000.wav|train-clean-360|25.24|Larry Beasley
+enf_2004|F|../dataset/LibriTTS_22050Hz/train-clean-360/2004/147981/2004_147981_000001_000000.wav|train-clean-360|25.26|Kim S
+enf_7384|F|../dataset/LibriTTS_22050Hz/train-clean-360/7384/84010/7384_84010_000000_000000.wav|train-clean-360|20.30|Diana Dolan
+enm_6060|M|../dataset/LibriTTS_22050Hz/train-clean-360/6060/58090/6060_58090_000000_000001.wav|train-clean-360|22.81|Jonathan Lange
+enm_7339|M|../dataset/LibriTTS_22050Hz/train-clean-360/7339/86765/7339_86765_000038_000000.wav|train-clean-360|25.10|wildalaska
+enm_4152|M|../dataset/LibriTTS_22050Hz/train-clean-360/4152/12926/4152_12926_000001_000001.wav|train-clean-360|25.18|Ata Khudayberdiev
+enf_4598|F|../dataset/LibriTTS_22050Hz/train-clean-360/4598/2503/4598_2503_000003_000003.wav|train-clean-360|21.75|cher0520
+enm_4806|M|../dataset/LibriTTS_22050Hz/train-clean-360/4806/26895/4806_26895_000001_000002.wav|train-clean-360|16.25|Jason Ingolfsland
+enm_8498|M|../dataset/LibriTTS_22050Hz/train-clean-360/8498/287359/8498_287359_000001_000000.wav|train-clean-360|25.10|Ian Quinlan
+enm_487|M|../dataset/LibriTTS_22050Hz/train-clean-360/487/129440/487_129440_000004_000001.wav|train-clean-360|17.12|Clayton J. Smith
+enm_2388|M|../dataset/LibriTTS_22050Hz/train-clean-360/2388/153733/2388_153733_000000_000000.wav|train-clean-360|25.01|Greg Bell
+enf_323|F|../dataset/LibriTTS_22050Hz/train-clean-360/323/126408/323_126408_000004_000001.wav|train-clean-360|14.36|Erica Kuntz
+enf_5583|F|../dataset/LibriTTS_22050Hz/train-clean-360/5583/41919/5583_41919_000004_000000.wav|train-clean-360|25.25|Claudia Wilson
+enf_8404|F|../dataset/LibriTTS_22050Hz/train-clean-360/8404/282926/8404_282926_000001_000000.wav|train-clean-360|23.61|Lynne Ray
+enm_7825|M|../dataset/LibriTTS_22050Hz/train-clean-360/7825/258978/7825_258978_000001_000000.wav|train-clean-360|11.35|PDyer
+enf_6378|F|../dataset/LibriTTS_22050Hz/train-clean-360/6378/61781/6378_61781_000001_000000.wav|train-clean-360|23.17|Michelle Day
+enm_957|M|../dataset/LibriTTS_22050Hz/train-clean-360/957/132568/957_132568_000006_000003.wav|train-clean-360|25.06|iscatel
+enm_409|M|../dataset/LibriTTS_22050Hz/train-clean-360/409/124990/409_124990_000000_000000.wav|train-clean-360|25.13|Mike Kauffmann
+enf_28|F|../dataset/LibriTTS_22050Hz/train-clean-360/28/12332/28_12332_000006_000000.wav|train-clean-360|25.03|Kristin Hughes
+enm_4290|M|../dataset/LibriTTS_22050Hz/train-clean-360/4290/14526/4290_14526_000000_000000.wav|train-clean-360|25.01|Joshua Paul Johnson
+enf_7297|F|../dataset/LibriTTS_22050Hz/train-clean-360/7297/275885/7297_275885_000001_000000.wav|train-clean-360|18.65|Mudlark
+enf_1851|F|../dataset/LibriTTS_22050Hz/train-clean-360/1851/148312/1851_148312_000003_000000.wav|train-clean-360|25.03|Kehinde
+enm_1337|M|../dataset/LibriTTS_22050Hz/train-clean-360/1337/10674/1337_10674_000005_000000.wav|train-clean-360|25.02|Steven Rushing
+enm_5513|M|../dataset/LibriTTS_22050Hz/train-clean-360/5513/39476/5513_39476_000004_000000.wav|train-clean-360|23.93|David Callahan
+enm_707|M|../dataset/LibriTTS_22050Hz/train-clean-360/707/161166/707_161166_000000_000000.wav|train-clean-360|24.76|Jason Mayoff
+enm_492|M|../dataset/LibriTTS_22050Hz/train-clean-360/492/131887/492_131887_000002_000000.wav|train-clean-360|25.19|TBOL3
+enf_1649|F|../dataset/LibriTTS_22050Hz/train-clean-360/1649/150127/1649_150127_000002_000000.wav|train-clean-360|25.04|Kalynda
+enf_3046|F|../dataset/LibriTTS_22050Hz/train-clean-360/3046/148993/3046_148993_000001_000002.wav|train-clean-360|25.21|Stephanie Land
+enm_1313|M|../dataset/LibriTTS_22050Hz/train-clean-360/1313/135020/1313_135020_000000_000000.wav|train-clean-360|25.18|Scott Sherris
+enf_1382|F|../dataset/LibriTTS_22050Hz/train-clean-360/1382/130548/1382_130548_000001_000000.wav|train-clean-360|21.44|Heather Lawrence
+enf_4289|F|../dataset/LibriTTS_22050Hz/train-clean-360/4289/12723/4289_12723_000003_000000.wav|train-clean-360|22.49|Veronica Jenkins
+enm_580|M|../dataset/LibriTTS_22050Hz/train-clean-360/580/126945/580_126945_000003_000000.wav|train-clean-360|25.22|Ryan
+enm_159|M|../dataset/LibriTTS_22050Hz/train-clean-360/159/135897/159_135897_000002_000000.wav|train-clean-360|25.03|hugh mac
+enf_5968|F|../dataset/LibriTTS_22050Hz/train-clean-360/5968/55202/5968_55202_000002_000001.wav|train-clean-360|25.05|Cate Barratt
+enf_56|F|../dataset/LibriTTS_22050Hz/train-clean-360/56/1733/56_1733_000001_000000.wav|train-clean-360|25.07|Kirsten Ferreri
+enm_8347|M|../dataset/LibriTTS_22050Hz/train-clean-360/8347/258283/8347_258283_000001_000003.wav|train-clean-360|21.88|Terry Torres
+enf_4222|F|../dataset/LibriTTS_22050Hz/train-clean-360/4222/12898/4222_12898_000002_000000.wav|train-clean-360|25.22|msjodi777
+enm_1827|M|../dataset/LibriTTS_22050Hz/train-clean-360/1827/143625/1827_143625_000001_000000.wav|train-clean-360|10.55|Doug Wetzel
+enm_3370|M|../dataset/LibriTTS_22050Hz/train-clean-360/3370/724/3370_724_000004_000000.wav|train-clean-360|25.16|Glenn Simonsen
+enf_3889|F|../dataset/LibriTTS_22050Hz/train-clean-360/3889/130125/3889_130125_000031_000000.wav|train-clean-360|25.07|Alina
+enm_7540|M|../dataset/LibriTTS_22050Hz/train-clean-360/7540/101799/7540_101799_000005_000004.wav|train-clean-360|25.26|Christopher Webber
+enf_5115|F|../dataset/LibriTTS_22050Hz/train-clean-360/5115/26950/5115_26950_000001_000000.wav|train-clean-360|25.01|Terry Goodyer
+enm_4438|M|../dataset/LibriTTS_22050Hz/train-clean-360/4438/48525/4438_48525_000000_000000.wav|train-clean-360|25.00|Greg W.
+enm_512|M|../dataset/LibriTTS_22050Hz/train-clean-360/512/124520/512_124520_000004_000000.wav|train-clean-360|25.12|Anthony Craine
+enm_7809|M|../dataset/LibriTTS_22050Hz/train-clean-360/7809/108638/7809_108638_000000_000000.wav|train-clean-360|25.10|D. T. McGregor
+enm_7313|M|../dataset/LibriTTS_22050Hz/train-clean-360/7313/91072/7313_91072_000000_000000.wav|train-clean-360|25.24|Mark DeVol
+enf_6388|F|../dataset/LibriTTS_22050Hz/train-clean-360/6388/64974/6388_64974_000001_000000.wav|train-clean-360|23.04|Leda
+enf_2577|F|../dataset/LibriTTS_22050Hz/train-clean-360/2577/157236/2577_157236_000004_000000.wav|train-clean-360|25.16|K Hindall
+enf_7434|F|../dataset/LibriTTS_22050Hz/train-clean-360/7434/75939/7434_75939_000000_000001.wav|train-clean-360|23.58|Emily Feuka
+enm_7128|M|../dataset/LibriTTS_22050Hz/train-clean-360/7128/84122/7128_84122_000001_000000.wav|train-clean-360|25.01|morganreads
+enf_6509|F|../dataset/LibriTTS_22050Hz/train-clean-360/6509/67147/6509_67147_000003_000000.wav|train-clean-360|25.22|Marianna Foos
+enf_1509|F|../dataset/LibriTTS_22050Hz/train-clean-360/1509/145699/1509_145699_000003_000000.wav|train-clean-360|25.04|Miranda Stinson
+enf_6288|F|../dataset/LibriTTS_22050Hz/train-clean-360/6288/63101/6288_63101_000001_000000.wav|train-clean-360|25.07|Sunni West
+enf_3008|F|../dataset/LibriTTS_22050Hz/train-clean-360/3008/164327/3008_164327_000005_000000.wav|train-clean-360|25.17|Gloria Zbilicki
+enm_5126|M|../dataset/LibriTTS_22050Hz/train-clean-360/5126/36956/5126_36956_000003_000000.wav|train-clean-360|25.06|Tom Lennon
+enm_2823|M|../dataset/LibriTTS_22050Hz/train-clean-360/2823/160953/2823_160953_000007_000002.wav|train-clean-360|18.78|ChrisC
+enm_369|M|../dataset/LibriTTS_22050Hz/train-clean-360/369/125883/369_125883_000000_000000.wav|train-clean-360|19.56|Kevin Readdean
+enf_7717|F|../dataset/LibriTTS_22050Hz/train-clean-360/7717/105405/7717_105405_000002_000000.wav|train-clean-360|25.01|Astrid Fingerhut
+enf_8097|F|../dataset/LibriTTS_22050Hz/train-clean-360/8097/282406/8097_282406_000002_000000.wav|train-clean-360|25.04|lewildesen
+enm_6701|M|../dataset/LibriTTS_22050Hz/train-clean-360/6701/71401/6701_71401_000001_000000.wav|train-clean-360|25.13|Dayle
+enm_3082|M|../dataset/LibriTTS_22050Hz/train-clean-360/3082/165428/3082_165428_000002_000000.wav|train-clean-360|17.05|Logan McCamon
+enm_3835|M|../dataset/LibriTTS_22050Hz/train-clean-360/3835/178028/3835_178028_000001_000000.wav|train-clean-360|18.92|M.White
+enf_2364|F|../dataset/LibriTTS_22050Hz/train-clean-360/2364/131735/2364_131735_000002_000000.wav|train-clean-360|23.86|Anna-Maria Viola
+enf_6359|F|../dataset/LibriTTS_22050Hz/train-clean-360/6359/64713/6359_64713_000000_000000.wav|train-clean-360|18.27|Susan Hanfield
+enm_2688|M|../dataset/LibriTTS_22050Hz/train-clean-360/2688/144987/2688_144987_000003_000000.wav|train-clean-360|25.15|Christopher Jennings
+enm_1046|M|../dataset/LibriTTS_22050Hz/train-clean-360/1046/133225/1046_133225_000001_000000.wav|train-clean-360|24.65|durnburr
+enf_688|F|../dataset/LibriTTS_22050Hz/train-clean-360/688/15446/688_15446_000001_000001.wav|train-clean-360|25.19|J. M. Smallheer
+enm_4013|M|../dataset/LibriTTS_22050Hz/train-clean-360/4013/182396/4013_182396_000005_000000.wav|train-clean-360|25.14|Kevin Maxson
+enm_639|M|../dataset/LibriTTS_22050Hz/train-clean-360/639/124526/639_124526_000002_000000.wav|train-clean-360|25.10|Robert Beach
+enf_1195|F|../dataset/LibriTTS_22050Hz/train-clean-360/1195/130164/1195_130164_000001_000000.wav|train-clean-360|25.03|Jennette Selig
+enf_2481|F|../dataset/LibriTTS_22050Hz/train-clean-360/2481/12731/2481_12731_000000_000000.wav|train-clean-360|25.07|Alana Jordan
+enf_8718|F|../dataset/LibriTTS_22050Hz/train-clean-360/8718/295197/8718_295197_000000_000000.wav|train-clean-360|25.07|Deena Rhoads
+enm_8725|M|../dataset/LibriTTS_22050Hz/train-clean-360/8725/294551/8725_294551_000000_000000.wav|train-clean-360|25.02|Gary Ericson
+enf_576|F|../dataset/LibriTTS_22050Hz/train-clean-360/576/129623/576_129623_000005_000000.wav|train-clean-360|20.69|Caroline Mercier
+enm_3825|M|../dataset/LibriTTS_22050Hz/train-clean-360/3825/134160/3825_134160_000001_000000.wav|train-clean-360|17.60|Matt Wills
+enf_408|F|../dataset/LibriTTS_22050Hz/train-clean-360/408/122806/408_122806_000017_000000.wav|train-clean-360|25.17|Claudine Chen
+enf_7285|F|../dataset/LibriTTS_22050Hz/train-clean-360/7285/72200/7285_72200_000003_000001.wav|train-clean-360|25.07|Christina M. Glavas
+enm_868|M|../dataset/LibriTTS_22050Hz/train-clean-360/868/131294/868_131294_000002_000000.wav|train-clean-360|25.07|Mike Rosenlof
+enf_667|F|../dataset/LibriTTS_22050Hz/train-clean-360/667/107247/667_107247_000004_000000.wav|train-clean-360|25.04|Bethany Simpson
+enm_8758|M|../dataset/LibriTTS_22050Hz/train-clean-360/8758/291170/8758_291170_000001_000000.wav|train-clean-360|25.05|Krzysztof Rowinski
+enf_5154|F|../dataset/LibriTTS_22050Hz/train-clean-360/5154/6174/5154_6174_000001_000001.wav|train-clean-360|22.28|Danarra
+enm_2673|M|../dataset/LibriTTS_22050Hz/train-clean-360/2673/162130/2673_162130_000001_000000.wav|train-clean-360|25.06|jude kaider
+enm_1943|M|../dataset/LibriTTS_22050Hz/train-clean-360/1943/138033/1943_138033_000006_000000.wav|train-clean-360|23.10|Corun
+enm_1446|M|../dataset/LibriTTS_22050Hz/train-clean-360/1446/122614/1446_122614_000002_000000.wav|train-clean-360|25.01|Michael Loftus
+enm_3869|M|../dataset/LibriTTS_22050Hz/train-clean-360/3869/700/3869_700_000008_000000.wav|train-clean-360|25.02|Timothy Pinkham
+enm_5810|M|../dataset/LibriTTS_22050Hz/train-clean-360/5810/8689/5810_8689_000000_000000.wav|train-clean-360|25.02|Patrick Reinhart
+enm_1903|M|../dataset/LibriTTS_22050Hz/train-clean-360/1903/132499/1903_132499_000015_000000.wav|train-clean-360|24.21|Michael Thomas Robinson
+enf_3876|F|../dataset/LibriTTS_22050Hz/train-clean-360/3876/174960/3876_174960_000009_000000.wav|train-clean-360|25.03|Frances Marcinkiewicz
+enm_8474|M|../dataset/LibriTTS_22050Hz/train-clean-360/8474/281188/8474_281188_000001_000001.wav|train-clean-360|25.07|Scott Snowman
+enf_2085|F|../dataset/LibriTTS_22050Hz/train-clean-360/2085/147971/2085_147971_000032_000000.wav|train-clean-360|25.09|Stephanie Dupal-Demartin
+enf_698|F|../dataset/LibriTTS_22050Hz/train-clean-360/698/122863/698_122863_000002_000000.wav|train-clean-360|25.03|Randi Warwick
+enm_2812|M|../dataset/LibriTTS_22050Hz/train-clean-360/2812/160187/2812_160187_000001_000001.wav|train-clean-360|14.63|Greg Hartley
+enm_6458|M|../dataset/LibriTTS_22050Hz/train-clean-360/6458/61323/6458_61323_000000_000001.wav|train-clean-360|25.05|Dennis Blake
+enf_8193|F|../dataset/LibriTTS_22050Hz/train-clean-360/8193/116804/8193_116804_000006_000001.wav|train-clean-360|25.23|helengraves
+enf_7967|F|../dataset/LibriTTS_22050Hz/train-clean-360/7967/104986/7967_104986_000001_000000.wav|train-clean-360|22.42|Lois Hill
+enf_1974|F|../dataset/LibriTTS_22050Hz/train-clean-360/1974/139742/1974_139742_000001_000003.wav|train-clean-360|25.16|Katie Baynes
+enm_7957|M|../dataset/LibriTTS_22050Hz/train-clean-360/7957/39967/7957_39967_000001_000000.wav|train-clean-360|21.63|Wiley Combs
+enf_79|F|../dataset/LibriTTS_22050Hz/train-clean-360/79/121541/79_121541_000006_000000.wav|train-clean-360|25.01|Jennifer Crispin
+enm_2229|M|../dataset/LibriTTS_22050Hz/train-clean-360/2229/152864/2229_152864_000005_000001.wav|train-clean-360|21.96|Pete Williams, Pittsburgh, PA
+enm_1058|M|../dataset/LibriTTS_22050Hz/train-clean-360/1058/133263/1058_133263_000004_000003.wav|train-clean-360|25.10|James Tiley
+enm_7314|M|../dataset/LibriTTS_22050Hz/train-clean-360/7314/77782/7314_77782_000004_000000.wav|train-clean-360|25.17|Rick Cahill
+enm_303|M|../dataset/LibriTTS_22050Hz/train-clean-360/303/123506/303_123506_000002_000000.wav|train-clean-360|25.03|Tony Hightower
+enm_249|M|../dataset/LibriTTS_22050Hz/train-clean-360/249/121331/249_121331_000000_000000.wav|train-clean-360|18.69|pww214
+enm_2971|M|../dataset/LibriTTS_22050Hz/train-clean-360/2971/4275/2971_4275_000001_000001.wav|train-clean-360|25.01|Matthew C. Heckel
+enm_7647|M|../dataset/LibriTTS_22050Hz/train-clean-360/7647/102250/7647_102250_000001_000000.wav|train-clean-360|21.83|Daniel T. Miller
+enm_7247|M|../dataset/LibriTTS_22050Hz/train-clean-360/7247/77778/7247_77778_000003_000000.wav|train-clean-360|25.10|Robert Hoffman
+enf_3357|F|../dataset/LibriTTS_22050Hz/train-clean-360/3357/28380/3357_28380_000001_000000.wav|train-clean-360|24.37|swade
+enf_4331|F|../dataset/LibriTTS_22050Hz/train-clean-360/4331/57179/4331_57179_000001_000000.wav|train-clean-360|24.77|Barbara Clements
+enf_2204|F|../dataset/LibriTTS_22050Hz/train-clean-360/2204/131732/2204_131732_000000_000001.wav|train-clean-360|25.04|Pamnache
+enf_8684|F|../dataset/LibriTTS_22050Hz/train-clean-360/8684/293663/8684_293663_000004_000000.wav|train-clean-360|21.46|Alison Stewart
+enm_2517|M|../dataset/LibriTTS_22050Hz/train-clean-360/2517/135227/2517_135227_000003_000000.wav|train-clean-360|25.25|Gayland Darnell
+enm_4733|M|../dataset/LibriTTS_22050Hz/train-clean-360/4733/6398/4733_6398_000001_000001.wav|train-clean-360|19.08|dwegowy
+enf_7816|F|../dataset/LibriTTS_22050Hz/train-clean-360/7816/108620/7816_108620_000001_000000.wav|train-clean-360|25.04|Stefanie Heinrichs
+enm_836|M|../dataset/LibriTTS_22050Hz/train-clean-360/836/131106/836_131106_000003_000000.wav|train-clean-360|25.01|Kevin LaVergne
+enf_3025|F|../dataset/LibriTTS_22050Hz/train-clean-360/3025/12971/3025_12971_000000_000000.wav|train-clean-360|25.07|MichelleHarris
+enm_1556|M|../dataset/LibriTTS_22050Hz/train-clean-360/1556/143307/1556_143307_000001_000000.wav|train-clean-360|25.13|geofred
+enm_6575|M|../dataset/LibriTTS_22050Hz/train-clean-360/6575/67584/6575_67584_000001_000000.wav|train-clean-360|24.07|Patrick Painter
+enf_920|F|../dataset/LibriTTS_22050Hz/train-clean-360/920/668/920_668_000000_000002.wav|train-clean-360|21.36|Sarah Bean
+enf_6519|F|../dataset/LibriTTS_22050Hz/train-clean-360/6519/69411/6519_69411_000004_000000.wav|train-clean-360|25.23|Monica Knuppe
+enf_4381|F|../dataset/LibriTTS_22050Hz/train-clean-360/4381/14897/4381_14897_000003_000002.wav|train-clean-360|6.58|Denise Resnik
+enm_7134|M|../dataset/LibriTTS_22050Hz/train-clean-360/7134/67233/7134_67233_000002_000000.wav|train-clean-360|25.10|Steve Jackson
+enm_2045|M|../dataset/LibriTTS_22050Hz/train-clean-360/2045/158081/2045_158081_000002_000000.wav|train-clean-360|24.96|David O'Connell
+enf_1417|F|../dataset/LibriTTS_22050Hz/train-clean-360/1417/1539/1417_1539_000066_000000.wav|train-clean-360|25.19|Psuke Bariah
+enf_3294|F|../dataset/LibriTTS_22050Hz/train-clean-360/3294/167597/3294_167597_000001_000000.wav|train-clean-360|19.45|Marcy Fraser
+enf_4145|F|../dataset/LibriTTS_22050Hz/train-clean-360/4145/34497/4145_34497_000005_000000.wav|train-clean-360|25.20|Patti Cunningham
+enm_8225|M|../dataset/LibriTTS_22050Hz/train-clean-360/8225/274374/8225_274374_000007_000000.wav|train-clean-360|25.09|Matt Lusher
+enm_90|M|../dataset/LibriTTS_22050Hz/train-clean-360/90/130566/90_130566_000006_000001.wav|train-clean-360|25.17|Dan Threetrees
+enm_1913|M|../dataset/LibriTTS_22050Hz/train-clean-360/1913/147989/1913_147989_000001_000001.wav|train-clean-360|25.03|Geoff Cowgill
+enf_1296|F|../dataset/LibriTTS_22050Hz/train-clean-360/1296/138074/1296_138074_000064_000000.wav|train-clean-360|25.09|Gigi Minden
+enm_3368|M|../dataset/LibriTTS_22050Hz/train-clean-360/3368/170951/3368_170951_000005_000000.wav|train-clean-360|25.19|Jim Allman
+enf_1740|F|../dataset/LibriTTS_22050Hz/train-clean-360/1740/141148/1740_141148_000007_000002.wav|train-clean-360|25.22|Shubda
+enf_1012|F|../dataset/LibriTTS_22050Hz/train-clean-360/1012/133424/1012_133424_000001_000000.wav|train-clean-360|21.38|Lizzie Oldfather
+enm_5261|M|../dataset/LibriTTS_22050Hz/train-clean-360/5261/19373/5261_19373_000000_000000.wav|train-clean-360|25.14|Ali Kazerani
+enm_1849|M|../dataset/LibriTTS_22050Hz/train-clean-360/1849/144965/1849_144965_000008_000002.wav|train-clean-360|25.05|Kelly Dougherty
+enm_2156|M|../dataset/LibriTTS_22050Hz/train-clean-360/2156/82458/2156_82458_000003_000000.wav|train-clean-360|25.18|Roger Melin
+enf_6082|F|../dataset/LibriTTS_22050Hz/train-clean-360/6082/56174/6082_56174_000007_000002.wav|train-clean-360|25.06|EyeBones
+enm_7478|M|../dataset/LibriTTS_22050Hz/train-clean-360/7478/98644/7478_98644_000002_000002.wav|train-clean-360|25.03|Dan Froese
+enm_6877|M|../dataset/LibriTTS_22050Hz/train-clean-360/6877/77361/6877_77361_000001_000000.wav|train-clean-360|25.23|Bear Schacht
+enm_1264|M|../dataset/LibriTTS_22050Hz/train-clean-360/1264/129805/1264_129805_000003_000000.wav|train-clean-360|25.01|Matthew Hinman
+enm_70|M|../dataset/LibriTTS_22050Hz/train-clean-360/70/121127/70_121127_000000_000000.wav|train-clean-360|21.61|Kurt Copeland
+enm_1165|M|../dataset/LibriTTS_22050Hz/train-clean-360/1165/135220/1165_135220_000002_000000.wav|train-clean-360|25.13|Bob Graff
+enm_6294|M|../dataset/LibriTTS_22050Hz/train-clean-360/6294/85684/6294_85684_000000_000000.wav|train-clean-360|24.10|humanode
+enm_593|M|../dataset/LibriTTS_22050Hz/train-clean-360/593/126929/593_126929_000002_000000.wav|train-clean-360|24.55|Eric S. Piotrowski
+enm_3866|M|../dataset/LibriTTS_22050Hz/train-clean-360/3866/9920/3866_9920_000001_000015.wav|train-clean-360|25.12|SilverG
+enf_5039|F|../dataset/LibriTTS_22050Hz/train-clean-360/5039/1188/5039_1188_000003_000000.wav|train-clean-360|25.10|Inga Parsons
+enf_175|F|../dataset/LibriTTS_22050Hz/train-clean-360/175/129587/175_129587_000006_000000.wav|train-clean-360|25.03|Meredith Hughes
+enf_6233|F|../dataset/LibriTTS_22050Hz/train-clean-360/6233/61742/6233_61742_000004_000000.wav|train-clean-360|25.24|Gen Jones
+enm_6115|M|../dataset/LibriTTS_22050Hz/train-clean-360/6115/58776/6115_58776_000001_000000.wav|train-clean-360|25.10|MitchHerd
+enm_7705|M|../dataset/LibriTTS_22050Hz/train-clean-360/7705/101579/7705_101579_000001_000000.wav|train-clean-360|25.01|Timothy Luke
+enf_6300|F|../dataset/LibriTTS_22050Hz/train-clean-360/6300/39660/6300_39660_000007_000000.wav|train-clean-360|25.07|Sarah Crampton
+enf_6206|F|../dataset/LibriTTS_22050Hz/train-clean-360/6206/14960/6206_14960_000001_000000.wav|train-clean-360|25.12|Yvonne Smith
+enm_7939|M|../dataset/LibriTTS_22050Hz/train-clean-360/7939/120318/7939_120318_000001_000000.wav|train-clean-360|25.19|DPranitis
+enm_6686|M|../dataset/LibriTTS_22050Hz/train-clean-360/6686/216563/6686_216563_000002_000001.wav|train-clean-360|20.63|Elin
+enm_7169|M|../dataset/LibriTTS_22050Hz/train-clean-360/7169/89735/7169_89735_000004_000000.wav|train-clean-360|16.01|Ryan Ransom
+enf_7245|F|../dataset/LibriTTS_22050Hz/train-clean-360/7245/104890/7245_104890_000002_000000.wav|train-clean-360|25.04|Laura Atkinson
+enm_4629|M|../dataset/LibriTTS_22050Hz/train-clean-360/4629/19366/4629_19366_000003_000002.wav|train-clean-360|25.21|Edward W. LaBonte
+enf_2254|F|../dataset/LibriTTS_22050Hz/train-clean-360/2254/152831/2254_152831_000002_000000.wav|train-clean-360|25.07|Heidi Preuss
+enm_7538|M|../dataset/LibriTTS_22050Hz/train-clean-360/7538/100045/7538_100045_000001_000000.wav|train-clean-360|25.04|Logan West
+enm_3072|M|../dataset/LibriTTS_22050Hz/train-clean-360/3072/155948/3072_155948_000001_000001.wav|train-clean-360|25.05|Chris Amos
+enf_5740|F|../dataset/LibriTTS_22050Hz/train-clean-360/5740/97610/5740_97610_000005_000000.wav|train-clean-360|25.22|Alisa
+enf_3994|F|../dataset/LibriTTS_22050Hz/train-clean-360/3994/156757/3994_156757_000001_000001.wav|train-clean-360|25.09|Miriam Esther Goldman
+enf_6865|F|../dataset/LibriTTS_22050Hz/train-clean-360/6865/95969/6865_95969_000001_000000.wav|train-clean-360|25.03|Jing Li
+enf_5029|F|../dataset/LibriTTS_22050Hz/train-clean-360/5029/30593/5029_30593_000002_000000.wav|train-clean-360|25.02|Courtney Sandhu
+enm_559|M|../dataset/LibriTTS_22050Hz/train-clean-360/559/126296/559_126296_000010_000004.wav|train-clean-360|25.16|Bill Stackpole
+enf_472|F|../dataset/LibriTTS_22050Hz/train-clean-360/472/129994/472_129994_000032_000000.wav|train-clean-360|25.02|Tina Tilney
+enf_7294|F|../dataset/LibriTTS_22050Hz/train-clean-360/7294/92934/7294_92934_000002_000000.wav|train-clean-360|25.01|Muriel
+enf_4731|F|../dataset/LibriTTS_22050Hz/train-clean-360/4731/95875/4731_95875_000001_000000.wav|train-clean-360|25.27|Becky Cook
+enf_6924|F|../dataset/LibriTTS_22050Hz/train-clean-360/6924/114452/6924_114452_000002_000001.wav|train-clean-360|25.12|Rapunzelina
+enm_1001|M|../dataset/LibriTTS_22050Hz/train-clean-360/1001/134708/1001_134708_000013_000000.wav|train-clean-360|25.25|Eric
+enm_3989|M|../dataset/LibriTTS_22050Hz/train-clean-360/3989/182389/3989_182389_000001_000000.wav|train-clean-360|25.06|Rayne
+enf_6341|F|../dataset/LibriTTS_22050Hz/train-clean-360/6341/64956/6341_64956_000002_000000.wav|train-clean-360|23.72|Tiffany J. Kim
+enm_4110|M|../dataset/LibriTTS_22050Hz/train-clean-360/4110/11535/4110_11535_000002_000000.wav|train-clean-360|25.18|Richard Ellwood
+enm_3977|M|../dataset/LibriTTS_22050Hz/train-clean-360/3977/185466/3977_185466_000000_000000.wav|train-clean-360|25.11|LivelyHive
+enm_1914|M|../dataset/LibriTTS_22050Hz/train-clean-360/1914/121446/1914_121446_000008_000000.wav|train-clean-360|25.04|Kevin Kivikko
+enm_7258|M|../dataset/LibriTTS_22050Hz/train-clean-360/7258/91906/7258_91906_000001_000000.wav|train-clean-360|25.08|acloward
+enm_2929|M|../dataset/LibriTTS_22050Hz/train-clean-360/2929/86777/2929_86777_000000_000001.wav|train-clean-360|25.15|Topaz
+enm_55|M|../dataset/LibriTTS_22050Hz/train-clean-360/55/121068/55_121068_000001_000004.wav|train-clean-360|25.21|David Jaquay
+enm_1222|M|../dataset/LibriTTS_22050Hz/train-clean-360/1222/133834/1222_133834_000001_000000.wav|train-clean-360|25.12|Joseph Ugoretz
+enm_2146|M|../dataset/LibriTTS_22050Hz/train-clean-360/2146/136610/2146_136610_000010_000001.wav|train-clean-360|4.89|Jeff Stuckey
+enm_1175|M|../dataset/LibriTTS_22050Hz/train-clean-360/1175/126221/1175_126221_000003_000000.wav|train-clean-360|25.02|Brother Patrick
+enm_3864|M|../dataset/LibriTTS_22050Hz/train-clean-360/3864/185126/3864_185126_000001_000000.wav|train-clean-360|24.20|Tom Watts
+enm_2499|M|../dataset/LibriTTS_22050Hz/train-clean-360/2499/156153/2499_156153_000000_000000.wav|train-clean-360|25.14|Paul Henry Tremblay
+enf_64|F|../dataset/LibriTTS_22050Hz/train-clean-360/64/76974/64_76974_000000_000000.wav|train-clean-360|23.51|Robin Cotter
+enf_6160|F|../dataset/LibriTTS_22050Hz/train-clean-360/6160/44912/6160_44912_000000_000001.wav|train-clean-360|17.76|FaithR
+enf_7802|F|../dataset/LibriTTS_22050Hz/train-clean-360/7802/104391/7802_104391_000004_000001.wav|train-clean-360|25.12|Samantha J Gubitz
+enf_6918|F|../dataset/LibriTTS_22050Hz/train-clean-360/6918/47541/6918_47541_000003_000002.wav|train-clean-360|25.11|Marilyn Mack
+enf_7498|F|../dataset/LibriTTS_22050Hz/train-clean-360/7498/99156/7498_99156_000002_000000.wav|train-clean-360|20.70|MarianneVictoria
+enf_2758|F|../dataset/LibriTTS_22050Hz/train-clean-360/2758/161217/2758_161217_000002_000000.wav|train-clean-360|25.19|SopranoHarmony
+enf_7962|F|../dataset/LibriTTS_22050Hz/train-clean-360/7962/110061/7962_110061_000005_000001.wav|train-clean-360|25.15|Jolie O'Dell
+enf_8113|F|../dataset/LibriTTS_22050Hz/train-clean-360/8113/301693/8113_301693_000001_000000.wav|train-clean-360|25.06|PennyAnn
+enm_4278|M|../dataset/LibriTTS_22050Hz/train-clean-360/4278/187018/4278_187018_000001_000000.wav|train-clean-360|25.07|smhamon
+enf_7910|F|../dataset/LibriTTS_22050Hz/train-clean-360/7910/80534/7910_80534_000003_000000.wav|train-clean-360|25.24|southernemma
+enm_7061|M|../dataset/LibriTTS_22050Hz/train-clean-360/7061/85635/7061_85635_000003_000004.wav|train-clean-360|25.26|AllenJohns
+enm_8742|M|../dataset/LibriTTS_22050Hz/train-clean-360/8742/245707/8742_245707_000002_000000.wav|train-clean-360|25.03|Adam Taylor
+enm_4535|M|../dataset/LibriTTS_22050Hz/train-clean-360/4535/279849/4535_279849_000000_000000.wav|train-clean-360|24.62|Brett W. Downey
+enf_166|F|../dataset/LibriTTS_22050Hz/train-clean-360/166/126302/166_126302_000002_000000.wav|train-clean-360|25.16|Paula Berinstein
+enf_6188|F|../dataset/LibriTTS_22050Hz/train-clean-360/6188/73024/6188_73024_000001_000000.wav|train-clean-360|22.61|Roxanna Nazari
+enf_7145|F|../dataset/LibriTTS_22050Hz/train-clean-360/7145/87280/7145_87280_000002_000000.wav|train-clean-360|21.84|Lita Ledesma
+enf_6782|F|../dataset/LibriTTS_22050Hz/train-clean-360/6782/61316/6782_61316_000000_000000.wav|train-clean-360|23.36|zcameo
+enm_8006|M|../dataset/LibriTTS_22050Hz/train-clean-360/8006/112592/8006_112592_000001_000000.wav|train-clean-360|25.10|TyroneS
+enm_4860|M|../dataset/LibriTTS_22050Hz/train-clean-360/4860/13185/4860_13185_000000_000000.wav|train-clean-360|20.58|Jonah Cummings
+enm_8266|M|../dataset/LibriTTS_22050Hz/train-clean-360/8266/258263/8266_258263_000003_000011.wav|train-clean-360|25.02|Jeff K.
+enf_30|F|../dataset/LibriTTS_22050Hz/train-clean-360/30/4445/30_4445_000000_000001.wav|train-clean-360|25.19|Annie Coleman Rothenberg
+enm_8534|M|../dataset/LibriTTS_22050Hz/train-clean-360/8534/216567/8534_216567_000002_000000.wav|train-clean-360|23.94|Chris Clark
+enf_6426|F|../dataset/LibriTTS_22050Hz/train-clean-360/6426/64292/6426_64292_000001_000000.wav|train-clean-360|25.14|Pat Redstone
+enm_3230|M|../dataset/LibriTTS_22050Hz/train-clean-360/3230/137483/3230_137483_000001_000002.wav|train-clean-360|25.13|rasputin
+enf_6406|F|../dataset/LibriTTS_22050Hz/train-clean-360/6406/88089/6406_88089_000008_000000.wav|train-clean-360|21.92|Abigail Rasmussen
+enf_5876|F|../dataset/LibriTTS_22050Hz/train-clean-360/5876/10347/5876_10347_000000_000000.wav|train-clean-360|25.15|kelleywyskiel
+enf_224|F|../dataset/LibriTTS_22050Hz/train-clean-360/224/129790/224_129790_000000_000000.wav|train-clean-360|25.20|Caitlin Kelly
+enf_3615|F|../dataset/LibriTTS_22050Hz/train-clean-360/3615/14672/3615_14672_000002_000000.wav|train-clean-360|25.05|Lucy Perry
+enm_359|M|../dataset/LibriTTS_22050Hz/train-clean-360/359/133630/359_133630_000000_000000.wav|train-clean-360|25.08|John Nicholson
+enf_5809|F|../dataset/LibriTTS_22050Hz/train-clean-360/5809/51163/5809_51163_000003_000000.wav|train-clean-360|25.25|kattekliek
+enf_3482|F|../dataset/LibriTTS_22050Hz/train-clean-360/3482/170452/3482_170452_000001_000000.wav|train-clean-360|25.22|Hayden
+enf_6673|F|../dataset/LibriTTS_22050Hz/train-clean-360/6673/72311/6673_72311_000000_000000.wav|train-clean-360|20.46|Jenna Lanman
+enf_93|F|../dataset/LibriTTS_22050Hz/train-clean-360/93/124557/93_124557_000001_000000.wav|train-clean-360|25.02|Kathy
+enm_5206|M|../dataset/LibriTTS_22050Hz/train-clean-360/5206/19376/5206_19376_000000_000000.wav|train-clean-360|25.07|Simon Dexter
+enf_4807|F|../dataset/LibriTTS_22050Hz/train-clean-360/4807/26852/4807_26852_000000_000000.wav|train-clean-360|16.73|Fuzz
+enm_5333|M|../dataset/LibriTTS_22050Hz/train-clean-360/5333/5083/5333_5083_000001_000000.wav|train-clean-360|25.07|Robert Fletcher
+enm_216|M|../dataset/LibriTTS_22050Hz/train-clean-360/216/122451/216_122451_000002_000000.wav|train-clean-360|25.08|Thomas Davoren
+enf_112|F|../dataset/LibriTTS_22050Hz/train-clean-360/112/121671/112_121671_000006_000001.wav|train-clean-360|25.23|Christiane Levesque
+enm_3187|M|../dataset/LibriTTS_22050Hz/train-clean-360/3187/168497/3187_168497_000018_000000.wav|train-clean-360|24.32|Wasichu
+enm_1413|M|../dataset/LibriTTS_22050Hz/train-clean-360/1413/121799/1413_121799_000003_000005.wav|train-clean-360|25.08|ryanaw
+enm_4945|M|../dataset/LibriTTS_22050Hz/train-clean-360/4945/29091/4945_29091_000002_000000.wav|train-clean-360|25.07|Charles RUHE
+enf_3979|F|../dataset/LibriTTS_22050Hz/train-clean-360/3979/10702/3979_10702_000059_000000.wav|train-clean-360|25.14|Dale A. Bade
+enf_1212|F|../dataset/LibriTTS_22050Hz/train-clean-360/1212/185485/1212_185485_000001_000000.wav|train-clean-360|25.07|Lee Ann Howlett
+enf_7754|F|../dataset/LibriTTS_22050Hz/train-clean-360/7754/108640/7754_108640_000000_000000.wav|train-clean-360|25.12|Iridescat
+enf_6317|F|../dataset/LibriTTS_22050Hz/train-clean-360/6317/54487/6317_54487_000001_000000.wav|train-clean-360|25.20|Sarah K
+enf_2194|F|../dataset/LibriTTS_22050Hz/train-clean-360/2194/141235/2194_141235_000004_000009.wav|train-clean-360|25.06|RobbieRogers
+enf_4490|F|../dataset/LibriTTS_22050Hz/train-clean-360/4490/16003/4490_16003_000004_000000.wav|train-clean-360|25.01|Rachel Weaver
+enm_949|M|../dataset/LibriTTS_22050Hz/train-clean-360/949/138545/949_138545_000002_000000.wav|train-clean-360|25.08|ontheroad
+enf_8410|F|../dataset/LibriTTS_22050Hz/train-clean-360/8410/278217/8410_278217_000001_000000.wav|train-clean-360|25.05|Shauna Kennett
+enf_636|F|../dataset/LibriTTS_22050Hz/train-clean-360/636/128331/636_128331_000016_000000.wav|train-clean-360|25.03|Zale Schafer (Rose May Chamberlin Memorial Foundat
+enm_4226|M|../dataset/LibriTTS_22050Hz/train-clean-360/4226/185488/4226_185488_000002_000000.wav|train-clean-360|25.12|Jud Niven
+enf_1825|F|../dataset/LibriTTS_22050Hz/train-clean-360/1825/135580/1825_135580_000000_000000.wav|train-clean-360|25.00|srshel
+enf_8075|F|../dataset/LibriTTS_22050Hz/train-clean-360/8075/279229/8075_279229_000003_000000.wav|train-clean-360|25.21|Melora
+enm_1445|M|../dataset/LibriTTS_22050Hz/train-clean-360/1445/139404/1445_139404_000001_000000.wav|train-clean-360|25.15|Michael Yard
+enf_8190|F|../dataset/LibriTTS_22050Hz/train-clean-360/8190/284434/8190_284434_000007_000002.wav|train-clean-360|21.67|Lisa Phelps Gonzalez
+enm_7139|M|../dataset/LibriTTS_22050Hz/train-clean-360/7139/75362/7139_75362_000001_000000.wav|train-clean-360|25.11|gabrielv
+enf_6038|F|../dataset/LibriTTS_22050Hz/train-clean-360/6038/56778/6038_56778_000002_000001.wav|train-clean-360|25.17|Sirmelja
+enf_4260|F|../dataset/LibriTTS_22050Hz/train-clean-360/4260/176853/4260_176853_000004_000005.wav|train-clean-360|23.54|Clacas
+enf_6505|F|../dataset/LibriTTS_22050Hz/train-clean-360/6505/231838/6505_231838_000003_000000.wav|train-clean-360|25.00|Elena
+enm_7981|M|../dataset/LibriTTS_22050Hz/train-clean-360/7981/112058/7981_112058_000000_000000.wav|train-clean-360|25.06|timothyFR
+enm_7095|M|../dataset/LibriTTS_22050Hz/train-clean-360/7095/88484/7095_88484_000001_000000.wav|train-clean-360|25.15|Wesseling
+enm_8848|M|../dataset/LibriTTS_22050Hz/train-clean-360/8848/293957/8848_293957_000001_000000.wav|train-clean-360|25.12|Craig Kenneth Bryant
+enm_5246|M|../dataset/LibriTTS_22050Hz/train-clean-360/5246/5084/5246_5084_000005_000000.wav|train-clean-360|22.77|Mike Bloomfield
+enf_6904|F|../dataset/LibriTTS_22050Hz/train-clean-360/6904/262291/6904_262291_000002_000000.wav|train-clean-360|24.57|Kirsten Nelson
+enf_4057|F|../dataset/LibriTTS_22050Hz/train-clean-360/4057/11254/4057_11254_000001_000000.wav|train-clean-360|25.26|RoseA
+enf_5400|F|../dataset/LibriTTS_22050Hz/train-clean-360/5400/34479/5400_34479_000001_000000.wav|train-clean-360|25.25|Natalie Sullivan
+enm_5123|M|../dataset/LibriTTS_22050Hz/train-clean-360/5123/29120/5123_29120_000008_000000.wav|train-clean-360|25.11|wvthcomp
+enm_708|M|../dataset/LibriTTS_22050Hz/train-clean-360/708/129393/708_129393_000001_000000.wav|train-clean-360|21.01|Kevin Devine
+enf_100|F|../dataset/LibriTTS_22050Hz/train-clean-360/100/121669/100_121669_000001_000000.wav|train-clean-360|25.06|Judy Bieber
+enm_1571|M|../dataset/LibriTTS_22050Hz/train-clean-360/1571/141320/1571_141320_000005_000000.wav|train-clean-360|25.24|Bob Tassinari
+enf_6286|F|../dataset/LibriTTS_22050Hz/train-clean-360/6286/69422/6286_69422_000003_000002.wav|train-clean-360|25.01|Wendy Almeida
+enm_8875|M|../dataset/LibriTTS_22050Hz/train-clean-360/8875/293959/8875_293959_000004_000001.wav|train-clean-360|17.77|David D'Huet
+enf_2775|F|../dataset/LibriTTS_22050Hz/train-clean-360/2775/161226/2775_161226_000003_000000.wav|train-clean-360|25.17|ink tree
+enf_3728|F|../dataset/LibriTTS_22050Hz/train-clean-360/3728/105398/3728_105398_000001_000000.wav|train-clean-360|25.17|amycs
+enm_2618|M|../dataset/LibriTTS_22050Hz/train-clean-360/2618/138042/2618_138042_000001_000000.wav|train-clean-360|24.51|Phil Surette
+enm_6981|M|../dataset/LibriTTS_22050Hz/train-clean-360/6981/70843/6981_70843_000001_000000.wav|train-clean-360|25.09|nlonghu
+enm_353|M|../dataset/LibriTTS_22050Hz/train-clean-360/353/128309/353_128309_000001_000000.wav|train-clean-360|20.10|Jamey Osborne
+enf_5618|F|../dataset/LibriTTS_22050Hz/train-clean-360/5618/48831/5618_48831_000002_000000.wav|train-clean-360|25.07|Shirleyroses
+enm_2827|M|../dataset/LibriTTS_22050Hz/train-clean-360/2827/170438/2827_170438_000001_000000.wav|train-clean-360|21.49|David Leeson
+enf_6567|F|../dataset/LibriTTS_22050Hz/train-clean-360/6567/53342/6567_53342_000001_000000.wav|train-clean-360|25.05|vikvenom
+enf_6643|F|../dataset/LibriTTS_22050Hz/train-clean-360/6643/67851/6643_67851_000001_000000.wav|train-clean-360|25.14|cbooren
+enm_122|M|../dataset/LibriTTS_22050Hz/train-clean-360/122/129752/122_129752_000001_000003.wav|train-clean-360|25.15|J.C.
+enm_5746|M|../dataset/LibriTTS_22050Hz/train-clean-360/5746/48361/5746_48361_000001_000000.wav|train-clean-360|25.08|DL Pead
+enf_5489|F|../dataset/LibriTTS_22050Hz/train-clean-360/5489/10988/5489_10988_000001_000000.wav|train-clean-360|22.21|LizMourant
+enm_6993|M|../dataset/LibriTTS_22050Hz/train-clean-360/6993/83607/6993_83607_000000_000001.wav|train-clean-360|25.24|Seyed
+enm_8008|M|../dataset/LibriTTS_22050Hz/train-clean-360/8008/271817/8008_271817_000001_000000.wav|train-clean-360|25.18|Paul Adamson
+enm_8635|M|../dataset/LibriTTS_22050Hz/train-clean-360/8635/295756/8635_295756_000000_000000.wav|train-clean-360|25.07|ACBowgus
+enf_7739|F|../dataset/LibriTTS_22050Hz/train-clean-360/7739/107483/7739_107483_000001_000000.wav|train-clean-360|25.19|Melissa Burns-Price
+enf_3546|F|../dataset/LibriTTS_22050Hz/train-clean-360/3546/9342/3546_9342_000003_000003.wav|train-clean-360|25.21|Jeannie
+enf_3258|F|../dataset/LibriTTS_22050Hz/train-clean-360/3258/169291/3258_169291_000001_000001.wav|train-clean-360|23.50|mwalimu
+enf_5622|F|../dataset/LibriTTS_22050Hz/train-clean-360/5622/41172/5622_41172_000002_000000.wav|train-clean-360|25.15|Roseanne Schmidt
+enf_7783|F|../dataset/LibriTTS_22050Hz/train-clean-360/7783/107487/7783_107487_000006_000000.wav|train-clean-360|20.00|Rebecca Owens
+enf_4064|F|../dataset/LibriTTS_22050Hz/train-clean-360/4064/12118/4064_12118_000005_000000.wav|train-clean-360|25.12|Margaret Espaillat
+enf_6683|F|../dataset/LibriTTS_22050Hz/train-clean-360/6683/63839/6683_63839_000001_000000.wav|train-clean-360|25.22|Julia Kelley
+enm_8176|M|../dataset/LibriTTS_22050Hz/train-clean-360/8176/115047/8176_115047_000001_000000.wav|train-clean-360|18.78|Jon Kerfoot
+enm_2531|M|../dataset/LibriTTS_22050Hz/train-clean-360/2531/156718/2531_156718_000009_000000.wav|train-clean-360|25.12|Greg Weeks
+enf_2790|F|../dataset/LibriTTS_22050Hz/train-clean-360/2790/142824/2790_142824_000005_000000.wav|train-clean-360|25.09|Victoria Slonosky
+enf_1079|F|../dataset/LibriTTS_22050Hz/train-clean-360/1079/128636/1079_128636_000001_000000.wav|train-clean-360|21.26|Mary aka Breadchick
+enf_208|F|../dataset/LibriTTS_22050Hz/train-clean-360/208/126851/208_126851_000005_000000.wav|train-clean-360|13.28|Andrea L
+enm_329|M|../dataset/LibriTTS_22050Hz/train-clean-360/329/861/329_861_000002_000000.wav|train-clean-360|25.09|Todd Cranston-Cuebas
+enf_1289|F|../dataset/LibriTTS_22050Hz/train-clean-360/1289/288044/1289_288044_000002_000001.wav|train-clean-360|25.00|Joanne Pauwels
+enf_1448|F|../dataset/LibriTTS_22050Hz/train-clean-360/1448/135894/1448_135894_000003_000002.wav|train-clean-360|25.07|marevalo
+enm_5868|M|../dataset/LibriTTS_22050Hz/train-clean-360/5868/55088/5868_55088_000008_000000.wav|train-clean-360|25.06|alwpoe
+enf_4592|F|../dataset/LibriTTS_22050Hz/train-clean-360/4592/26872/4592_26872_000004_000002.wav|train-clean-360|25.08|WestWestest
+enm_439|M|../dataset/LibriTTS_22050Hz/train-clean-360/439/122810/439_122810_000008_000000.wav|train-clean-360|25.16|Robert Garrison
+enm_5242|M|../dataset/LibriTTS_22050Hz/train-clean-360/5242/35921/5242_35921_000003_000000.wav|train-clean-360|22.52|Michael Monhollon
+enf_225|F|../dataset/LibriTTS_22050Hz/train-clean-360/225/131259/225_131259_000000_000002.wav|train-clean-360|25.17|Brenda Dayne
+enm_6550|M|../dataset/LibriTTS_22050Hz/train-clean-360/6550/53320/6550_53320_000005_000001.wav|train-clean-360|25.07|elfpen
+enm_7665|M|../dataset/LibriTTS_22050Hz/train-clean-360/7665/104978/7665_104978_000007_000000.wav|train-clean-360|23.27|Christian Mitchell
+enm_5727|M|../dataset/LibriTTS_22050Hz/train-clean-360/5727/47030/5727_47030_000009_000000.wav|train-clean-360|25.25|JDavidMoore
+enf_1259|F|../dataset/LibriTTS_22050Hz/train-clean-360/1259/27120/1259_27120_000023_000000.wav|train-clean-360|25.12|Elizabeth Klett
+enf_4957|F|../dataset/LibriTTS_22050Hz/train-clean-360/4957/36386/4957_36386_000003_000000.wav|train-clean-360|25.06|P Moscato
+enm_1603|M|../dataset/LibriTTS_22050Hz/train-clean-360/1603/140931/1603_140931_000001_000000.wav|train-clean-360|25.16|Arouet
+enf_3967|F|../dataset/LibriTTS_22050Hz/train-clean-360/3967/29012/3967_29012_000001_000000.wav|train-clean-360|21.86|Christine Dufour
+enm_510|M|../dataset/LibriTTS_22050Hz/train-clean-360/510/130101/510_130101_000001_000000.wav|train-clean-360|25.07|Kirk Thomas
+enf_1425|F|../dataset/LibriTTS_22050Hz/train-clean-360/1425/139291/1425_139291_000001_000000.wav|train-clean-360|25.26|Jeanette Ferguson
+enm_2960|M|../dataset/LibriTTS_22050Hz/train-clean-360/2960/155151/2960_155151_000001_000000.wav|train-clean-360|25.03|Scotty
+enf_7730|F|../dataset/LibriTTS_22050Hz/train-clean-360/7730/304534/7730_304534_000001_000000.wav|train-clean-360|25.23|Fiddlesticks
+enf_2411|F|../dataset/LibriTTS_22050Hz/train-clean-360/2411/132530/2411_132530_000001_000000.wav|train-clean-360|25.04|kristiface
+enf_8825|F|../dataset/LibriTTS_22050Hz/train-clean-360/8825/292252/8825_292252_000007_000000.wav|train-clean-360|23.93|Erin Schellhase
+enf_6215|F|../dataset/LibriTTS_22050Hz/train-clean-360/6215/62347/6215_62347_000001_000000.wav|train-clean-360|25.08|Janet248
+enf_3703|F|../dataset/LibriTTS_22050Hz/train-clean-360/3703/71550/3703_71550_000001_000000.wav|train-clean-360|25.06|Linda Andrus
+enf_1678|F|../dataset/LibriTTS_22050Hz/train-clean-360/1678/142279/1678_142279_000002_000000.wav|train-clean-360|25.08|leonardswench
+enf_98|F|../dataset/LibriTTS_22050Hz/train-clean-360/98/121658/98_121658_000002_000000.wav|train-clean-360|25.03|Patricia Oakley
+enm_17|M|../dataset/LibriTTS_22050Hz/train-clean-360/17/363/17_363_000001_000000.wav|train-clean-360|25.04|Gord Mackenzie
+enm_119|M|../dataset/LibriTTS_22050Hz/train-clean-360/119/129513/119_129513_000001_000000.wav|train-clean-360|25.11|Alex Patterson
+enm_3274|M|../dataset/LibriTTS_22050Hz/train-clean-360/3274/163518/3274_163518_000000_000000.wav|train-clean-360|25.26|Morgan Saletta
+enm_1383|M|../dataset/LibriTTS_22050Hz/train-clean-360/1383/130533/1383_130533_000004_000000.wav|train-clean-360|23.92|David Best
+enf_8057|F|../dataset/LibriTTS_22050Hz/train-clean-360/8057/296395/8057_296395_000008_000000.wav|train-clean-360|16.93|Linda Dougherty
+enf_3851|F|../dataset/LibriTTS_22050Hz/train-clean-360/3851/9210/3851_9210_000010_000003.wav|train-clean-360|25.26|mbousquet
+enf_4744|F|../dataset/LibriTTS_22050Hz/train-clean-360/4744/4158/4744_4158_000001_000000.wav|train-clean-360|25.15|Amy Gramour
+enm_6157|M|../dataset/LibriTTS_22050Hz/train-clean-360/6157/40556/6157_40556_000012_000000.wav|train-clean-360|22.97|HotConflict
+enf_7316|F|../dataset/LibriTTS_22050Hz/train-clean-360/7316/10642/7316_10642_000002_000000.wav|train-clean-360|18.80|Joy S Grape
+enf_7982|F|../dataset/LibriTTS_22050Hz/train-clean-360/7982/110054/7982_110054_000001_000000.wav|train-clean-360|25.11|Lori Arsenault
+enm_1801|M|../dataset/LibriTTS_22050Hz/train-clean-360/1801/138032/1801_138032_000003_000000.wav|train-clean-360|16.59|Antonio
+enf_7733|F|../dataset/LibriTTS_22050Hz/train-clean-360/7733/106800/7733_106800_000002_000002.wav|train-clean-360|19.49|Jewel Raquel
+enm_3180|M|../dataset/LibriTTS_22050Hz/train-clean-360/3180/138043/3180_138043_000001_000000.wav|train-clean-360|25.01|Mike Conrad
+enm_820|M|../dataset/LibriTTS_22050Hz/train-clean-360/820/123133/820_123133_000014_000001.wav|train-clean-360|24.64|Scoot
+enf_3733|F|../dataset/LibriTTS_22050Hz/train-clean-360/3733/140718/3733_140718_000000_000001.wav|train-clean-360|25.01|Melanie Schleeter McCalmont
+enf_4519|F|../dataset/LibriTTS_22050Hz/train-clean-360/4519/6171/4519_6171_000001_000001.wav|train-clean-360|22.04|Mimi Wang
+enm_1336|M|../dataset/LibriTTS_22050Hz/train-clean-360/1336/138115/1336_138115_000014_000001.wav|train-clean-360|25.19|Charlie Blakemore
+enf_731|F|../dataset/LibriTTS_22050Hz/train-clean-360/731/365/731_365_000001_000000.wav|train-clean-360|25.14|Megan-Jane Daniels Suyasu
+enm_7241|M|../dataset/LibriTTS_22050Hz/train-clean-360/7241/90850/7241_90850_000002_000000.wav|train-clean-360|25.16|AdrianBisson
+enm_5002|M|../dataset/LibriTTS_22050Hz/train-clean-360/5002/70998/5002_70998_000002_000000.wav|train-clean-360|22.52|Brendan Stallard
+enm_711|M|../dataset/LibriTTS_22050Hz/train-clean-360/711/187464/711_187464_000035_000002.wav|train-clean-360|25.13|Roy Schreiber
+enf_1050|F|../dataset/LibriTTS_22050Hz/train-clean-360/1050/134120/1050_134120_000002_000000.wav|train-clean-360|25.04|entada
+enf_2638|F|../dataset/LibriTTS_22050Hz/train-clean-360/2638/10172/2638_10172_000002_000002.wav|train-clean-360|25.02|Dawn
+enm_8396|M|../dataset/LibriTTS_22050Hz/train-clean-360/8396/120280/8396_120280_000002_000000.wav|train-clean-360|25.16|gloriousjob
+enm_4246|M|../dataset/LibriTTS_22050Hz/train-clean-360/4246/12544/4246_12544_000002_000000.wav|train-clean-360|15.61|JLaddJr
+enm_1811|M|../dataset/LibriTTS_22050Hz/train-clean-360/1811/129443/1811_129443_000003_000001.wav|train-clean-360|20.41|Eric Ray
+enm_2285|M|../dataset/LibriTTS_22050Hz/train-clean-360/2285/163381/2285_163381_000006_000001.wav|train-clean-360|25.16|Bob Sage
+enm_2113|M|../dataset/LibriTTS_22050Hz/train-clean-360/2113/132485/2113_132485_000002_000000.wav|train-clean-360|24.66|Andrew Vidal
+enm_5293|M|../dataset/LibriTTS_22050Hz/train-clean-360/5293/82020/5293_82020_000000_000000.wav|train-clean-360|21.97|Ned Troxel
+enf_451|F|../dataset/LibriTTS_22050Hz/train-clean-360/451/126826/451_126826_000000_000000.wav|train-clean-360|22.93|Sonserae Leese-Calver
+enf_1390|F|../dataset/LibriTTS_22050Hz/train-clean-360/1390/130494/1390_130494_000021_000000.wav|train-clean-360|16.65|C.L.Coney
+enf_8228|F|../dataset/LibriTTS_22050Hz/train-clean-360/8228/232690/8228_232690_000006_000001.wav|train-clean-360|7.38|hgal2010
+enf_6189|F|../dataset/LibriTTS_22050Hz/train-clean-360/6189/21305/6189_21305_000001_000000.wav|train-clean-360|23.67|Shana Cohen
+enm_3490|M|../dataset/LibriTTS_22050Hz/train-clean-360/3490/177641/3490_177641_000003_000000.wav|train-clean-360|25.10|Gregg Margarite (1957-2012)
+enm_7720|M|../dataset/LibriTTS_22050Hz/train-clean-360/7720/105168/7720_105168_000001_000000.wav|train-clean-360|25.03|jeffwiltzius
+enm_5909|M|../dataset/LibriTTS_22050Hz/train-clean-360/5909/107621/5909_107621_000003_000000.wav|train-clean-360|25.14|Mark Mickelson
+enf_7594|F|../dataset/LibriTTS_22050Hz/train-clean-360/7594/101832/7594_101832_000005_000000.wav|train-clean-360|25.00|Kristel Tretter
+enm_7956|M|../dataset/LibriTTS_22050Hz/train-clean-360/7956/245687/7956_245687_000001_000000.wav|train-clean-360|20.78|Devon Purtz
+enm_340|M|../dataset/LibriTTS_22050Hz/train-clean-360/340/124368/340_124368_000004_000000.wav|train-clean-360|25.17|Scott Henkel
+enm_8705|M|../dataset/LibriTTS_22050Hz/train-clean-360/8705/290361/8705_290361_000000_000000.wav|train-clean-360|25.00|dsilber01
+enm_2240|M|../dataset/LibriTTS_22050Hz/train-clean-360/2240/148521/2240_148521_000001_000000.wav|train-clean-360|25.17|Ralph Volpi
+enf_7140|F|../dataset/LibriTTS_22050Hz/train-clean-360/7140/72205/7140_72205_000001_000000.wav|train-clean-360|23.60|Deanna Bovee
+enm_1027|M|../dataset/LibriTTS_22050Hz/train-clean-360/1027/125140/1027_125140_000006_000000.wav|train-clean-360|25.09|Brooks Jensen
+enm_7688|M|../dataset/LibriTTS_22050Hz/train-clean-360/7688/112187/7688_112187_000000_000000.wav|train-clean-360|25.19|Leslie Walden
+enm_986|M|../dataset/LibriTTS_22050Hz/train-clean-360/986/129388/986_129388_000002_000004.wav|train-clean-360|15.96|Michael Kirkpatrick
+enm_4148|M|../dataset/LibriTTS_22050Hz/train-clean-360/4148/134149/4148_134149_000001_000000.wav|train-clean-360|25.18|David A. Moore.
+enf_1460|F|../dataset/LibriTTS_22050Hz/train-clean-360/1460/138290/1460_138290_000007_000001.wav|train-clean-360|25.01|E. Plein
+enm_1487|M|../dataset/LibriTTS_22050Hz/train-clean-360/1487/133273/1487_133273_000000_000004.wav|train-clean-360|23.93|radioreader
+enm_2238|M|../dataset/LibriTTS_22050Hz/train-clean-360/2238/121413/2238_121413_000006_000001.wav|train-clean-360|25.09|Will Larson
+enm_8119|M|../dataset/LibriTTS_22050Hz/train-clean-360/8119/115687/8119_115687_000001_000000.wav|train-clean-360|25.16|Malcolm Cameron
+enm_8152|M|../dataset/LibriTTS_22050Hz/train-clean-360/8152/282985/8152_282985_000001_000000.wav|train-clean-360|25.20|Bigcowfeet
+enf_5684|F|../dataset/LibriTTS_22050Hz/train-clean-360/5684/46240/5684_46240_000003_000001.wav|train-clean-360|22.39|Elsa Youngsteadt
+enf_4427|F|../dataset/LibriTTS_22050Hz/train-clean-360/4427/20023/4427_20023_000001_000000.wav|train-clean-360|25.06|Lynne Handler
+enf_597|F|../dataset/LibriTTS_22050Hz/train-clean-360/597/133239/597_133239_000004_000000.wav|train-clean-360|25.25|Lisa Chau
+enm_5092|M|../dataset/LibriTTS_22050Hz/train-clean-360/5092/28462/5092_28462_000001_000000.wav|train-clean-360|25.24|Josh Smith
+enm_8820|M|../dataset/LibriTTS_22050Hz/train-clean-360/8820/294120/8820_294120_000004_000000.wav|train-clean-360|25.19|Ignare
+enm_1365|M|../dataset/LibriTTS_22050Hz/train-clean-360/1365/134830/1365_134830_000006_000004.wav|train-clean-360|25.19|Joel Poortenga
+enm_4236|M|../dataset/LibriTTS_22050Hz/train-clean-360/4236/8927/4236_8927_000004_000003.wav|train-clean-360|16.01|Nicholas Feulner
+enf_979|F|../dataset/LibriTTS_22050Hz/train-clean-360/979/128678/979_128678_000008_000001.wav|train-clean-360|5.59|Kelli Robinson
+enm_5186|M|../dataset/LibriTTS_22050Hz/train-clean-360/5186/7793/5186_7793_000001_000001.wav|train-clean-360|25.00|Brendan Brown
+enf_7276|F|../dataset/LibriTTS_22050Hz/train-clean-360/7276/284424/7276_284424_000010_000000.wav|train-clean-360|25.00|ASPotter
+enm_6494|M|../dataset/LibriTTS_22050Hz/train-clean-360/6494/60801/6494_60801_000002_000000.wav|train-clean-360|25.15|Morey Kunin
+enm_3914|M|../dataset/LibriTTS_22050Hz/train-clean-360/3914/10088/3914_10088_000020_000000.wav|train-clean-360|25.22|Rob James
+enm_1271|M|../dataset/LibriTTS_22050Hz/train-clean-360/1271/136861/1271_136861_000001_000001.wav|train-clean-360|25.18|Christian Pecaut
+enf_5337|F|../dataset/LibriTTS_22050Hz/train-clean-360/5337/37090/5337_37090_000003_000000.wav|train-clean-360|23.43|Danielle
+enf_7932|F|../dataset/LibriTTS_22050Hz/train-clean-360/7932/278228/7932_278228_000001_000000.wav|train-clean-360|25.25|Tammy Stalcup
+enf_5538|F|../dataset/LibriTTS_22050Hz/train-clean-360/5538/70919/5538_70919_000002_000000.wav|train-clean-360|25.06|Linda Velwest
+enm_4856|M|../dataset/LibriTTS_22050Hz/train-clean-360/4856/12103/4856_12103_000002_000000.wav|train-clean-360|25.04|Steven Seitel
+enf_6014|F|../dataset/LibriTTS_22050Hz/train-clean-360/6014/32904/6014_32904_000002_000000.wav|train-clean-360|25.09|Tina Nuzzi
+enm_7437|M|../dataset/LibriTTS_22050Hz/train-clean-360/7437/99249/7437_99249_000001_000000.wav|train-clean-360|25.20|Graham McMillan
+enm_258|M|../dataset/LibriTTS_22050Hz/train-clean-360/258/121528/258_121528_000004_000000.wav|train-clean-360|24.53|Kurt Wong
+enm_8791|M|../dataset/LibriTTS_22050Hz/train-clean-360/8791/291101/8791_291101_000003_000000.wav|train-clean-360|23.93|ScottReyonoldsVoice
+enm_176|M|../dataset/LibriTTS_22050Hz/train-clean-360/176/123269/176_123269_000000_000000.wav|train-clean-360|25.20|Vinny Bove
+enf_1923|F|../dataset/LibriTTS_22050Hz/train-clean-360/1923/161975/1923_161975_000003_000001.wav|train-clean-360|25.05|Maire Rhode
+enf_9023|F|../dataset/LibriTTS_22050Hz/train-clean-360/9023/296467/9023_296467_000004_000003.wav|train-clean-360|25.19|P. J. Morgan
+enf_7959|F|../dataset/LibriTTS_22050Hz/train-clean-360/7959/109185/7959_109185_000001_000000.wav|train-clean-360|25.03|Lily Took
+enm_764|M|../dataset/LibriTTS_22050Hz/train-clean-360/764/132280/764_132280_000001_000004.wav|train-clean-360|25.08|Carl Vonnoh, III
+enf_4837|F|../dataset/LibriTTS_22050Hz/train-clean-360/4837/302000/4837_302000_000002_000000.wav|train-clean-360|21.92|Sharon Kilmer
+enf_3816|F|../dataset/LibriTTS_22050Hz/train-clean-360/3816/19585/3816_19585_000006_000000.wav|train-clean-360|25.05|Bev J Stevens
+enf_8194|F|../dataset/LibriTTS_22050Hz/train-clean-360/8194/89390/8194_89390_000000_000001.wav|train-clean-360|25.04|MsMO
+enf_699|F|../dataset/LibriTTS_22050Hz/train-clean-360/699/132864/699_132864_000008_000000.wav|train-clean-360|25.06|Diana Kiesners
+enf_1061|F|../dataset/LibriTTS_22050Hz/train-clean-360/1061/152224/1061_152224_000005_000004.wav|train-clean-360|25.14|Missie
+enm_815|M|../dataset/LibriTTS_22050Hz/train-clean-360/815/130105/815_130105_000003_000000.wav|train-clean-360|16.20|mawrtea
+enm_4425|M|../dataset/LibriTTS_22050Hz/train-clean-360/4425/14497/4425_14497_000001_000000.wav|train-clean-360|17.73|Gary Coy
+enm_3171|M|../dataset/LibriTTS_22050Hz/train-clean-360/3171/68344/3171_68344_000002_000000.wav|train-clean-360|25.11|JoeD
+enf_4839|F|../dataset/LibriTTS_22050Hz/train-clean-360/4839/15307/4839_15307_000001_000002.wav|train-clean-360|25.06|Julie K. Rose
+enm_4358|M|../dataset/LibriTTS_22050Hz/train-clean-360/4358/44937/4358_44937_000005_000000.wav|train-clean-360|25.11|Kim Stich
+enm_1322|M|../dataset/LibriTTS_22050Hz/train-clean-360/1322/137589/1322_137589_000002_000000.wav|train-clean-360|25.17|chris tierney
+enm_2397|M|../dataset/LibriTTS_22050Hz/train-clean-360/2397/162239/2397_162239_000001_000000.wav|train-clean-360|25.14|texttalker
+enf_7398|F|../dataset/LibriTTS_22050Hz/train-clean-360/7398/98876/7398_98876_000001_000001.wav|train-clean-360|25.09|Marie Daum
+enf_6139|F|../dataset/LibriTTS_22050Hz/train-clean-360/6139/58869/6139_58869_000001_000000.wav|train-clean-360|25.08|Lois C. Johnson
+enm_1311|M|../dataset/LibriTTS_22050Hz/train-clean-360/1311/134170/1311_134170_000001_000000.wav|train-clean-360|25.04|Scott D. Farquhar
+enm_2039|M|../dataset/LibriTTS_22050Hz/train-clean-360/2039/141209/2039_141209_000021_000000.wav|train-clean-360|25.02|Anton
+enm_8592|M|../dataset/LibriTTS_22050Hz/train-clean-360/8592/285135/8592_285135_000014_000001.wav|train-clean-360|18.66|Dylan Posa
+enf_1547|F|../dataset/LibriTTS_22050Hz/train-clean-360/1547/130184/1547_130184_000005_000001.wav|train-clean-360|17.45|Riddleman
+enf_1066|F|../dataset/LibriTTS_22050Hz/train-clean-360/1066/5330/1066_5330_000001_000000.wav|train-clean-360|25.20|Laurie Anne Walden
+enm_8222|M|../dataset/LibriTTS_22050Hz/train-clean-360/8222/274378/8222_274378_000003_000000.wav|train-clean-360|25.09|Greg Golding
