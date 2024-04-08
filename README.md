@@ -1,6 +1,7 @@
 # Tacotron2-ZS (Tacotron2 based Zero-shot Voice Cloning)
 
 PyTorch implementation of "Zero-Shot Voice Cloning Text-to-Speech for Dysphonia Disorder Speakers". 
+We forked Tacotron-2 implementation by [Rafael Valle](https://github.com/NVIDIA/tacotron2) and made some necessary modifications.
 
 ## Model Inference
 ![Model Inference](ZS-TTS-Dysphonia-Inference.drawio.png)
